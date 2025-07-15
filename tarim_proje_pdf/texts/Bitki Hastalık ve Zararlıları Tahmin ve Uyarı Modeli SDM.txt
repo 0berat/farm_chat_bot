@@ -1,0 +1,74 @@
+BİTKİ HASTALIK VE ZARARLILARI TAHMİN VE UYARI MODELİ  
+STANDART DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Deneme; hastalığa duyarlı ve/veya zararlının sorun olduğu meyve, sebze, hububat, endüstri 
+bitkisi vb. ürünlerden yaygın olarak yetiştiriciliği yapılan bir çeşitte yürütülür. 
+Test organizması olarak, hastalık ve/veya zararlının uygun biyolojik dönemi hedef alınır.  
+1.2. Deneme Yerinin Özellikleri 
+Deneme, hastalık veya zararlının her yıl görüldüğü ve/veya ekonomik olarak verim kaybına 
+neden olduğu konukçu bitkinin tek bir çeşidinde kurulur. Denemeyi yaptıran firmanın aynı 
+kültür bitkisinde birden fazla etmene (hastalık ve/veya zararlı) karşı yazılım modeli varsa, test 
+edilecek bu modeller ayrı bahçe/tarlada denenir.  
+Deneme, seçilen kültür bitkisinin yaygın olarak yetiştiriciliği yapılan bir ilde ve ilin farklı 
+topoğrafik ve/veya iklimsel özelliğe sahip 3 farklı lokasyonunda ve her ilde en az üç yıl olmak 
+üzere kurulur. 
+Deneme süresince uygulanacak kültürel işlemler, her bir deneme alanında aynı olmalıdır. 
+Deneme alanındaki kültür bitkisi aynı yaş, çeşit, büyüklük ve verim döneminde olmalı, sıra 
+arası ve sıra üzeri mesafe verilmelidir.  
+1.3. Deneme Deseni ve Tertibi 
+Deneme, geniş parseller deneme desenine göre kurulur. Tahmin ve uyarı model denemesi 
+yapılacak alanın parsel büyüklüğü en az 5 da olmalıdır. Karşılaştırma karakteri olarak, 
+fenolojiye ve/veya popülasyon yoğunluğuna göre ilaçlama yapılan ve ilaçlama yapılmayan 
+olmak üzere iki ayrı karakter alınır. Her iki parselin büyüklükleri de en az 1 da olmalıdır.   
+2. TAHMİN VE UYARI MODELLERİNİN UYGULANMASI  
+2.1. Denemeye Alınacak Tahmin ve Uyarı Modelleri 
+Denemeye alınacak modellerin ticari adı, firması, uygulandığı ülke ve model özellikleri 
+verilmelidir. 
+Tahmin ve uyarı model denemesi yapılan parsel ve ilaçlı kontrol parselinde, ülkemizde 
+ruhsatlı bitki koruma ürünleri seçilir ve her iki parselde de aynı bitki koruma ürünleri 
+kullanılır. Denemede kullanılan bitki koruma ürünleri raporlarda belirtilmelidir.  
+2.2.Bitki Koruma Ürününün Uygulama Şekli 
+2.2.1.Uygulamanın Tipi 
+İlaçlama, tahmin ve uyarı modelinin denendiği kültür bitkisindeki hastalık ve/veya zararlıya 
+karşı denemede kullanılacak bitki koruma ürünlerinin etiketinde belirtildiği şekilde yapılır. 
+2.2.2.Kullanılan Aletin Tipi 
+Tahmin ve uyarı modeli denenen ve ilaçlı karşılaştırma parsellerindeki ilaçlamalar, bütün 
+deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel ilaçlama (kısmi dal, gövde 
+vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği doğrudan 
+etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme verdisi,  
+ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, kullanılan zirai 
+mücadele alet - makinesi ve ilaçlama başlıklarının ticari adı ile birlikte kaydedilmelidir. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+1 
+T A G E M
+2.2.3.Uygulama zamanı ve Sayısı  
+Denemesi yapılacak tahmin ve uyarı model yazılımı bulunan elektronik iklim istasyonu, 
+firmanın farklı bir önerisi yoksa, deneme yapılacak yılın 01 Ocak tarihinden itibaren veri 
+alacak şekilde deneme alanına kurulur. Model denemesi yapılan parseldeki ilaçlamalar, ilgili 
+modelin vereceği uyarılara göre yapılır. İlaçlı karşılaştırma parselindeki ilaçlamalar ise, ilgili 
+hastalık ve/veya zararlının denendiği kültür bitkisindeki Zirai Mücadele Teknik Talimatına 
+göre yapılır. Denemedeki ilaçlama sayıları ve tarihleri kayıt edilmelidir. 
+2.2.4.Denemede Kullanılan Diğer Bitki Koruma Ürünleri  Hakkında Bilgiler 
+Deneme parsellerinde modelin hedef aldığı hastalık ve/veya zararlı dışındaki diğer hastalık ve 
+zararlılara karşı, hedef hastalık ve zararlıya etkili  farklı bir preparat kullanılmamalıdır. Farklı 
+ilaçların kullanılması zorunlu ise, bu ilaçlar deneme ilacından ayrı olarak uygulanmalıdır. 
+Uygulamalar hakkında ayrıntılı bilgi verilmelidir.  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasındaki yağış, sıcaklık, orantılı nem ve rüzgâr hızı gibi iklim verileri denemenin 
+yapıldığı alana kurulmuş olan elektronik iklim istasyonundan alınır. Deneme süresince 
+şiddetli kuraklık ve sağanak yağış, dolu vb. gibi deneme sonucunu etkileyecek hava koşulları 
+da kaydedilmelidir.  
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Sayımlar, deneme parsellerinde kültür bitkisindeki hastalık ve/veya zararlı ile ilgili Standart 
+İlaç Deneme Metoduna göre yapılır ve sayım tarihleri kayıt edilir.  
+4. SONUÇLAR 
+Sayım sonuçları, tahmin ve uyarı modelinin denendiği hedef hastalık ve/veya zararlı ile ilgili 
+Standart İlaç Deneme Metoduna göre, uygun bir istatistiksel analiz ile değerlendirilir. 
+Hastalık etmenleri için ilk uyarıdan sonra kontrol yapılır ondan sonra enfeksiyon olup 
+olmadığı, enfeksiyon tarihi ve belirti çıkış tarihi kaydedilir. Kontrol parselindeki ilk belirti 
+tarihi ile modelin verdiği ilk enfeksiyon tarihi karşılaştırılır. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+2 
+T A G E M

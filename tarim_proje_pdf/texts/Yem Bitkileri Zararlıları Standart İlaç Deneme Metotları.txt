@@ -1,0 +1,705 @@
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+I 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+İÇİNDEKİLER 
+ YEM BİTKİLERİ ZARARLILARI STANDART İLAÇ DENEME METOTLARI ............................. 1 
+ YONCA HORTUMLU BÖCEĞİ [Hypera variabilis Herbst (Coleoptera:Curculionidae)] 
+STANDART İLAÇ DENEME METODU .............................................................................................. 1 
+ EK-1 ZİRAİ MÜCADELE ALET VE MAKİNALARININ KALİBRASYONU ................................... 4 
+ EK-2 BİTKİ ZARARLILARI FİTOTOKSİSİTE REHBERİ ................................................................. 14 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+II 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+YEM BİTKİLERİ ZARARLILARI 
+STANDART İLAÇ DENEME METOTLARI 
+YONCA HORTUMLU BÖCEĞİ 
+[Hypera variabilis Herbst (Coleoptera: Curculionidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Deneme yonca (Medicago sativa L.) tarlasında kurulur. Test organizması olarak yonca 
+hortumlu böceğinin larva ve ergini alınır.  
+Yürütülen denemelerde bitkiye ilişkin özellikler (yetiştirme tekniği, bitki boyu, sıra arası ve 
+sıra üzeri mesafe vb. özellikler) belirtilmelidir.  
+1.2. Deneme Yerinin Özellikleri  
+Deneme geniş yonca ekiliş sahalarının olduğu bir bölgede ve Yonca hortumlu böceği'nin 
+yoğun olduğu yerlerde, tarla denemesi şeklinde kurulmalıdır. Bitkilerin tüm yeşil aksamı 
+kontrol edilerek 1 m2’de 25 adet ergin+larva tespit edildiğinde deneme açılmalıdır. 
+1.3. Deneme Deseni ve Tertibi  
+Deneme tesadüf blokları deneme desenine göre açılır. Denenecek ilaçlar, karşılaştırma ilacı ve 
+kontrol denemenin karakterlerini oluşturur. Tekerrür sayısı, hata serbestlik derecesi 9’dan az 
+olmamak şartıyla en az 4 olmalıdır. Parsel büyüklüğü ise en az 100 m2 olmalıdır. Parseller 
+arasında 3-5 m emniyet şeridi bırakılmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formülasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+Yüzey ilaçlaması yapılır. Bitkilerin tümünün çok iyi ilaçlanmasına özen gösterilmelidir. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+1 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+2.3.2. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği 
+doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme 
+verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, kullanılan 
+zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte kaydedilmelidir. 
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı  
+İlaçlama bitki boyu 15-30 cm olduğunda ve yeterli zararlı yoğunluğu bulunduğunda 
+yapılmalıdır. Bir ilaçlama yeterlidir. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preparat olarak alınmalı ve her parsele sarf edilecek 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek–1). 
+2.3.5. Uygulamanın Diğer Zararlılara, Hastalıklara ve Yabancı Otlara Karşı Kullanılan 
+İlaçlarla İlişkileri Hakkında Bilgiler 
+Eğer diğer ilaçların kullanılması zorunlu ise, bu ilaçlar deneme ilacı ve karşılaştırma ilacından 
+ayrı olarak tüm parsellere homojen bir şekilde uygulanmalıdır. Bu uygulamanın denemeyi en 
+az düzeyde etkilemesi sağlanmalıdır. Uygulama hakkında ayrıntılı bilgi verilmelidir. 
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı, denemenin yapıldığı yerden 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+Parselin genel gözlemi yapıldıktan sonra, kenarlardan birer metre içeriden başlayarak, 
+köşegenler boyunca her köşegenden 50 bitki (tek dal) dipten kesilerek toplanır. Toplam 100 
+bitki polietilen torbalara konur. Parsel numarası belirtilir. Laboratuvarda canlı larva adetleri 
+her parsel için ayrı ayrı kaydedilir. Sayımlar ilaçlamadan önce ve ilaçlamadan 1, 3 ve 7 gün 
+sonra yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız. 
+3.4. Uygulamanın Diğer Organizmalara Etkisi 
+3.4.1. Uygulamanın Diğer Zararlılar, Hastalıklar ve Yabancı Otlar Üzerine Etkisi 
+Denemede kullanılan ilaçların denemenin yapıldığı alanlarda bulunan diğer zararlı, hastalık ve 
+yabancı otlar üzerine olumlu veya olumsuz etkileri gözlenmeli ve bilgiler kaydedilmelidir.  
+3.4.2. Uygulamanın Hedef Olmayan Organizmalara Etkisi 
+Gerekli değildir. 
+3.5. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+2 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+4. SONUÇLAR 
+Değerlendirme canlı larva üzerinden yüzdesiz Abbott formülüne göre yapılır. Gerekirse 
+varyans analizi uygulanır. 
+Not: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun, yan etkileri az olan veya olmayan preparatlar için, 
+ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde metotta 
+gerekli değişiklikler yapılabilir. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+3 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+EK-1 
+ZİRAİ MÜCADELE ALET VE MAKİNALARININ KALİBRASYONU 
+İlaçlamalara başlamadan önce mutlaka iyi bir ilaçlama tekniği kullanımı için hazırlık 
+yapılmalıdır. İyi ilaçlama tekniği; 
+• 
+Parametrelerin doğru seçimi (meme, fan, ilerleme hızı, ilaç normu, basınç vb.), 
+• 
+Efektif bir kalibrasyon metodu, 
+• 
+Kullanıcı güvenliği, 
+• 
+Pülverizatör bakım ve temizliğini içerir. 
+İlaçlamanın yapılacağı hedef yüzeylerin, bitkinin ve tarla veya bahçenin özelliklerine göre 
+öncelikle mutlaka ilaçlama parametrelerinin seçilmesi gerekmektedir. Bu yapılmadan 
+kalibrasyon yapılması mümkün olmaz. Zaten bu koşulda yapılacak kalibrasyon bitki ve 
+arazinin ihtiyaçlarını karşılayamayacağından, ilaç uygulaması yetersiz kalır. 
+İlaç uygulamalarının efektif olabilmesi için kullanılan pülverizatörün çeşidi de son derece 
+önemlidir. Bitkilerin fiziksel özellikleri (şekli,yaprak boyutu, yüksekliği hacmi, büyüme 
+dönemi vb.) birbirinden farklı olduğu için uygun ilaçlamayı yapabilecek alet ve makina 
+seçiminin bu özelliklere uygun olarak yapılması gerekmektedir. Doğru makina kullanımı 
+uyulması gereken ilk kuraldır. 
+Her zirai mücadele alet ve makinasının teknik özellikleri birbirinden farklıdır. Hatta aynı 
+makinada zaman içerisinde oluşacak yıpranma ve aşınmalar sebebiyle uygulamalarda ilaç 
+normu, damla çapı, basınç vb. değerlerde (dolayısıyla atılan ilaç miktarında) önemli 
+farklılıklar oluşmaktadır. Ayrıca özellikle sırt pülverizatörü ve sırt atomizörlerinde kullanıcıya 
+bağlı olarak ilerleme hızı ve ilaç normu değiştiğinden ilaçlama etkinliği açısından farklı 
+sonuçlar alınabilir. Bu koşullar göz önüne alındığında kalibrasyonun önemi daha iyi 
+anlaşılabilir.  
+İyi bir kalibrasyon için şu değerlerin bilinmesi gerekir: 
+• 
+İlaç normu (l/ha), 
+• 
+Memenin tipi ve verdisi (l/dak), 
+• 
+Çalışma basıncı (bar), 
+• 
+İlerleme hızı (km/h). 
+Kolay ve doğru bir pülverizatör ayarı (kalibrasyon) yapılabilmesi için aşağıdaki işlem 
+basamakları takip edilmelidir: 
+• 
+Bütün deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makinanın seçilmesi, 
+• 
+Tüm filtrelerde dahil olmak üzere pülverizatörün kontrol edilmesi, 
+• 
+İlaç etiketinin dikkatli olarak okunması, 
+• 
+Kullanılacak ilaç ve mücadelesi yapılacak hastalık-zararlı ile bitki gözönünde 
+bulundurularak pülverizasyon şeklinin ve pülverizasyon sınıfının seçilmesi, 
+• 
+İlaç normunun seçilmesi, 
+• 
+Belirlenen ilaç normunun hava koşulları ve bitki yoğunluğuna göre yeniden gözden 
+geçirilmesi, 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+4 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+• 
+Meme tipi, çalışma basıncı ve ilerleme hızının (uygun damla çapı ve damla dağılım 
+düzgünlüğü sağlayacak şekilde) seçilmesi, 
+• 
+Püskürtme borusu (bum) yüksekliği ve stabilitesinin kontrol edilmesi, 
+• 
+Püskürtme borusu üzerindeki meme aralıkları ve örtme payının kontrol edilmesi, 
+• 
+Pülverizatör üzerinde yardımcı hava akımı var ise, havanın çıkış yönünün ve hava hızı 
+dağılımının kontrol edilmesi, 
+• 
+İlaç deposunun temiz su ile doldurulması, 
+• 
+İlerleme hızının kontrol edilmesi, 
+• 
+Regülatörün ayarlanması, 
+• 
+Meme verdisinin ve memeler arasındaki dağılım düzgünlüğünün kontrol edilmesi, 
+• 
+Çalışma basıncının ve buna bağlı olarak meme verdisinin yeniden kontrolü, 
+• 
+Etiket bilgilerine uygun olarak ilaç deposunun ilaç karışımı ile doldurulması, 
+• 
+İlaçlama sırasında kontrollere devam edilmesi (bum yüksekliği, basınç ayarları ve 
+memelerde tıkınma olup olmadığı), 
+• 
+İlaçlama sonunda pülverizatörün temizlenmesi. 
+1. Tarla yüzeyi ilaçlamalarında kalibrasyon 
+Tarla ilaçlamalarında yaygın olarak 8-14 m aralığında iş genişliğine sahip hidrolik tarla 
+pülverizatörleri kullanılmaktadır. Kalibrasyon metodu bu pülverizatörler için anlatılacaktır. 
+Ancak tarla koşulu veya bitkiye bağlı olarak sırt pülverizatörü ile uygulama yapılması 
+gerekiyor ise, kalibrasyon metodu bölüm 3’te verilmiştir. 
+Genel bir referans olarak tarla uygulamaları için aşağıdaki değerler kullanılabilir. 
+– İlaç normu için; 
+Herbisitler →100 - 300 l/ha 
+Fungusit ve insektisitler →150 – 300 l/ha 
+– Meme tipi ve basıncı için; 
+a) Yelpaze hüzmeli memelerde, 
+Herbisitler → 1.5 -3 bar 
+Fungusitler ve insektisitler → 2-5 bar 
+b.Konik hüzmeli memelerde, 
+Fungusitler ve insektisitler → 5-8 bar 
+Tarla ilaçlamalarında kalibrasyon için aşağıdaki sıra takip edilir: 
+I- İlerleme hızının kontrolü: 
+İstenilen ilaç normunun elde edilebilmesi için, traktörün ilerleme hızının tam olarak bilinmesi 
+çok önemlidir. Çünkü tekerleklerdeki patinajdan dolayı traktörmetrede görülen hızdan 
+sapmalar olabilir. 
+Bunun için, 100 m’den az olmayan bir uzaklık belirlenir. Bu uzaklık ilaçlama hızında geçilir 
+ve geçen zaman saniye olarak kaydedilir. 
+Aşağıdaki eşitlikten ilerleme hızı hesaplanır;   
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+5 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+Uzaklık (m) x 3.6 (Sabit katsayı) 
+İlerleme hızı (km / h) =  –––––––––––––––––––––––––––––––––––   
+Zaman (s) 
+II- Meme verdisinin belirlenmesi 
+İlaçlama makinasının toplam alana atacağı ilaç+su karışımı yani ilaç normu, makinanın her 
+bir memesinden çıkan sıvı miktarına doğrudan bağlıdır. Uygun meme tipi ve çalışma basıncı 
+belirlendikten sonra verdi ölçümlerinin mutlaka yapılması gereklidir. Ayrıca bu ölçümler her 
+ilaçlamadan önce tekrarlanmalıdır. Çünkü oluşabilecek tıkanmalar, aşınmalar ve memenin 
+yapısındaki fiziksel hatalar verdinin değişmesine sebep olmaktadır. 
+Pülverizatör uygun basınçta çalıştırılarak 1 dakika süreyle temiz su püskürtülür. Püskürtülen 
+su, memelerin altına yerleştirilen kaplarda toplanarak ölçülür. Bu işlem mümkünse tüm 
+memeler için ya da en azından bumun sağ, sol ve orta kısmından olmak üzere birkaç meme 
+için yapılmalıdır. 
+III- İlaç normunun belirlenmesi 
+İlerleme hızı ve meme verdisi belirlendikten sonra aşağıdaki eşitlikten ilaç normu hesaplanır; 
+Meme verdisi (l/dak) x Meme sayısı x 600 
+İlaç normu (l/ha) = ––––––––––––––––––––––––––––––––––––– 
+İş genişliği (m) x ilerleme hızı ( km/ h) 
+İş genişliği (m) = İki meme arası mesafe (m) x Bumdaki meme sayısı 
+Eğer gerçek norm önerilen veya hedeflenen normdan % 5 daha yüksek veya daha düşük ise ya 
+basınç, ya ilerleme hızı ya da her ikisinde de ayarlamalar yapılmalıdır. 
+Tüm yüzey ilaçlamasından farklı olarak bant ilaçlamasında yalnızca bantlar üzerine ilaç 
+püskürtülmektedir. Bu nedenle tüm yüzey ilaçlamasında kullanılan ilaç deposundaki 
+karışımın aşağıdaki eşitlik ile hesaplanması uygun olacaktır. 
+Meme verdisi (l/dak) x 600 
+İlaç normu (l/ha) = ––––––––––––––––––––––––––––––––––– 
+Bant genişliği (m) x ilerleme hızı ( km/ h) 
+IV- İlaç deposuna eklenecek ilaç miktarının belirlenmesi; 
+Meme verdisi ayarlanıp, kontrolleri tamamlandığında depoya konulacak kimyasal miktarı da 
+aşağıdaki eşitlikten hesaplanabilir. 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo = ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha) 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+6 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+Etkili bir ilaçlama ve ilaçlanan yüzeyler üzerinde kalan aşırı pestisit kalıntılarını azaltmak için 
+pülverizatörün kalibrasyonu periyodik olarak yapılmalıdır. Çalışma koşulları ve kullanılan 
+kimyasaldaki değişmeler yeni bir kalibrasyon gerektirir. Ayrıca memelerde oluşan aşınmalar 
+ile verdileri arttığından veya azalttığından kalibrasyon çok önemlidir. Verdi arttıkça 
+hedeflenen ilaç normundan daha fazlası tarlaya uygulanmaktadır. Verdi azaldıkça ise 
+hedeflenen ilaç normundan daha az ilaç tarlaya uygulanmakta ve etkisiz bir ilaçlama ortaya 
+çıkmaktadır. 
+2. Bağ-bahçe ilaçlamalarında kalibrasyon 
+Bağ-bahçe ilaçlamalarında da kullanılacak pülverizatörlerin kalibrasyonu için uygulanacak 
+temel plan tarla uygulamaları ile aynıdır. Ağacın şekline, yaprak yoğunluğuna ve bahçenin 
+özelliklerine uygun olarak; 
+• 
+Uygulanacak ilaç normunun seçilmesi (l/ha), 
+• 
+İlerleme hızının seçimi ve ölçülmesi (km/h), 
+• 
+Toplam meme verdisinin belirlenmesi (l/dak), 
+• 
+Eğer hedeflenen ile ölçülen değerler arasında farklılık varsa meme tipi ve basıncı ile 
+ilerleme hızının yeniden gözden geçirilmesi. 
+Bu işlem basamakları “1. Tarla yüzeyi ilaçlamalarında kalibrasyon” bölümünde yer aldığı 
+şekilde yapılmalıdır.  
+Bağ-bahçe ilaçlamalarında yaygın olarak konik huzmeli meme kullanılmaktadır. Bu 
+memelerin farklı modellerinde basınç 2-50 bar arasında değiştiğinden uygun basınç değeri 
+ilaç normuna ve damla çapına göre seçilmelidir. Bu ilaçlamalarda ilaç normu değerleri ise; 
+kullanılan makinaya ve ağaç çeşidine bağlı olarak yaklaşık 20 l/ha ile 3000 l/ha arasındadır. 
+Dolayısıyla tarla uygulamalarında olduğu gibi hastalık ve zararlı için referans değer vermek 
+zordur. 
+Bu ilaçlamalarda ilaç deposuna eklenecek ilaç miktarının belirlenmesi tarla ilaçlamalarında 
+olduğu gibi yapılmaktadır. 
+Meme verdisi ayarlanıp, kontrolleri tamamlandığında depoya konulacak kimyasal miktarı da 
+aşağıdaki eşitlikten hesaplanabilir. 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo = ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha) 
+Özellikle bahçe ilaçlamalarında hastalık ya da zararlıya karşı kullanılan ruhsatlı ilaçların bir 
+kısmında (birkaç ilaçlamanın yapıldığı ve vejetatif dönemler arasında yaprak alanı açısından 
+büyük farklılık bulunan bahçelerde) doz, l/ha veya kg/ha olarak verilmeyip 100 l suya ml 
+(konsantrasyon) olarak ifade edilmektedir. Bu koşulda ilacın etiketinde tavsiye edildiği 
+şekilde, birim alana kullanılacak su miktarına bağlı olarak depoya eklenecek ilaç miktarı 
+hesaplanmalıdır. 
+Bağ-bahçe ilaçlamalarında yaygın olarak kullanılan yardımcı hava akımlı bahçe 
+pülverizatörlerinde (atomizör) aynı zamanda fan üzerinden ayar yapılması gerekmektedir. 
+İlaçlama yapılacak ağacın şekline ve vejetasyon dönemine bağlı olarak uygun hava hızı ve 
+hava miktarı seçilmelidir. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+7 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+Ayrıca bağ-bahçe ilaçlamalarında kullanılan bazı makinalarda memelerin yeri ve pozisyonu 
+ihtiyaca göre ayarlanabilmektedir. Eğer bu şekilde ayar olanağı bulunmayan pülverizatör 
+kullanılıyorsa ağacın şekline göre farklı meme kombinasyonları tercih edilebilir. 
+3. Sırt pülverizatörlerinde kalibrasyon 
+Gerek tarla uygulamalarında (özellikle küçük veya traktörün giremeyeceği engebeli ve meyilli 
+alanlarda)  gerekse bağ-bahçe uygulamalarında (küçük alanlarda, yaprakaltı ilaçlamalarında 
+ve yüksek ağaçlarda ağacın üst kısım ilaçlamalarında) sırt pülverizatörleri veya tabanca ile 
+ilaçlama söz konusu olabilmektedir. 
+Eğer sırt pülverizatörleri veya tabanca ile ilaçlama söz konusu ise kalibrasyon aşağıdaki işlem 
+basamaklarına göre yapılabilir: 
+• 
+100 m2’lik bir alan işaretlenir. 
+• 
+Depoya ölçülü miktarda su konularak bu alan ilaçlanır ve depoda kalan su miktarı 
+ölçülür (Püskürtme, ilaçlı su zerreleri bitkide damla oluşturup akmayacak şekilde olmalıdır). 
+İlaçlama öncesi ve sonrasındaki su miktarı arasındaki fark kaydedilir. Aşağıdaki formülden 
+ilaç normu (l/ha veya l/da) hesaplanır. 
+Harcanan su miktarı (l) 
+İlaç normu= ––––––––––––––––––––––––––––––––––– 
+İlaçlanan alan (da, ha) 
+• 
+Ölçülen norm ile önerilen norm karşılaştırılır. Eğer gerçek norm, önerilen veya 
+hedeflenen normdan % 5 daha yüksek veya daha düşük ise ya basınç, ya ilerleme hızı ya da 
+her ikisinde de ayarlamalar yapılarak kalibrasyon yenilenir. 
+• 
+Depoya konulacak ilaç miktarı aşağıdaki eşitlikten hesaplanır 
+• 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo= ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha veya l/da) 
+Veya; 
+• 
+Makinanın deposu temiz su ile doldurulur. 
+• 
+Tarlada bitkisel örtüyü veya yüzeyi ıslatacak şekilde sabit bir yürüme hızında ve 
+meme için tavsiye edilen basınçta depo boşalıncaya kadar  bu su püskürtülür (Püskürtme, 
+ilaçlı su zerreleri bitkide damla oluşturup akmayacak şekilde olmalıdır). 
+• 
+Su bittikten sonra ıslanan alan ölçülür.Aşağıdaki formülden ilaç normu (l/ha veya l/da) 
+hesaplanır. 
+• 
+Harcanan su miktarı (l) 
+İlaç normu=  ––––––––––––––––––––––––––––––––––– 
+İlaçlanan alan (da,ha) 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+8 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+• 
+Ölçülen norm ile önerilen norm karşılaştırılır. Eğer gerçek norm, önerilen veya 
+hedeflenen normdan % 5 daha yüksek veya daha düşük ise ya basınç, ya ilerleme hızı ya da 
+her ikisinde de ayarlamalar yapılarak kalibrasyon yenilenir. 
+• 
+Depoya konulacak ilaç miktarı aşağıdaki eşitlikten hesaplanır. 
+• 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo= ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha veya l/da) 
+Yüksek ilaç normları gerektirdiğinden tabanca ile ilaçlama, özel koşullar hariç tercih 
+edilmemelidir. 
+4. Yabancı ot ilaçlamalarında kalibrasyon 
+Yabancı ot mücadelesi, mekanik veya motorlu sırt pülverizatörü ile traktöre asılır veya çekilir 
+tip tarla pülverizatörü kullanılarak yapılmalıdır. 
+Uygulamalarda yelpaze tipi memeler kullanılmalıdır. Bu memeler üzerinde bulunan 
+rakamların anlamı önemlidir.  
+Örneğin: f 03 080 yazılı bir yelpaze memede;  
+f 
+: yelpaze püskürtmeyi;  
+03 
+: memenin debisi (03 litre/dakika);  
+080 
+: memenin püskürtme açısını (80°) ifade etmektedir.  
+Standart basınçta 80° ve 110° huzme açısı veren yelpaze tipi memeler yabancı ot 
+ilaçlamasında yaygın olarak kullanılmaktadır. Örneğin 110°’lik memenin tercih edilmesinin 
+nedeni, püskürtme borusu üzerine daha az sayıda meme takılarak daha alçaktan ilaçlama 
+yapılabilmesidir. 80°’lik meme ile bitki üzerinden 50 cm yukarıdan¸ 110°’lik meme ile bitki 
+üzerinden 35 cm yukarıdan ilaçlama yapılarak sürüklenme azaltılabilir. Yelpaze memeler ile 
+tarlada düzgün bir ilaç dağılımı elde etmek için püskürtme borusu üzerinde yan yana bulunan 
+memelerden çıkan ilaç huzmelerinin uç kısımlarından itibaren belirli ölçüde birbirine girişim 
+yapması çok önemlidir.  
+Bu amaçla memeler püskürtme borusuna yaklaşık 5° açı ile yerleştirilmelidir. Böylece  
+yelpaze memeden çıkan damlaların birbirine çarpıp çok büyük damlacıkların oluşması 
+önlenerek sürüklenme riski azaltılır. 
+Yabancı ot mücadelesi sırasında kullanılacak makina, arazi ve bitki özelliklerine bağlı olarak 
+sırt pülverizatörü veya tarla pülverizatörü olmaktadır. Bu makinalar için kalibrasyon bölüm 1 
+ve bölüm 3’te anlatıldığı şekilde yapılmalıdır. 
+5. Nematodlara karşı toprak sterilizasyonu 
+Nematodlara karşı mücadelede toprağa ekim ya da dikim öncesi herhangi bir nematisitle 
+toprak boş olarak ilaçlanabilmektedir. Bu işlem sterilizasyon olarak adlandırılmaktadır. 
+Kimyasal toprak sterilizasyonunda kullanılan nematisitler sıvı veya granül yapıdadır. Önerilen 
+nematisitlerden sıvı preparatların uygulanmasında sera veya fide yerleri gibi küçük alanlar 
+için toprak el enjektörü, daha büyük alanların ilaçlanmasında traktöre monte edilmiş sıvı 
+fumigant enjeksiyon makinaları kullanılmaktadır.  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+9 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+Damla sulama sistemi bulunan seralarda ilaç, sistemin sıvı gübre atılan kısmına konularak 
+sulama suyu ile birlikte toprağa verilir.  
+Granül ilaçlar ise eldiven kullanılarak serpme şeklinde veya çeşitli tip granül dağıtıcılar 
+kullanılarak toprak yüzeyine dağıtılmaktadır. Ayrıca katı fümigant maddeler, sterilize edilmek 
+istenen alana ekim makinasının ekici ayaklarına benzer düzenlere sahip ilaçlama makinaları 
+ile  toprağa gömülmektedir.  
+Bazı emülsiyon formülasyonlu preparatların uygulaması süzgeçli kova veya sırt pülverizatörü 
+ile yapılır. 
+Fümigasyonda ilaçlama tekniği aşağıdaki şekilde uygulanmalıdır: 
+İlaçların uygulanmasından önce, toprağın derince işlenmiş, önceki üründen kalan bulaşık bitki 
+artıklarından iyice temizlenmiş veya böyle artıkların dağıtılıp çürümesini sağlamak için bir 
+kaç hafta öncesinden sürülmüş olması gerekmektedir. İlaç uygulanacak toprak tavında ve 
+ekim-dikime hazır olmalıdır.  
+Sıvı fümigantlar toprak el enjektörü veya sıvı fumigant enjeksiyon makinaları ile 30 cm ara 
+ile 15–20 cm derinliğe doğrudan toprak içerisine verilir. Basıncın etkisinden kurtulan 
+fümigant hemen buhar haline geçerek etki gösterir. 
+Damla sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği taktirde, sistem çalıştırılarak seraya 1–2 saat su verildikten sonra, önerilen 
+dozdaki ilaç bir kap içinde az miktar suyla karıştırılarak sistemin sıvı gübre atıcısına bağlanır. 
+Buradaki vana ayarlanarak ilacın 30–45 dakika içinde seraya verilmesi sağlanır. İlaçlamadan 
+sonra sulama sistemi 2 saat daha çalıştırılarak ilacın toprağa nüfuzu sağlanır. 
+Granül ilaçlar için, atılacak alana göre ilaç normu hesaplanır (kg/da). Bu işlem için aşağıdaki 
+işlem basamakları izlenmelidir: 
+• 
+Toprak üzerine büyüklüğü bilinen bir plastik örtü serilir. 
+• 
+Dağıtıcı belirlenen bir hızda tente boyunca çalıştırılarak kaplanan alan belirlenir. 
+• 
+Bu alana yayılan granüller toplanarak tartılır. 
+• 
+gr/m2 veya kg/da olarak bulunan gerçek norm ile önerilen norm karşılaştırılır. Eğer 
+aradaki fark büyük olursa gerekli ayarlar yapılarak kalibrasyon tekrarlanır. 
+Elle veya granül dağıtıcılar ile toprak yüzeyine homojen olarak dağıtılır. İlacın toprağa 
+gömülebilmesi için karıştırılması gerekmektedir. Makine kullanılarak yapılan granül 
+uygulamalarında ise ilaç toprağa doğrudan gömülmektedir. İşlemin ardından toprak sulanır. 
+Gerek sıvı gerekse katı fümigantların uygulanmasından sonra gazın hemen uçmaması için 
+toprak yüzeyi  polietilen örtü ile kapatılmalıdır. Büyük alanlar ise toprağın üzeri gölleninceye 
+kadar bol su verilerek su ile örtülebilir. Örtünün kapalı tutulma süresi ilacın özelliğine bağlı 
+olarak, sıcak ve kurak mevsimlerde 2 haftaya kadar inebileceği gibi, soğuk ve yağışlı 
+periyodlarda 4 haftaya kadar uzatılabilir. Fümigant etkili bazı preparatlar solarizasyon 
+yöntemi ile birlikte kombine bir şekilde kullanılabilmektedir.  
+6. Seralarda ilaçlama uygulamaları 
+Seralarda hastalık ve zararlı kontrolü için yapılan ilaçlamalarda yaygın olarak elle veya sırtta 
+taşınan pülverizatörler kullanılmaktadır. 
+Elle taşınan pülverizatörlerde farklı damla çapları üreten makinalar bulunmaktadır:  
+• 
+Isı enerjisiyle çalışan memelerin yer aldığı sisleyiciler ile oldukça küçük damlalı sis 
+şeklinde pülverizasyon yapılmaktadır. Düşük ilaç normlarında çalışıldığından bir depo ilaç+su 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+10 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+karışımı ile büyük alanlar ilaçlanabilmektedir. Ayrıca sisin yüzey aralarına nüfuz etme 
+yeteneği yüksek olduğundan hastalık ve zararlı kontrolünde etkili sonuçlar alınmaktadır. 
+Kapalı alan için genellikle 400 m3’lük birim hacim için 1 litre ilaç uygulanmaktadır. Ancak bu 
+büyük sisleme oranına karşılık ilacın solunum yoluyla vücuda geçme tehlikesi sözkonusudur. 
+Bu nedenle seralarda sisleme yapıldıktan sonra en az 5–6 saat sera kapalı tutulmalıdır. 
+İlaçlama sırasında ve seraya girilecekse sonrasında mutlaka koruyucu maske ve elbise 
+kullanılmalıdır. 
+ Sisleyicinin verdisi ve dozu doğru ayarlanmalıdır. Bitki yaprakları sisleme sırasında 
+kuru olmalı ve yüksek nem bulunmamalıdır. Sıcaklık ise 18–29 ºC arasında olmalıdır. Bu 
+nedenle sisleme için akşam saatleri tercih edilmelidir. 
+• 
+Döner diskli memeye sahip pülverizatörler ile (bazı modellerde küçük bir fan 
+bulunabilmektedir) ULV ve LV hacimlerinde küçük damlalarla ilaçlama yapılmaktadır. 
+Pülverizatör tarafından üretilen damla çapları standart olduğu için bitkide iyi bir kaplama elde 
+edilebilmektedir. Bu pülverizatörlerle ilaçlama yapılmadan önce bölüm 1.’de anlatılan meme 
+verdisi ve ilaç normunu belirlemedeki işlem basamakları takip edilmelidir. İlaçlamayı yapan 
+kişinin yürüyüş hızı da ilerleme hızı olarak göz önünde bulundurulmalıdır. Hesaplanacak ilaç 
+normuna ve doza uygun olarak gerekli ilaç depoya konulmalıdır. 
+Sırtta taşınan pülverizatörler mekanik veya motorlu olabilmektedir. Kullanım ve 
+kalibrasyonları bölüm 3 ‘te anlatılmıştır. 
+Bu pülverizatörlerin dışında üzerinde, elektrik veya benzinli motoru bulunan arabalı tip küçük 
+pülverizatörlerin de kullanımı söz konusudur. İlaçlama bir tabanca yardımıyla, düşük basınç 
+altında üretilen iri damlalar ile yapılmaktadır. Kalibrasyonu bölüm 3’te anlatılmıştır. 
+7.Damla Sulama Sistemleri ile Pestisit Uygulamaları 
+Damla sulama, noktasal ya da hat şeklindeki kaynaklar ile aracılığı düşük basınçlarda bitkinin 
+kök bölgesine eşit miktarda su temin etmek için kullanılan bir sistemdir. Bu sistemler ile 
+uygulanması tavsiye edilen pestisitleri kullanılarak zararlı etmenlere karşı ilaçlama da 
+yapılabilir. Çoğu zaman hava ve arazi koşullarına bağlı kalmaksızın tekdüze bir dağılım ile 
+ilaçlama imkanının bulunması, yoğun vejetatif dönemlerde uygulama kolaylığı, operatörün 
+kimyasallara daha az maruz kalması, traktör ve ekipmanla geçişe bağlı toprak sıkışmasının 
+azaltılması gibi yararları bulunmaktadır.  
+Damla sulama ile ilaçlama sistemlerinde de uygun ekipman kullanımı ve kalibrasyon son 
+derece önemlidir. Temel olarak bu sistemler tek parça halinde işletilen iki farklı bölümden 
+oluşmaktadır. Birinci bölümün komponentleri tipik bir sulama sisteminde olduğu gibidir: 
+ Ana su kaynağı 
+ Ana su pompası 
+ Su filtre sistemi 
+ Geri akış önleme valfi 
+ Basınç göstergesi 
+ Düşük basınç kapatma vanası  
+ Düşük basınç sensörü / kapatma düğmesi  
+ Basınç tahliye valfi 
+ Çeşitli çapta hortumlar ve tüpler 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+11 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+İkinci bölümün komponentleri ise sulama ekipmanına ek olarak sisteme bitki koruma ürünü 
+enjeksiyonu öncesinde ihtiyaç duyulacak parçalardır: 
+ Kimyasal karışım deposu 
+ Herhangi bir kimyasal çözelti sızıntısını engellemek için muhafaza 
+ Düşük basınçlarda sabit akış oranını sağlamak için pompa veya cihaz 
+  Geri akış önleme valfi 
+ Alçak basınç kapatma vanası 
+Yukarıdaki komponentlerden oluşan sistem Şekil 1’ de verilmiştir. 
+Şekil 1. Damla sulama sistemi ve enjeksiyon sistemi 
+Kalibrasyon 
+1-Zamanlama: 
+Minimum enjeksiyon zamanı, ihtiyaç duyulan suyun pestisit enjeksiyon pompasından en 
+uzaktaki dağıtıcıya ulaşması için gerekli olan süredir. Bu süreyi doğru belirlemek için sabun 
+ya da gıda boyası karıştırılmış yaklaşık 4 litre su sisteme enjekte edilir. Başlangıç  ve son 
+dağıtıcıdan bu karışımın çıktığı bitiş süresi kaydedilerek sistemin doldurulması için gerekli 
+zaman bulunmuş olur. Bu süreden daha azı bitkilere eşit olmayan ilaç dağılımına sebep olur. 
+Genel bir kural olarak her bir sulama bölgesi için enjeksiyon süresi 2 saatten daha uzun 
+olmamalıdır. Ayrıca pestisit enjeksiyon için sulama döngüsünün 1/3 ‘lük dilimi 
+hedeflenmelidir. Örneğin; 180 dakikalık sulama süresinin ilk 60 dakikasından sonraki zaman 
+dilimi enjeksiyon için seçilmelidir. Tıkanmaları engellemek için enjeksiyon son filtrelerden 
+önceki bir noktada yapılmalıdır. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+12 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+2-Sulama sistemine enjekte edilecek pestisit miktarının hesaplanması: 
+Damla sulama sistemine enjekte edilecek pestisit miktarının hesaplanması için öncelikle 
+ıslatılacak alanın belirlenmesi gerekmektedir. Damla sulama sistemi ile boş alanda (malçsız) 
+enjekte edilecek pestisit miktarının hesaplanması için; Bitki sıra üzerine bitkilerin kök 
+bölgelerini ıslatmak için yeterli su uygulandıktan sonra ıslatılmış sıranın genişliği ölçülür. 
+Sulanacak sıraların toplam uzunluğu ıslatılmış sıranın genişliği ile çarpılarak toplam ıslatılmış 
+alan bulunur. Sisteme enjekte edilecek pestisit miktarı bu alana göre hesaplanmalıdır. İlacın 
+etiketinden dekara uygulama dozu ile toplam alan çarpılarak sulama suyuna enjekte edilecek 
+pestisit miktarı hesaplanır. 
+A = b x h x 0,001 
+A: Toplam ıslatılan alan (da) 
+b: Islatılan sıranın genişliği (m) 
+h: Sulanacak sıraların toplam uzunluğu (m) 
+m= A x D 
+m: Enjekte edilecek pestisit miktarı (ml) 
+D: İlaç dozu (ml/da)   
+Örnek: Damla sulama sistemi ile sulanan toplam 50 sıralık bir alanda ıslatılan tek bir sıranın 
+genişliği b=0,75 m ve uzunluğu h= 50 m,  kullanılacak pestisitin dozu 125 ml/da ise; 
+A= 0,75 x 50 x 50 x 0,001= 1,87 da 
+m= 1,87 x 125= 233,75 ml’ dir. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+13 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+EK-2: 
+BİTKİ ZARARLILARI FİTOTOKSİSİTE REHBERİ 
+Bu rehber Türkiye Bitki Zararlılarına Karşı Zirai Mücadele Standart İlaç Deneme Metotları 
+için fitotoksitenin belirlenmesi amacıyla hazırlanmıştır. 
+1. Tanımı 
+Fitotoksite, bir bitki koruma ürününün bitkide geçici veya uzun süreli zarar oluşturma 
+kapasitesidir.  
+2. Fitotoksitenin Değerlendirilmesi 
+Bir kültür bitkisi veya ürününe bir bitki koruma ürününün fitotoksitesinin değerlendirilmesi 
+biyolojik etkinlik raporunun ayrılmaz bir parçasıdır.  
+Bitki koruma ürünlerinin fitotoksite değerlendirilmesinde ilk önce bitkideki renk değişimine 
+bakılır. Renk değişikliği söz konusu ise 5. maddede yer alan kültür bitkisi bazında hazırlanan 
+fitotoksite ile ilgili kriterler incelenir. 
+Fitotoksiteden kaynaklanan belirtilerle, tohum veya toprak kaynaklı etmenler tarafından 
+oluşturulan belirtileri birbirinden ayırmak zor olduğu için, toprağa veya tohuma doğrudan 
+uygulanan bitki koruma ürünleri için de seçicilik denemeleri rutin olarak yürütülmelidir.  
+Seçicilik denemeleri fitotoksiteyi ölçmek üzere tavsiyesi istenen dozda ve uygulamada üst 
+üste ilaçlamalarla karşılaşılabileceği düşünülerek iki katı dozda yapılır. Bu durumda 
+genellikle belirtilerin yanı sıra verim üzerine etkiler de değerlendirilir.  
+Aynı bitkiye, ikinci ürüne ya da komşu bitkiye kullanılan farklı bitki koruma ürünleri 
+arasındaki etkileşimler veya bir önceki ürüne yapılan uygulamadan kalan kalıntılar sonucunda 
+da fitotoksite meydana gelebilir. Gerektiğinde bu faktörler göz önüne alınmalıdır. 
+Sonuç olarak fitotoksite değerlendirmesiyle ilgili olarak çeşit seçiminin de önemli olduğu 
+vurgulanmalıdır. Farklı çeşitlere fitotoksitenin karşılaştırılabilmesi için bir dizi özel deneme 
+kurmak yararlı olabilir.  
+3. Genel Fitotoksite Belirtilerinin Tanımları  
+Fitotoksite etkileri bitki gelişimi boyunca her hangi bir zamanda veya hasatta görülebilir. Bu 
+belirtiler geçici veya kalıcı olabilir. Belirtiler bütün bitkiyi etkileyebileceği gibi bitkinin kök, 
+yaprak vb. herhangi bir organında görülebilir. Bu durum açıkça belirtilmeli ve mümkünse 
+görsel olarak belgelenmelidir. 
+Belli başlı fitotoksite belirtileri şunlardır: 
+Renk değişmesi: Bütün bitkinin veya bazı kısımlarının sararma, beyazlaşma, renk 
+koyulaşması veya açılması, kahverengileşme veya kızarıklık gibi renk değişiklikleri 
+Bitki gelişme dönemlerinde sapmalar: Gelişmede duraklama veya gecikme, uyanma, 
+çiçeklenme, meyve bağlama, olgunlaşma gibi dönemlerdeki gecikmeler veya sapmalar, 
+yaprak, çiçek, meyve vb. gibi organların görülmemesi 
+Ölü Doku (Nekroz) Oluşumu: Ölü doku, organ ve dokuların bölgesel ölümüdür. Başlangıçta 
+genellikle renk değişmesi olarak görünür. Daha sonra ölü doku noktaları yaprak üzerinde 
+delikler bırakarak dökülür. 
+Şekil bozuklukları: Bitkide veya bazı kısımlarında görülen kıvrılma, bodurluk, uzama, 
+hacimde değişme gibi normalden farklılaşmalardır. Solma da bu gruba girer. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+14 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+4. Genel Fitotoksite Belirtilerini Değerlendirme Yöntemleri 
+Seyrelme: Fidan sayısında azalma 
+Gelişme dönemlerine erken veya geç ulaşma: Bitkilerin %50’sinin belirli bir gelişme 
+dönemine ulaştığı gün sayısı olarak veya belirli bir sürede bir gelişme dönemine ulaşmış bitki 
+sayısı olarak. 
+Gelişmede gerileme veya hızlanma: Bazı organların sayısında, uzunluğunda ve çapında 
+oransal veya kesin ölçümler.  
+Renkte değişmeler, nekroz ve deformasyon: Parsel veya birim alan başına etkilenen bitki 
+veya bitki kısımlarının sayısal, skala kullanımı (örneğin; hiç yok, hafif, orta, çok) ile, 
+etkilenen yüzey alan oranı veya şahit ile karşılaştırılmak suretiyle belirtilir.  
+5. SEÇİCİLİK DEĞERLENDİRMELERİNDE KULLANILACAK KRİTERLER 
+Fitotoksite; denenen bitki koruma ürününün etki şekli, uygulama zamanı vb. gibi özellikler 
+esas alınarak aşağıda belirtilen uygun parametreler seçilmek suretiyle değerlendirilmelidir. 
+MEYVE AĞAÇLARI İÇİN 
+a. Belirli gelişme dönemlerine ulaşmada, tomurcuklanmada, çiçeklenmede, meyvenin renk 
+değiştirmesinde ve meyvenin olgunlaşmasında gecikme 
+b. Çiçek ve meyve dökmede hızlanma, 
+c. Çiçek ve yaprak tomurcuğu sayısında azalma, 
+d. Olgunlaşmadan önce ve olgunlaştıktan sonra düşen meyve sayısında artma, 
+e. Yaprak ayasının tamamında kloroz, renk açılması vb. gibi anormal renk oluşumları, 
+f. Yaprak damarlarında, damar aralarında, uçlarında veya kenarlarında lokal renk bozukluğu 
+veya anormal renk oluşumu, 
+g. Bir yıllık sürgünlerde renk bozukluğu veya anormal renk oluşumu,  
+h. Bir yıllık sürgünlerdeki yaprak kenarlarında, damar boyunca ve yaprak ayasında nekroz 
+oluşumu, 
+ı. Yaprak veya yıllık sürgünlerde kısalma, çalılaşma ve kıvrılma, yaprak ayasında solgunluk, 
+şişkinlik ve kıvrılma, damarların şekil ve yerinde değişiklikler, petiol, yaprak sapı ve yaprak 
+ayasının bir birine yapışması gibi deformasyonların oluşması, 
+i. Hasat zamanı meyvede lekelenme (1-4 skalası kullanılabilir) 
+1  leke yok 
+2  meyve yüzeyinin %10’u lekeli 
+3  meyve yüzeyinin %10-30’u lekeli 
+4  meyve yüzeyinin %30’undan fazlası lekeli 
+BAĞ İÇİN 
+a. Belirli gelişme dönemlerine ulaşmada, tomurcuklanmada, çiçeklenmede, meyvenin renk 
+değiştirmesinde ve meyvenin olgunlaşmasında gecikme 
+b. Çiçek ve yaprak tomurcuğu sayısında azalma, 
+c. Yaprak ayasının kenarlarında, damarlarında, ayanın iç kısımlarında renk bozukluğu veya 
+lokalize olmuş lekeler, 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+15 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+d. Genç sürgün ve dallarda renk bozukluğu ve nekroz oluşumu, 
+e. Odunsu dokuda renk bozukluğu ve nekroz oluşumu (doku içindeki renk bozukluğunu 
+gösterir ) 
+f. Tüm bitkide çalılaşma, kıvrılma, boğum aralarının kısalması ve solgunluk gibi 
+deformasyonlar 
+g. Yapraklarda çalılaşma, kıvrılma, şişme, şemsiye şekli alma ve damarlarda büzüşme gibi 
+deformasyonlar 
+ENDÜSTRİ VE SÜS BİTKİLERİ 
+a. Belirli gelişme dönemlerine ulaşmada, tomurcuklanma, taraklanma, çiçeklenme, koza 
+oluşturmada gecikme ve azalma, 
+b. Tarak, çiçek, tomurcuk ve koza dökmede hızlanma, 
+c. Tarak, çiçek ve yaprak tomurcuğu sayısında azalma, 
+d. Yaprak ayasının tamamında kloroz, renk açılması vb. gibi anormal renk oluşumları, 
+e. Yaprak damarlarında, damar aralarında, uçlarında veya kenarlarında lokal renk bozukluğu 
+veya anormal renk oluşumu, 
+f. Yapraklarda çalılaşma, kıvrılma, şişme, şemsiye şekli alma, damarlarda büzüşme, bamya 
+yapraklılık oluşumu gibi deformasyonlar 
+g. Çiçeklerde şekil bozuklukları, renk bozulmaları, çiçeklerin tam açılmaması 
+h. Kozaların sağlıklı açılamaması ve küçük kalması 
+SEBZE, YEM BİTKİLERİ VE PATATES 
+a. Bitkilerde fide öneminde ve/veya gelişme dönemine ulaştığında, çiçeklenmede, 
+yapraklarda, meyvenin renk değiştirmesinde ve meyvenin olgunlaşmasında gecikme 
+b. Çiçek, meyve ve yaprak dökmede hızlanma, 
+c. Çiçek ve yaprak tomurcuğu sayısında azalma, 
+d. Olgunlaşmadan önce ve olgunlaştıktan sonra düşen meyve sayısında artma, 
+e. Yaprak ayasının tamamında kloroz, renk açılması vb. gibi anormal renk oluşumları, 
+f. Çiçek, meyve görünümünde ve yapısında; Yaprak damarlarında, damar aralarında, 
+uçlarında veya kenarlarında oluşabilecek lokal renk bozukluğu veya anormal renk oluşumu 
+h. Sürgünlerdeki yaprak kenarlarında, damar boyunca ve yaprak ayasında nekroz oluşumu, 
+ı. Yaprak veya sürgünlerde kısalma, çalılaşma, kıvrılma, solgunluk, şişkinlik ve kıvrılma; 
+damarların şekil ve yerinde değişiklikler, petiol, yaprak sapı ve yaprak ayasının bir birine 
+yapışması gibi deformasyonların oluşması, 
+i. Hasat zamanı meyvede lekelenme (1-4 skalası kullanılabilir) 
+1  leke yok 
+2  meyve yüzeyinin %10’u lekeli 
+3  meyve yüzeyinin %10-30’u lekeli 
+4  meyve yüzeyinin %30’undan fazlası lekeli 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+16 
+T A G E M
+Bitki Zararlıları Standart İlaç Deneme Metotları  
+HUBUBAT 
+a. Kardeş/bitki sayısında azalma, belirli gelişme dönemlerine ulaşmada, (çiçeklenmede/tepe 
+püskülü oluşumu, koçan bağlama) olgunlaşmada gecikme,  
+b. Çiçek organları, başak, panikül/tepe püskülü çıkartan bitki sayısında azalma, 
+c. Yapraklarda renk bozukluğu, daha açık veya koyu yeşil renk veya beyazlaşma,  
+d. Yapraklarda ölü doku oluşumu, deformasyonlar, 
+e. Bitki boyunda değişim ve gövde deformasyonları, 
+f. Çiçeklerde deformasyonlar (çift veya çatallaşmış başak, ilave başakçıklar vb.) 
+g. Sapa kalkamama ve çiçek durumunun oluşmaması 
+h. Verime etki 
+ı. Çimlenme ve sürme gücü ve hızına etkiler (tohum ilaç denemelerinde) 
+DEPO   
+a. Çimlenme, sürme gücü ve hızına etkiler 
+b. Üründe renk bozukluğu veya anormal renk oluşumu 
+c. Üründe lekelenme 
+d. Koku ve tat yönünden değişim gözlemlenmeli 
+e. Üründe şekerlenme 
+f. Meyve sertliği 
+g. Üründe nem miktarı  
+h. Ürünün asitliği (gibi kriterleri de ekleyebiliriz. Dilek Turanlı) 
+GENEL ZARARLILAR 
+Denenen ilacın uygulama şekli, formülasyonu ve konukçusu dikkate alınarak yukarıdaki 
+parametrelere göre fitotoksik yönden değerlendirilmelidir. 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+17 
+T A G E M

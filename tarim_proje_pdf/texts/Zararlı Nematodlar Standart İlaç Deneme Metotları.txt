@@ -1,0 +1,3062 @@
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+I
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+II
+İÇİNDEKİLER 
+ BAĞDA KAMALI NEMATODLAR [Xiphinema spp. (Dorylaimida: Longidoridae)] 
+STANDART İLAÇ DENEME METODU .............................................................................................. 1 
+ ÇELTİKTE ÇELTİK BEYAZ UÇ NEMATODU  [Aphelenchoides besseyi Christie 1942, 
+(Aphelencida: Aphelencoididae)] STANDART İLAÇ DENEME METODU ..................................... 4 
+ ÇİLEKTE ÇİLEK NEMATODU [Aphelenchoides fragariae (Ritz.-Bos) (Aphelencida: 
+Aphelencoididae)] STANDART İLAÇ DENEME METODU .............................................................. 7 
+ KARANFİLDE 
+KÖK-UR 
+NEMATODLARI 
+[Meloidogyne 
+spp. 
+(Tylenchida: 
+Meloidogynidae)] STANDART İLAÇ DENEME METODU ............................................................. 10 
+ KAVUN VE KARPUZDA KÖK-UR NEMATODLARI  [Meloidogyne spp. (Tylenchida: 
+Meloidogynidae)] STANDART İLAÇ DENEME METODU ............................................................. 14 
+ KİVİDE KÖK-UR NEMATODLARI [Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU ............................................................................................ 18 
+ LAHANAGİLLERDE ŞEKER PANCARI KİST NEMATODU [Heterodera schachtii Schmidt. 
+(Tylenchida: Heteroderidae)]  STANDART İLAÇ DENEME METODU ........................................ 21 
+ MUZDA KÖK-UR NEMATODLARI [Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU ............................................................................................ 24 
+ MUZDA MUZ SPIRAL NEMATODU [Helicotylenchus multicinctus (Cobb.) (Tylenchida: 
+Hoplolaimidae)] STANDART İLAÇ DENEME METODU ................................................................ 27 
+ PATATESTE 
+PATATES 
+KİST 
+NEMATODLARI 
+[Globodera 
+spp. 
+(Tylenchida: 
+Heteroderidae)] STANDART İLAÇ DENEME METODU ................................................................ 30 
+ PATATESTE KÖK-UR NEMATODLARI [Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU ............................................................................................ 33 
+ SEBZEDE KÖK-UR NEMATODLARI [Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU ............................................................................................ 37 
+ SOĞAN VE SOĞANLI BİTKİLERDE SOĞAN SAK NEMATODU [Ditylenchus dipsaci 
+(Kühn.) (Tylenchida: Anguinidae)] STANDART İLAÇ DENEME METODU ................................ 41 
+ ŞEKER PANCARINDA KÖK-UR NEMATODLARI [Meloidogyne spp. (Tylenchida: 
+Meloidogynidae)] STANDART İLAÇ DENEME METODU ............................................................. 44 
+ ŞEKER PANCARINDA ŞEKER PANCARI KİST NEMATODU [Heterodera schachtii 
+Schmidt. (Tylenchida: Heteroderidae)] STANDART İLAÇ DENEME METODU ......................... 48 
+ TURUNÇGİLLERDE TURUNÇGİL NEMATODU [Tylenchulus semipenetrans Cobb. 
+(Tylenchida: Tylenchulidae)] STANDART İLAÇ DENEME METODU .......................................... 51 
+ TÜTÜNDE KÖK-UR NEMATODLARI [Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU ............................................................................................ 54 
+ 
+EK-1 ZİRAİ MÜCADELE ALET VE MAKİNALARININ KALİBRASYONU ............................... 58 
+ 
+EK-2  BİTKİ ZARARLILARI FİTOTOKSİSİTE REHBERİ ............................................................ 68 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+1
+BAĞDA KAMALI NEMATODLAR 
+[Xiphinema spp. (Dorylaimida: Longidoridae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Asma 
+Test Organizması: Kamalı nematodun ergin ve larvaları 
+1.2. Deneme Yerinin Özellikleri  
+Deneme kurulacak bir bağda nematod zararının olması gerekir. Bunun tespiti için bağ içinde 
+gezilerek yer yer kurumaların, sararmaların, aynı yaşta olduğu halde bodur kalmış asmaların 
+varlığı ve özellikle kısa boğum belirtileri aranmalıdır. Bulaşık alanlarda bulunan Kamalı 
+nematodların teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak analizi (pH, bünye, 
+tip, organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. Bu nematodların üreme 
+hızları oldukça yavaştır. Çok yoğun bir popülasyona rastlamak her zaman mümkün 
+olmayabilir. Bu nedenle zararlı popülasyon yoğunluğunun en fazla olduğu ilkbahar ve 
+sonbahar mevsimlerinde örnek alınması uygundur. Bu mevsimlerde örnek alma zamanı 
+bölgesel şartlara göre değişiklik gösterebilmektedir. Örnekleme köşegenler doğrultusunda 
+gezilerek her köşegenden 10 asmanın taç izdüşümünden 0-40 cm derinliğinden kılcal köklerle 
+birlikte 1’er kilogramlık örnek alınır. Bu örneklerin herbirinden 100 g alınarak “Baermann 
+Huni” metoduna göre analize tabi tutulur ve elde edilen kamalı nematodlar sayılır. Alınan 
+örneklerin %70'inde nematod (Xiphinema spp.) yoğunluğu en az 10 (10 nematod/100 g 
+toprak) olmalıdır. Toprak, tercihen kumlu-tınlı karakterde olmalıdır. 
+1.3. Deneme Deseni ve Tertibi  
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak bağın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra güvenlik şeridi 
+bırakılmalıdır. Parsel büyüklükleri ise 20 m2 'den az olmamalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir.  
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+2
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama esnasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş sahalara ilaçların uygulanması: 
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. İlaçlamaya başlamadan önce toprak derin (40 cm) sürülmeli ve dikim yapılacakmış 
+gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak kesinlikle işlenmemelidir.  
+a) Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+b) Granül ilaçlar, doğrudan doğruya kum, toprak v.s. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+c) Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Tesis edilmiş bağlarda ilaçların uygulanması: 
+Sistemik ve kontakt etkili ilaçlar uygun aletle toprağa verilir ve çapalama ile toprağa 
+karıştırıldıktan sonra toprak sulanır. 
+Deneme kurulan yerlerde yeni bulaşmaların önüne geçmek için, sulamanın artezyen suyu ile 
+yapılması tercih edilir. 
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkat alınır. 
+2.3.2. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15oC’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1). 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+3
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10oC’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+Her parseldeki asmaların taç izdüşümünden 3'er noktadan 0-40 cm derinlikten toplam 1 kg 
+kadar toprak örneği alınır. Bu örneklerin herbirinden 100 g alınarak “Baermann Huni” 
+metoduna göre analize tabi tutulur ve elde edilen Xiphinema spp. mikroskop altında sayılır.  
+Denemede kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamada 6-8 hafta sonra, 
+fumigant ilaç kullanılacaksa bitki dikiminden 6-8 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi   
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlaçların nematoda olan etkileri, ilaçlama öncesi ve ilaçlama sonrası elde edilen nematod 
+(Xiphinema spp.) sayıları Henderson-Tilton formülüne göre değerlendirilir. Varyans analizi 
+yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç hakkında bir 
+karara varılır. 
+Not: Böcek gelişme düzenleyicileri, Mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+4
+ÇELTİKTE ÇELTİK BEYAZ UÇ NEMATODU  
+[Aphelenchoides besseyi Christie 1942, (Aphelencida: Aphelencoididae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Çeltik bitkisi 
+Test Organizması: Çeltik beyaz uç nematodu ergin ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Deneme alanı düz ve tesviye edilmiş olmalıdır. Toprak tipi, gübreleme ve toprak işleme 
+şartları bütün parseller için homojen olmalı ve bölgesel tarım uygulamalarından farklı 
+olmamalıdır. Vejetasyon süresince çeltik tavalarından çıkan suyun diğer üretim alanlarına 
+gitmesi engellenmelidir. Bu amaçla tavalarda yaklaşık 10-15 cm yüksekliğinde su bulunacak 
+şekilde kontrollü şekilde su verilerek, tavalardan su çıkışı yapılmaz. Denemede kullanılacak 
+bulaşık tohumlarda nematod analizi yapılarak Çeltik beyaz uç nematodu varlığı yoğunluğu 
+belirlenmelidir. 
+Denemede kullanılan Çeltik beyaz uç nematodu ile bulaşık tohumlardaki nematod yoğunluğu 
+mümkün olduğunca homojen olmalıdır. Denemede kullanılan tohumlardan elde edilen canlı 
+Çeltik beyaz uç nematodu yoğunluğu en az 30 canlı ergin ve larva/100 tohum ise bu tohumlar 
+denemede kullanılabilir. Denemenin yapılacağı alandaki parsellerin tamamında toprak tipi, 
+gübreleme ve yapılan tarımsal işlemler vs. aynı olmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Deneme tesadüf blokları deneme desenine göre kurulur. Denemede yer alacak olan 
+karakterler ayrı bloklarda (tavalarda) yer alır. Nematoda olan etkisini araştıracağımız ilaç, 
+karşılaştırma ilacı ve şahit (ilaç verilmeyen parsel) denemenin karakterlerini oluştururlar. 
+Tekerrür sayısı hataya ait serbestlik derecesi 9'dan aşağı olmayacak şekilde ayarlanmalı ve 
+olanaklar ölçüsünde fazla tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve parseller en az 5 m2 
+olmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir.  
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı olan ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli 
+2.3.1. Uygulamanın Tipi 
+Tohum uygulamasında ilacın başarısı için başlangıçta tohumlar soğuk suda 6-8 saat süreyle 
+bekletilmelidir. Böylece kavuzların altında dormant halde bulunan nematodların aktif hale 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+5
+geçmesi sağlanacaktır. Daha sonra belirlenen dozlarda etkili maddeyi içeren su içerisinde 
+tohumlar 12 saat süreyle bekletilir. Çıtlatma işleminin ardından su ile dolu tavalara ekim 
+yapılır. Yeşil aksam ilaçlaması kardeşlenme sonrası veya gebeleşme dönemi yani çiçekler kın 
+içinden çıkmadan önce yapılmalıdır. Ancak ilacın uygulaması bu açıklamaların dışında özel 
+bir metot gerektiriyorsa ilacın etiketinde bulunan veya firması tarafından belirtilen öneriler 
+dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir. Tohum ilaçlaması firmasının önerdiği şekilde yapılmalıdır. 
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Tohum uygulaması ekim öncesi yapılmalıdır. Yeşil aksam ilaçlaması kardeşlenme sonrası 
+veya gebeleşme dönemi yani çiçekler kın içinden çıkmadan önce veya firması tarafından 
+önerilen zaman ve ilaçlama sayısına göre uygulanmalıdır. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firma tarafından önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya, 100 kg tohuma veya dekara preparat olarak alınmalı ve her 
+parsele sarf edilen ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve 
+ilaçlamadan önce bir parsele kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 
+1). 
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. Deneme süresince şiddetli 
+kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu etkileyecek ekstrem hava koşulları da 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Sayım sırasında, çeltik bitkisinde çiçeklenme zamanı her parselden 0.25 m2’lik çember 
+kullanılarak, parselin 3 farklı noktasından biçilerek beyaz uç belirtisi olan bitkilerin oranı 
+belirlenir ve kaydedilir. Hasat sonrası her parselden elde edilen tohumlardan 100 tohum 
+olacak şekilde 10 tekerrürlü olarak tohum örnekleri analize tabi tutularak nematod sayısı 
+(canlı ergin ve larva/100 tohum) belirlenir. 
+Tohum örnekleri alındıktan sonra kısa süre içinde analize tabi tutulmalı, nematodların elde 
+edilmesinde ve sayımında kullanılan metotlar belirtilmelidir. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız. 
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün, nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+6
+4. SONUÇLAR 
+Hasat sonrası tohumlardan elde edilen Çeltik beyaz uç nematodu (Aphelenchoides besseyi) 
+sayıları kontrol ile karşılaştırılarak Abbott formülüne göre değerlendirilir ve ilaçların 
+nematoda olan etkileri belirlenir. Varyans analizi yapılarak karakterler arasında istatistik 
+farklılık olup olmadığı belirlenerek ilaç hakkında bir karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+7
+ÇİLEKTE ÇİLEK NEMATODU 
+[Aphelenchoides fragariae (Ritz.-Bos) (Aphelencida: Aphelencoididae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Çilek bitkisi  
+Test Organizması: Çilek nematodu ergin ve larvaları 
+1.2. Deneme Yerinin Özellikleri  
+Deneme yapılacak arazi düz olmalı ve meyve bahçesi altı olmamalıdır. Bulaşık alanlarda 
+bulunan Çilek nematodu’nun tür teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak 
+analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. Toprağın 
+kumlu-tınlı yapıda olmasına özen gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi 
+topraklarda denemenin kurulmasından kaçınılmalıdır. Deneme yapılacak boş arazinin 0-20 
+cm derinliğinden ve 60 (10 dekara kadar olan alan için) ayrı noktasından alınan toprak 
+örnekleri paçal yapılarak 1 kg toprak örneği alınır. Bu örnekten 100 g alınarak “Baermann 
+Huni” metoduna göre analize tabi tutulur. Nematod popülasyon yoğunluğunun yüksek olduğu 
+alana deneme kurulur.  
+1.3. Deneme Deseni ve Tertibi   
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrefında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisini araştıracağımız ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı hataya ait serbestlik 
+derecesi 9'dan aşağı olmayacak şekilde ayarlanmalı ve olanaklar ölçüsünde fazla tutulmalıdır. 
+Tekerrür sayısı en az 4 olmalı ve tekerrür arası 1 sıra güvenlik şeridi bırakılmalıdır. Parseller 
+en az 5 m2 olmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+8
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. İlaçlamaya başlamadan önce toprak derin (40 cm) sürülmeli ve dikim yapılacakmış 
+gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Boş tarlaya uygulanacak fümigant etkili ilaçlar dikimden 2-3 hafta önce toprağa verilmeli ve 
+yine dikime bir hafta kala toprak işlenerek havalandırılmalıdır. İlaçlama zamanında toprağın 
+20 cm derinliğindeki sıcaklık ve toprak nemi ilaçların prospektüslerinde önerilen sınırlar 
+içinde olmalıdır. Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde 
+önerilen zaman ve ilaçlama sayısına göre uygulanmalıdır. Dikim öncesi kullanılacak ilaçlar 
+20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında olmadığı aylarda uygulanır.  
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+9
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+Her parselin en az 30 ayrı noktasından 0-30 cm derinliğe kadar olan kısımdan toprak sondası 
+ile toprak örneği alınarak paçal yapılır ve 1 kg toprak analiz için alınır. Bu örneklerin her 
+birinden 100 g alınarak “Baermann Huni” metoduna göre analize tabi tutulur ve elde edilen 
+Aphelenchoides fragaria mikroskop altında sayılır.  
+Denemede kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamada 6-8 hafta sonra, 
+fumigant ilaç kullanılacaksa bitki dikiminden 6-8 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi   
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlaçlamadan önce ve ilaçlamadan 6-8 hafta sonra alınan toprak örneklerinden elde edilen 
+nematod (A. fragaria) sayıları Henderson-Tilton formülüne göre değerlendirilir. Varyans 
+analizi yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç 
+hakkında bir karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+10
+KARANFİLDE KÖK-UR NEMATODLARI  
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Karanfil  
+Test Organizması: Kök-ur nematodları dişi ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+İlaçlama sırasında toprağın tav durumunda ve toprak sıcaklığının en az 150C olması 
+gereklidir. Deneme yeri olarak seçilecek tarla veya örtüaltında bir sezon öncesinden 
+vejetasyon devresi sonunda gezilerek Kök-ur nematodu ur indeksine bakılır. Bu amaçla tarla 
+veya örtüaltı alanlarda dekara en az 100 bitki incelenir. Urlu kökler 0-10 Zeck skalasına göre 
+değerlendirilerek en az 5 ve daha yukarı skala değerine sahip alanlar bulaşık kabul edilir ve 
+deneme kurulur. Bulaşık alanlarda bulunan Kök-ur nematodu tür/türlerinin teşhisi 
+yapılmalıdır. Ayrıca deneme kurulacak alanda toprak analizi (pH, bünye, tip, organik madde 
+ve katyon değişim kapasitesi) yaptırılmalıdır. 
+Fümigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisinin araştırılacağı ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra güvenlik şeridi 
+bırakılmalıdır. Parsel büyüklükleri ise 20 m2 'den az olmamalıdır. 
+Damla sulama veya yağmurlama sistemi bulunan alanlarda, denemeler bloklara (şerit 
+parsellere) uygulanmalı ve tekerrür her blok (şerit parsel) içinde alınmalıdır. Deneme yeri 
+uygunsa blokların tekrarı alınmalıdır.  
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma ilacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+11
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 0-30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 haftadan 
+az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilerek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Bazı ilaçlar can suyu şeklinde dikimden sonra toprağa uygulanabilir. Can suyu içerisinde 
+uygulanacak ilaçlarda bitki başına preparat üzerinden doz saptanması esas alınmalıdır. 
+Kullanılacak can suyu miktarı o kültür bitkisi için yerel koşullarda uygulanan limitler arasında 
+bulunmalıdır.  
+Damlama sulama sistemi ile kullanılacak ilaçlarda sistem çalıştırılarak seraya 0,5-2 saat su 
+verildikten sonra, önerilen dozdaki ilaç, ilaç normuna (lt/da) bağlı olarak, bir kap içinde belli 
+miktar suyla karıştırılarak sistemin sıvı gübre atıcısına bağlanır. Toprak özelliğine (bünye) 
+bağlı olarak ilacın etkili olması beklenen derinliğe inmesi sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kök vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği 
+doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme 
+verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, kullanılan 
+zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm. toprak derinliğindeki sıcaklığın 15oC’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+. 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz dekara preperat olarak alınmalı ve su ile birlikte yapılan uygulamalarda her 
+parsele sarf edilen ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+12
+ilaçlamadan önce bir parsele kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir 
+(Ek–1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgar hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmeli ve ilaçlamayı takiben 10 gün 
+içerisinde gerçekleşen yağışlar ile birlikte kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Değerlendirme, her parselden tesadüfi olarak alınan 20-30 bitkinin köklerinde 0-10 
+Zecksakalasına göre yapılır. Kenar etkilerini azaltmak amacıyla, bu bitkiler parsel ortasından 
+seçilmelidir. 
+Denemede kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamada 6-8 hafta sonra, 
+fumigant ilaç kullanılacaksa bitki dikiminden 6-8 hafta sonra değerlendirme yapılır. 
+0-10 Zeck Skalası 
+Urluluk 
+Derecesi 
+Değerlendirme 
+0 
+Kök sistemi ursuz 
+1 
+Kökte çok az ur var 
+2 
+Urlar küçük ancak 1’dekine göre sayıca çok 
+3 
+Kök sisteminde çok sayıda ur var, urların bazıları birleşerek büyümüş 
+4 
+Çok sayıda urlara ilaveten büyük urlar mevcut 
+5 
+Köklerin %25’i görev yapamaz durumda 
+6 
+Kök sisteminin %50’si görev yapamaz durumda 
+7 
+Kök sisteminin %75’i görev yapamaz durumda 
+8 
+Sağlam kök kalmamış, bitkinin beslenme düzeni bozulmuş fakat bitki halen 
+yeşil 
+9 
+Kök sistemi tamamen urla kaplı, kök çürümüş 
+10 
+Kök ve bitki ölü 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+13
+4. SONUÇLAR 
+İlaçların etkileri parsellerdeki bitkilerin urluluk durumları göz önünde tutularak 
+değerlendirilir. Parsellerde ortalama urluluk indeksine göre Abbott formülü yardımıyla 
+ilaçların % etkileri saptanır. Ayrıca bulunan ortalama kök-ur indeks değerlerine varyans 
+analizi uygulanarak ilaçların etkisi arasındaki farklılık istatistik olarak kontrol edilir. Urluluk 
+yönünden karakterler gruplandırılarak, denemeye alınan ilaçların ilaçsız parsel ve 
+karşılaştırma ilacına göre durumları ortaya konulup kanaate varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+14
+KAVUN VE KARPUZDA KÖK-UR NEMATODLARI 
+ [Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Kavun ve Karpuz 
+Test Organizması: Kök-ur nematodları dişi ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Kavun ve Karpuz yetiştiriciliğinde ruhsata yönelik ilaç denemelerinde bulaşık alanlarda 
+bulunan Kök-ur nematodu tür/türlerinin teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda 
+toprak analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. 
+Çift ürün alınan seralarda deneme kurulması durumunda, uygulama için birinci ürün 
+seçilmelidir. Denemeler mümkünse ağustos-ekim aylarında kurulmalıdır. Ağustos-Ekim 
+aylarında deneme kurma imkanı yoksa denemeler Aralık-Şubat aylarında kurulabilir. İlaçlama 
+sırasında toprağın tav durumunda ve toprak sıcaklığının en az 15ºC olması gereklidir.  
+Açık alanda deneme yapılması durumunda Nisan-Mayıs döneminde denemeler kurulur. 
+Deneme yeri olarak seçilecek alanda nematod bulaşıklığını tespit etmek için Kök-ur 
+nematodunun toprakta serbest olarak bulunan ikinci dönem larva yoğunluğuna bakılır. Bu 
+amaçla tarla veya örtüaltı alanlarda beş dekara kadar 50 noktadan toprak örneklemesi yapılır. 
+Yapılacak toprak analizinden sonra en az 50 larva/100 g toprak yoğunluğuna sahip olan alan 
+bulaşık olarak kabul edilir. 
+Fumigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Deneme, tesadüf blokları deneme desenine göre kurulmalıdır. Deneme kurulacak alanın 
+etrafında en az bir sıra olmak üzere kenar tesiri bırakılmalıdır. Nematoda olan etkisi 
+araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaçsız parsel) denemenin karakterlerini 
+oluştururlar. Tekerrür sayısı ise; hataya ait serbestlik derecesi 9'dan aşağı düşmeyecek şekilde 
+ayarlanmalı ve olanaklar ölçüsünde fazla tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve 
+tekerrürler arasında bir sıra güvenlik şeridi bırakılmalıdır.  
+Yerel kavun-karpuz yetiştirme tekniği göz önünde tutularak, kurulan denemelerde parselin 
+sayıma tabi tutulan bölümü en az 20–30 bitki ihtiva etmelidir. Parsel büyüklüğü buna göre 
+ayarlanmalıdır.  
+Damlama sulama sistemi bulunan seralarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+15
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma ilacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 0–30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fumigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine uygun bir 
+aletle verilerek rotavatör yardımıyla toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Bazı ilaçlar can suyu şeklinde dikimden sonra toprağa uygulanabilir. Can suyu içerisinde 
+uygulanacak ilaçlarda bitki başına preparat üzerinden doz saptanması esas alınmalıdır. 
+Kullanılacak can suyu miktarı o kültür bitkisi için yerel koşullarda uygulanan limitler arasında 
+bulunmalıdır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak seraya 1–2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30–45 dakika içinde 
+seraya verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+16
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15ºC’nin üzerinde 
+olduğu aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise firmasınca önerilen zaman ve 
+ilaçlama sayısına göre uygulanmalıdır. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preparat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek-1) 
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+15ºC’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Değerlendirmede Kök-ur nematodlarının toprakta serbest olarak bulanan ikinci dönem larva 
+populasyonlarının takibi ve söküm zamanında bitki köklerinde meydana gelen urlanma 
+oranlarından yapılacaktır. Denemeyi oluşturan her bir uygulama içerisinde bir parselin en az 5 
+farklı noktasından 5–30 cm toprak derinliğinden aylık periyotlar ile toprak örnekleri alınarak 
+Kök-ur nematodlarının 2. dönem larvalarının populasyon yoğunlukları belirlenmelidir (2. 
+dönem larva sayısı/100 g toprak). Kenar etkilerini azaltmak amacıyla, toprak örneği alınan 
+noktalar parsel ortalarından seçilmelidir. Populasyon takibi 4 ay süreyle yapılmalıdır. Kenar 
+etkilerini azaltmak amacıyla, bu bitkiler parsel ortasından seçilmelidir. Bitki köklerinde 
+urlanma oranlarını tespiti için bitki ekim/dikiminden 4 ay sonra her parselden tesadüfî olarak 
+alınan 15–20 bitkinin kökleri sökülerek 0–10 Zeck skalasına göre değerlendirilir ve kaydedilir 
+(Çizelge 1). 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+17
+Çizelge 1. Denemelerde Kök-ur nematoduna karşı kullanılan tüm ilaçların etkinliğinin 
+değerlendirmesinde kullanılacak Zeck Skalası. 
+0-10 Zeck Skalası 
+Urluluk 
+Derecesi 
+Değerlendirme 
+0 
+Kök sistemi ursuz 
+1 
+Kökte çok az ur var 
+2 
+Urlar küçük ancak 1’dekine göre sayıca çok 
+3 
+Kök sisteminde çok sayıda ur var, urların bazıları birleşerek büyümüş 
+4 
+Çok sayıda urlara ilaveten büyük urlar mevcut 
+5 
+Köklerin %25’i görev yapamaz durumda 
+6 
+Kök sisteminin %50’si görev yapamaz durumda 
+7 
+Kök sisteminin %75’i görev yapamaz durumda 
+8 
+Sağlam kök kalmamış, bitkinin beslenme düzeni bozulmuş fakat bitki halen 
+yeşil 
+9 
+Kök sistemi tamamen urla kaplı, kök çürümüş 
+10 
+Kök ve bitki ölü 
+4. SONUÇLAR 
+İlaçların etkileri parsellerdeki bitkilerin urluluk durumları ve yapılacak aylık örneklemelerde 
+bulunacak 100 g topraktaki 2. dönem larva sayısı göz önünde tutularak değerlendirilir.  
+Parsellerde ortalama urluluk indeksine göre Abbott formülü yardımıyla ilaçların yüzde etkileri 
+saptanır. Ayrıca bulunan ortalama kök-ur indeks değerlerine varyans analizi uygulanarak 
+ilaçların etkisi arasındaki farklılık istatistik olarak kontrol edilir. Urluluk yönünden 
+karakterler gruplandırılarak, denemeye alınan ilaçların ilaçsız parsel ve karşılaştırma ilacına 
+göre durumları ortaya konulup karara varılır. 
+Her bir parselden alınan toprak örneklerinden elde edilen 2. dönem larva sayısına göre 
+Henderson Tilton formülü uygulanarak ilaçların yüzde etkileri saptanır. Ayrıca bulunan 
+ortalama larva sayısına varyans analizi uygulanarak ilaçların etkisi arasındaki farklılık 
+istatistik olarak kontrol edilir. Larva sayılarına bakılarak karakterler gruplandırılarak, 
+denemeye alınan ilaçların ilaçsız parsel ve karşılaştırma ilacına göre durumları ortaya konulup 
+karara varılır. 
+Karar, larva populasyonuna ve urlanmaya etki esas alınarak verilmelidir.  
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+18
+KİVİDE KÖK-UR NEMATODLARI 
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI  
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Kivi bitkisi (Kivi omcası) 
+Test Organizması: Kök-ur nematodları dişi ve 2. dönem larvaları 
+1.2. Deneme Yerinin Özellikleri  
+Nematod zararı nedeniyle kivilerin toprak üstü kısımlarında bodurlaşma, yapraklarda sararma 
+ve zayıf meyve oluşumu veya tamamen kurumuş kivi bitkilerinin bulunduğu, nematod 
+yoğunluğunun yüksek olduğu bahçeler deneme yeri olarak seçilir. Bulaşık alanlarda bulunan 
+Kök-ur nematodu tür/türlerinin teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak 
+analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. Deneme 
+yeri olarak seçilecek bahçe dolaşılarak tesadüfi 10 kivi bitkisinin gövdesinden 50 cm 
+mesafeye kadar olan alan içinden, 0-30 cm derinlikten toprak ve kök örnekleri alınır. Paçal 
+yapılan örnekten 1 kg toprak ve 100 g kök örneği alınır. Alınan toprak örneğinden 100 gramı 
+ve 10 g kök örneği “Geliştirilmiş Baermann Huni” yöntemiyle analize tabi tutulur. Kök ve 
+toprak örneklerinden elde edilen nematod sayısı en az 50 (50 nematod/100 g toprak+10 g kök) 
+ise bu alan deneme yeri olarak seçilebilir. 
+1.3. Deneme Deseni ve Tertibi  
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve ilaçsız kontrol 
+denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait serbestlik derecesi 9'dan 
+aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla tutulmalıdır. Her parsel en 
+az 2 omcadan oluşmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra 
+güvenlik şeridi bırakılmalıdır.  
+Damla sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı ve 
+tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI  
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formülasyon şekli 
+ve dozları bir çizelge halinde verilmelidir.  
+2.2. Karşılaştırma İlacı  
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+19
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfuz etmesini engellediği için ilacın 
+etkisi düşer. Yapısına göre toprak 40 cm derinliğine kadar işlenmelidir. İlaçlamaya 
+başlamadan önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan 
+sonra toprak kesinlikle işlenmemelidir.  
+Sıvı ilaçlar ve fümigant etkili ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara 
+ise pulluğun açtığı çizilere tarla pülverizatörü, süzgeçli kova veya damla sulama sistemi ile 
+verilir. Fümigant etkili sıvı ilaç uygulamalarında toprak üzeri en az 0.025 mm kalınlığında 
+polietilen örtü ile örtülür. Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili 
+maddesine göre 1 haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar ise dekara verilmesi gereken miktarlar üzerinden bitki başına düşen ilaç miktarı 
+hesaplanarak parsellere serpilerek toprakla homojen bir şekilde karıştırılır ve sonrasında 
+omcalara su verilir. 
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damla sulama 
+sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır.  
+Kivi omcalarının kenarları 20-25 cm yüksekliğinde çevrilerek ocak haline getirilir. Emülsiyon 
+ilaçların uygulanacağı kivi omcaları su ile doldurulur ve dekara verilmesi gereken ilaç 
+miktarları üzerinden bitki başına düşen ilaç miktarı hesaplanır. İlaçlar, içinde 15 l kadar su 
+bulunan süzgeçli bir kovada iyice karıştırılarak su dolu ocaklara uygulanır.  
+Damla sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak alana 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa, ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir. 
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı  
+Dikim öncesi kullanılacak ilaçlar yaklaşık 20 cm toprak derinliğindeki sıcaklığın minimum 
+15°C ve üzerinde olduğu aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdır. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+20
+2.3.4. Kullanılan Dozlar ve Hacimler  
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preparat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1). 
+3. SAYIM VE DEĞERLENDİRME  
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır.  
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir.  
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir.  
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+İlaçlama öncesi ve sonrası her parselden 1 kg toprak örneği ve 100 g kılcal kök örneği alınır. 
+100 g toprak örneği “Baermann Huni” yöntemiyle analize tabi tutularak nematodlar 
+(Meloidogyne spp.) elde edilir.  
+Kök örnekleri ise topraklarından temizlenip çeşme suyu altında yıkandıktan sonra 1-2 cm. 
+uzunluğunda kesilir. Bu köklerden alınan 10 g kök örneği 0,5 litre su içerisinde blender 
+kullanılarak (10 saniye süreyle düşük devirde çalıştırılacak) parçalanır. Parçalanan kök 
+karışımından “Baermann Huni” yöntemiyle nematodlar elde edilir ve mikroskopta sayılır.  
+Denemeden 6-8 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi  
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi  
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+4. SONUÇLAR  
+İlacın nematoda olan etkileri, ilaçlama öncesi ve ilaçlama sonrası elde edilen nematod 
+(Meloidogyne spp.) sayıları Henderson-Tilton formülüne göre değerlendirilir. Varyans analizi 
+yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç hakkında bir 
+karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+21
+LAHANAGİLLERDE ŞEKER PANCARI KİST NEMATODU 
+[Heterodera schachtii Schmidt. (Tylenchida: Heteroderidae)]  
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Lahanagiller 
+Test Organizması: Şeker pancarı kist nematodu kist, yumurta ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Deneme için drenajı yeterli ve taşsız tarlalar tercih edilmelidir. Toprak tipi, gübreleme ve 
+toprak işleme şartları bütün parseller için homojen olmalı ve bölgesel tarım uygulamalarından 
+farklı olmamalıdır. Şeker pancarı kist nematodu ile bulaşık topraklarda yetişen bitkilerde, 
+genellikle bodurlaşma, bitkinin gelişmesinde zayıflama, küçük baş bağlama, yapraklarda 
+küçülme ve bitkinin genel görünümünde solgunluk görülür. Bitki köklerinde nematodun 
+kılcal köklerde yaptığı zarar nedeniyle "sakallanma" olarak isimlendirilen tipik dallanma ve 
+çalılaşmalar oluşur. Köklerde zarar yaparak olgunlaşan dişiler, kökler üzerinde kist haline 
+geçerler ve toprağa dökülürler. Bu tip belirtilerin ve nematod yoğunluğunun yüksek olduğu 
+tarlalar deneme yeri olarak seçilir. Bulaşık alanlarda bulunan kist nematodu türünün teşhisi 
+yapılarak Şeker pancarı kist nematodu varlığı belirlenmelidir. Ayrıca deneme kurulacak 
+alanda toprak analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) 
+yaptırılmalıdır. 
+Deneme yeri olarak seçilecek tarladan deneme kurulumu öncesi toprak sondası kullanılarak 
+yaklaşık 0-30 cm derinlikten toprak örneği alınarak, kist yoğunluğu belirlenmelidir. Parsel 
+büyüklüğüne bağlı olarak her parselden alınan 5-10 alt örnek paçal yapılarak örnek 
+elde edilmeli ve ekstraksiyona tabi tutularak binoküler mikroskop altında larva ve 
+yumurtalar sayılmalıdır. Ekstraksiyon işlemi uygun ekipmanların olduğu laboratuvarda 
+yapılmalı ve deneme raporunda nematod analizinde uygulanan metod açık olarak ifade 
+edilmelidir. 
+Seçilen deneme alanındaki nematod yoğunluğu mümkün olduğunca homojen olmalıdır. 
+Toprak örneklerinden elde edilen canlı Şeker pancarı kist nematodu (Heterodera schachtii) 
+sayısı en az canlı yumurta+larva içeren 15 adet kist/100 gr toprak veya 1250 canlı 
+larva+yumurta/100 gr toprak ise bu alan deneme yeri olarak seçilebilir. Denemenin 
+yapılacağı alandaki parsellerin tamamında toprak tipi, gübreleme ve yapılan tarımsal 
+işlemler vs. aynı olmalıdır. 
+Fumigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde 
+fazla tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra 
+güvenlik şeridi bırakılmalıdır. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+22
+Şeker pancarı yetiştirme tekniği göz önünde alınarak, parselde sayıma tabi tutulacak bitki 
+sayısı en az 20 bitki olmalıdır. Parsel büyüklüğü ise 22.5 m2'den az olmamalıdır. 
+Damlama sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır.  
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı veya kod numarası, firması, aktif madde adı ve miktarı, 
+formulasyon şekli ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve 
+uygulama şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma 
+Ürünü bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama 
+şekli gibi özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. 
+Karşılaştırma ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme 
+kurulabilir. 
+2.3. Uygulama Şekli 
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır. 
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir. 
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır. 
+Sıvı, suda eriyebilen veya ıslanabilir toz ilaçlar ise enjektör, pülverizatör, süzgeçli kova veya 
+damlama sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak alana 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır. 
+İlacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın etiketinde 
+bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+23
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir. 
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında 
+olmadığı aylarda uygulanır. 
+Ekim sırasında veya ekimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman ve 
+ilaçlama sayısına göre uygulanmalıdırlar. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1). 
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+İlaç uygulamasından hemen önce ve denemenin değerlendirme aşamasında her parselin 0-30 
+cm toprak derinliğinden parsel içinde zik zak çizilerek en az 10 noktadan toprak sondası 
+yardımıyla 1 kg toprak örneği alınır. Toprak örnekleri analize tabi tutularak elde edilen 
+nematod sayısı (canlı yumurta ve/veya larva/100 g toprak) üzerinden ölüm oranı belirlenir.  
+Toprak örnekleri alındıktan sonra kısa süre içinde analize tabi tutulmalı, kistlerin elde 
+edilmesinde ve larva sayımında kullanılan metotlar belirtilmelidir. Denemede uygulamadan 
+en az 12 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Etkisi 
+Ek 2’ye bakınız. 
+3.4. Uygulamanın Verim ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+4. SONUÇLAR 
+İlaçlama öncesi ve hasat sonrası elde edilen Şeker pancarı kist nematodu (H. schachtii) 
+sayıları Henderson-Tilton formülüne göre değerlendirilerek ilaçların nematoda olan etkileri 
+belirlenir. Varyans analizi yapılarak karakterler arasında istatistik farklılık olup olmadığı 
+belirlenerek ilaç hakkında bir karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+24
+MUZDA KÖK-UR NEMATODLARI 
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Muz bitkisi 
+Test Organizması: Kök-ur nematodları dişi ve larvaları 
+1.2. Deneme Yerinin Özellikleri   
+Nematod zararı nedeniyle muzların toprak üstü kısımlarında bodurlaşma, gövdede yumuşama, 
+yapraklarda sararma ve zayıf meyve salkımı veya doğum yapamamış muz bitkilerinin 
+bulunduğu, nematod yoğunluğunun yüksek olduğu bahçeler deneme yeri olarak seçilir. 
+Bulaşık alanlarda bulunan Kök-ur nematodu tür/türlerinin teşhisi yapılmalıdır. Ayrıca deneme 
+kurulacak alanda toprak analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) 
+yaptırılmalıdır. Deneme yeri olarak seçilecek bahçe dolaşılarak tesadüfi 10 muz bitkisinin 
+gövdesinden 50 cm mesafeye kadar olan alan içinden, 0-30 cm derinlikten toprak ve kök 
+örnekleri alınır. Paçal yapılan örnekten 1 kg toprak ve 100 g kök örneği alınır. Alınan toprak 
+örneğinden 100 gramı “Baermann Huni” yöntemiyle analize tabi tutularak nematodlar elde 
+edilir. 10 g kök örneği “Young inkubasyon” yöntemiyle analize tabi tutulur. Kök ve toprak 
+örneklerinden elde edilen nematod sayısı en az 50 (50 nematod/100 g toprak+10 g kök) ise bu 
+alan deneme yeri olarak seçilebilir. 
+1.3. Deneme Deseni ve Tertibi  
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Her parsel en az 2 ağaçdan oluşmalıdır. Tekerrür sayısı en az 4 olmalı ve 
+tekerrürler arasında 1 sıra güvenlik şeridi bırakılmalıdır.  
+Damlama sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+25
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 40 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar ise dekara verilmesi gereken miktarlar üzerinden bitki başına düşen ilaç miktarı 
+hesaplanarak parsellere serpilerek toprakla iyice karıştırılır ve arkadan ocaklara su verilir. 
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Muz ocaklarının kenarları 25 cm yüksekliğinde çevrilerek tava halinde getirilir. Emülsiyon 
+ilaçların uygulanacağı muz ocakları su ile doldurulur ve dekara verilmesi gereken ilaç 
+miktarları üzerinden bitki başına düşen ilaç miktarı hesaplanır. İlaçlar, içinde 15 l kadar su 
+bulunan süzgeçli bir kovada iyice karıştırılarak su dolu tavalara uygulanır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak alana 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi   
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15ºC’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+26
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10ºC’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+İlaçlama öncesi ve sonrası her parselden 1 kg toprak örneği ve 100 g kılcal kök örneği alınır. 
+100 g toprak örneği “Baermann Huni” yöntemiyle analize tabi tutularak nematodlar 
+(Meloidogyne spp.) elde edilir.  
+Kök örnekleri ise topraklarından temizlenip çeşme suyu altında yıkandıktan sonra 1-2 cm. 
+uzunluğunda kesilir. Bu köklerden alınan 10 g kök örneği 0,5 litre su içerisinde blender 
+kullanılarak (10 saniye süreyle düşük devirde çalıştırılacak) parçalanır. Parçalanan kök 
+karışımından “Baermann Huni” yöntemiyle nematodlar elde edilir ve mikroskopta sayılır. 
+Denemede kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamada 6-8 hafta sonra, 
+fumigant ilaç kullanılacaksa bitki dikiminden 6-8 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi   
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlacın nematoda olan etkileri, ilaçlama öncesi ve ilaçlama sonrası elde edilen nematod 
+(Meloidogyne spp.) sayıları Henderson-Tilton formülüne göre değerlendirilir. Varyans analizi 
+yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç hakkında bir 
+karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+27
+MUZDA MUZ SPIRAL NEMATODU 
+[Helicotylenchus multicinctus (Cobb.) (Tylenchida: Hoplolaimidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Muz bitkisi 
+Test Organizması: Muz spiral nematodu ergin ve larvaları 
+1.2. Deneme Yerinin Özellikleri  
+Toprak üstü kısımlarında bodurlaşma, gövdede yumuşama, yapraklarında sararma, zayıf 
+meyve salkımına sahip ağaçların bulunduğu ve nematod yoğunluğunun yüksek olduğu 
+bahçeler deneme yeri olarak seçilir. Bulaşık alanlarda bulunan Muz spiral nematodu’nun tür 
+teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak analizi (pH, bünye, tip, organik 
+madde ve katyon değişim kapasitesi) yaptırılmalıdır. Bu amaçla, muz bahçesini temsil edecek 
+şekilde en az 5 muz ocağından örnek alınır. Her ocak için bitki gövdesinden 50 cm mesafeye 
+kadar olan alan içinden, 0-30 cm derinlikten toprak ve kök örnekleri alınır. Paçal yapılan 
+örnekten 1 kg toprak ve 100 g kök örneği alınır. Alınan toprak örneğinden 100 gramı 
+“Baermann Huni” yöntemiyle analize tabi tutularak nematodlar elde edilir. 10 g kök örneği 
+“Young inkubasyon” yöntemiyle analize tabi tutulur. Kök ve toprak örneklerinden elde edilen 
+nematod sayısı en az 60 (60 nematod/100 g toprak+10 g kök) ise bu alan deneme yeri olarak 
+seçilebilir. 
+1.3. Deneme Deseni ve Tertibi  
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit 
+(ilaçlanmamış) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait serbestlik 
+derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Her parsel en az 2 ağaçdan oluşmalıdır. Tekerrür sayısı en az 4 olmalı ve 
+tekerrürler arasında 1 sıra güvenlik şeridi bırakılmalıdır.  
+Damlama sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+28
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 40 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar ise dekara verilmesi gereken miktarlar üzerinden bitki başına düşen ilaç miktarı 
+hesaplanarak parsellere serpilerek toprakla iyice karıştırılır ve arkadan ocaklara su verilir. 
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Muz ocaklarının kenarları 25 cm yüksekliğinde çevrilerek tava halinde getirilir. Emülsiyon 
+ilaçların uygulanacağı muz ocakları su ile doldurulur ve dekara verilmesi gereken ilaç 
+miktarları üzerinden bitki başına düşen ilaç miktarı hesaplanır. İlaçlar, içinde 15 l kadar su 
+bulunan süzgeçli bir kovada iyice karıştırılarak su dolu tavalara uygulanır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak seraya 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+29
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10ºC’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+İlaçlama öncesi ve sonrası her parselden 1 kg toprak örneği ve 100 g kılcal kök örneği alınır. 
+100 g toprak örneği “Baermann Huni” yöntemiyle analize tabi tutularak nematodlar 
+(H.multicinctus) elde edilir.  
+Kök örnekleri ise topraklarından temizlenip çeşme suyu altında yıkandıktan sonra 1-2 cm. 
+uzunluğunda kesilir. Bu köklerden alınan 10 g kök örneği 0,5 litre su içerisinde blender 
+kullanılarak (10 saniye süreyle düşük devirde çalıştırılacak) parçalanır. Parçalanan kök 
+karışımından “Baermann Huni” yöntemiyle nematodlar elde edilir ve mikroskopta sayılır. 
+Denemede kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamada 6-8 hafta sonra, 
+fumigant ilaç kullanılacaksa bitki dikiminden 6-8 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi   
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlacın nematoda olan etkileri, ilaçlama öncesi ve ilaçlama sonrası elde edilen nematod (H. 
+multicinctus) sayıları Henderson-Tilton formülüne göre değerlendirilir. Varyans analizi 
+yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç hakkında bir 
+karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+30
+PATATESTE PATATES KİST NEMATODLARI 
+[Globodera spp. (Tylenchida: Heteroderidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1.Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Patates  
+Test Organizması: Patates kist nematodu kist, yumurta ve larvaları 
+1.2.Deneme Yerinin Özellikleri 
+Patates alanlarında ruhsata yönelik ilaç denemelerinde sağlıklı sonuç alınabilmesi için, 
+denemelerin yapılacağı alanın bir önceki üretim sezonunda bulaşık olduğu tespit edilmelidir. 
+Bulaşık alanlarda bulunan Kist nematodu tür/türlerinin teşhisi yapılmalıdır. Ayrıca deneme 
+kurulacak alanda toprak analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) 
+yaptırılmalıdır. Denemeler patates ekim döneminde kurulmalıdır. 
+Deneme yeri olarak seçilecek tarla, bir önceki vejetasyon devresi sonunda (hasat sonu) 
+gezilerek kist yoğunluğu belirlenmelidir. Bu işlem toprak sondası kullanılarak yaklaşık 0-30 
+cm derinlikten alınan toprak örneği ile belirlenmelidir. Parsel büyüklüğüne bağlı olarak her 
+parselden alınan 5-10 alt örnek paçal yapılarak örnek elde edilmeli ve ekstraksiyona tabi 
+tutularak binoküler mikroskop altında larva ve yumurtalar sayılmalıdır. Ekstraksiyon işlemi 
+uygun ekipmanların olduğu laboratuarda yapılmalı ve deneme raporunda nematod analizinde 
+uygulanan metod açık olarak ifade edilmelidir.  
+Seçilen deneme alanındaki nematod yoğunluğu mümkün olduğunca homojen olmalıdır. 
+Toprak örneklerinden elde edilen canlı patates kist nematodları (Globodera spp.) sayısı 1250-
+5000 larva veya yumurta/100 gr toprak ise bu alan deneme yeri olarak seçilebilir. Denemenin 
+yapılacağı alandaki parsellerin tamamında toprak tipi, gübreleme ve yapılan tarımsal işlemler 
+vs. aynı olmalıdır.  
+Fümigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisinin araştırılacağı ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra güvenlik şeridi 
+bırakılmalıdır. Parsel büyüklükleri ise 20 m2 'den az olmamalıdır. 
+Damla sulama veya yağmurlama sistemi bulunan alanlarda, denemeler bloklara (şerit 
+parsellere) uygulanmalı ve tekerrür her blok (şerit parsel) içinde alınmalıdır. Deneme yeri 
+uygunsa blokların tekrarı alınmalıdır.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+31
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir.  
+2.2. Karşılaştırma ilacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama esnasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 0-30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilerek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Damlama sulama sistemi ile kullanılacak ilaçlarda sistem çalıştırılarak alana 1-2 saat su 
+verildikten sonra, önerilen dozdaki ilaç, ilaç normuna (lt/da) bağlı olarak, bir kap içinde belli 
+miktar suyla karıştırılarak sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak 
+ilacın 30-45 dakika içinde alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine 
+bağlı olarak 15 dakika ile 2 saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu 
+sağlanır.  
+Yağmurlama ile verilecek ilaçlarda alanın toprak tipine bağlı olarak toprağın doyma 
+kapasitesine ne kadar sürede ulaştığı hesaplanır. Bu süre göz önünde bulundurularak ön 
+sulama, ilaçlı sulama ve son sulama yapılır. 
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+32
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Boş tarlaya uygulanacak fümigant etkili ilaçlar ekim veya dikimden 2-3 hafta önce toprağa 
+verilmeli ve yine dikime bir hafta kala toprak belle işlenerek havalandırılmalıdır. İlaçlama 
+zamanında toprağın 20 cm derinliğindeki sıcaklık ve toprak nemi ilaçların prospektüslerinde 
+önerilen sınırlar içinde olmalıdır. 
+Dikim esnasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdır. 
+2.3.4. Kullanılan Dozlar ve Hacimler. 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 lt suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (EK-1). 
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgar hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmeli ve ilaçlamayı takip eden 10 
+gün içerisinde meydana gelen yağışlar ile birlikte kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Fumigasyon uygulaması yapıldığı durumlarda uygulamadan hemen önce ve dikimden 6-8 
+hafta sonra her parselin 0-30 cm toprak derinliğinden rastgele en az 20 noktadan toprak 
+sondası yardımıyla 1,5 kg toprak örneği alınır. Toprak örnekleri analize tabi tutularak canlı 
+larva sayısı üzerinden ölüm oranı belirlenir.  
+Sistemik ve kontakt nematisit uygulaması yapıldığı durumlarda dikimden hemen önce ve 
+hasattan sonra her parselin 0-30 cm toprak derinliğinden rastgele en az 20 noktadan toprak 
+sondası yardımıyla 1,5 kg toprak örneği alınır. Toprak örnekleri analize tabi tutularak canlı 
+larva sayısı üzerinden ölüm oranı belirlenir.  
+Toprak örnekleri alındıktan sonra kısa süre içinde analize tabi tutulmalı, kistlerin elde 
+edilmesinde ve larva sayımında kullanılan metotlar belirtilmelidir.  
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+4. SONUÇLAR 
+İlaçların nematoda olan etkileri, ilaçlama öncesi ve hasat sonrası elde edilen patates kist 
+nematodları (Globodera spp.) sayısı Henderson-Tilton formülüne göre değerlendirilir. 
+Varyans analizi yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek 
+ilaç hakkında bir karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+33
+PATATESTE KÖK-UR NEMATODLARI 
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Patates 
+Test Organizması: Kök-ur nematodları dişi ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Patates alanlarında ruhsata yönelik ilaç denemelerinde sağlıklı sonuç alınabilmesi için, 
+denemelerin yapılacağı alanın bir önceki üretim sezonunda bulaşık olduğu tespit 
+edilmelidir. Bulaşık alanlarda bulunan Kök-ur nematodu tür/türlerinin teşhisi yapılmalıdır. 
+Ayrıca deneme kurulacak alanda toprak analizi (pH, bünye, tip, organik madde ve katyon 
+değişim kapasitesi) yaptırılmalıdır. Denemeler patates ekim döneminde kurulmalıdır. 
+İlaçlama sırasında toprak tavında ve toprak sıcaklığı Meloidogyne chitwoodii ve M. fallax 
+için en az 6°C, diğer türler için 15°C olması gereklidir. Deneme yeri olarak seçilecek tarla, 
+bir yıl öncesinden vejetasyon devresi sonunda veya hasat esnasında tarla gezilerek 1 
+dekara kadar olan her alandan en az 20 konukçu bitki köklenerek yumru indeksi yönünden 
+yumrular makroskobik olarak incelenir. Yumru indeksine göre 5 skala değerine sahip alan 
+bulaşık olarak kabul edilir. 
+Fümigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin 
+kurulmasından kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme 
+deseni tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere 
+kenar tesiri bırakılmalıdır. Nematoda olan etkisinin araştırılacağı ilaç ile karşılaştırma ilacı 
+ve şahit (ilaç verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; 
+hataya ait serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar 
+ölçüsünde fazla tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 
+sıra güvenlik şeridi bırakılmalıdır. Parsel büyüklükleri ise 20 m2 'den az olmamalıdır. 
+Damla sulama veya yağmurlama sistemi bulunan alanlarda, denemeler bloklara (şerit 
+parsellere) uygulanmalı ve tekerrür her blok (şerit parsel) içinde alınmalıdır. Deneme 
+yeri uygunsa blokların tekrarı alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon 
+şekli ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+34
+uygulama şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma 
+Ürünü bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama 
+şekli gibi özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. 
+Karşılaştırma ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme 
+kurulabilir. 
+2.3. Uygulama Şekli 
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında 
+toprak tarla kapasitesinde olmalıdır. 
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın 
+etkisi düşer. Yapısına göre toprak 0-30 cm derinliğine kadar işlenmelidir. İlaçlamaya 
+başlamadan önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan 
+sonra toprak kesinlikle işlenmemelidir. 
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara 
+ise pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya 
+damlama sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü 
+ile örtülür. Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine 
+göre 1 haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine 
+serpilerek toprağa karışması sağlanır ve toprak sulanır. 
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya 
+damlama sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Damlama sulama sistemi ile kullanılacak ilaçlarda sistem çalıştırılarak alana 1-2 saat su 
+verildikten sonra, önerilen dozdaki ilaç, ilaç normuna (lt/da) bağlı olarak, bir kap içinde 
+belli miktar suyla karıştırılarak sistemin sıvı gübre atıcısına bağlanır. Buradaki vana 
+ayarlanarak ilacın 30-45 dakika içinde alana verilmesi sağlanır. İlaçlamadan sonra sistem, 
+toprak tipine bağlı olarak 15 dakika ile 2 saat arasında değişen sürede çalıştırılarak ilacın 
+toprağa nüfuzu sağlanır.  
+Yağmurlama ile verilecek ilaçlarda alanın toprak tipine bağlı olarak toprağın doyma 
+kapasitesine ne kadar sürede ulaştığı hesaplanır. Bu süre göz önünde bulundurularak ön 
+sulama, ilaçlı sulama ve son sulama yapılır. 
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkat alınır. 
+2.3.2 Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel 
+ilaçlama (kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. 
+Biyolojik etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme 
+delik çapı, meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu 
+faktörler, kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile 
+birlikte kaydedilmelidir. 
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Boş tarlaya uygulanacak fümigant etkili ilaçlar ekim veya dikimden 2-3 hafta önce 
+toprağa 
+verilmeli 
+ve 
+yine 
+dikime 
+bir 
+hafta 
+kala 
+toprak 
+belle 
+işlenerek 
+havalandırılmalıdır. İlaçlama zamanında toprağın 20 cm derinliğindeki sıcaklık ve toprak 
+nemi ilaçların prospektüslerinde önerilen sınırlar içinde olmalıdır. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+35
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen 
+zaman ve ilaçlama sayısına göre uygulanmalıdır. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 lt suya veya dekara preperat olarak alınmalı ve her parsele sarf 
+edilen ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce 
+bir parsele kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (EK-1). 
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgar hızı denemenin yapıldığı 
+yerde kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmeli ve ilaçlamayı takiben 10 
+gün içerisinde meydana gelen yağışlar ile birlikte kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamadan sonra değerlendirme hasat 
+sonrasında yapılır. Hasat zamanında her parselden 25 adet patates yumrusu alınır. 
+Yumruların kabukları soyularak mikroskop altında 
+dişiler ve/veya yumurta paketleri 
+incelenerek yumrudaki enfeksiyon sayısı ve enfeksiyon indeksi belirlenir. 
+Yumruda Enfeksiyon İndeksi 
+Enfeksiyon İndeksi 
+Değerlendirme 
+0 
+0 enfeksiyon 
+1 
+1-3 enfeksiyon 
+2 
+4-5 enfeksiyon 
+3 
+6-9 enfeksiyon 
+4 
+10-49 enfeksiyon 
+5 
+50-99 enfeksiyon 
+6 
+100 ve daha fazla enfeksiyon 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız. 
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+4. SONUÇLAR 
+İlaçların etkileri parsellerdeki yumruların enfeksiyon indeksleri göz önünde bulundurularak 
+değerlendirilir. Parsellerde ortalama enfeksiyon indeksine göre Abbott formülü yardımıyla 
+ilaçların % etkileri saptanır. Ayrıca bulunan ortalama enfeksiyon indeks değerlerine varyans 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+36
+analizi uygulanarak ilaçların etkisi arasındaki farklılık istatistiki olarak kontrol edilir. 
+Enfeksiyon yönünden karakterler gruplandırılarak, denemeye alınan ilaçların ilaçsız parsel ve 
+karşılaştırma ilacına göre durumları ortaya konulup karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+37
+SEBZEDE KÖK-UR NEMATODLARI 
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Sebze 
+Test Organizması: Kök-ur nematodları dişi ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Örtüaltı yetiştiriciliğinde ruhsata yönelik ilaç denemelerinde sağlıklı sonuç alınabilmesi için, 
+denemelerin tek ürün alınan seralarda kurulması uygundur. Bulaşık alanlarda bulunan Kök-ur 
+nematodu tür/türlerinin teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak analizi 
+(pH, bünye, tip, organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. Çift ürün alınan 
+seralarda deneme kurulması durumunda ise uygulama için 1. ürün seçilmelidir. Denemeni 2. 
+üründe yapılması nematodun biyolojisi gereği sakıncalıdır. Denemeler gerek tek ürün alınan 
+seralarda gerekse çift ürün alınanlarda ağustos-ekim aylarında kurulmalıdır. İlaçlama 
+sırasında toprağın tav durumunda ve toprak sıcaklığının en az 15ºC olması gereklidir.  
+Deneme yeri olarak seçilecek tarla veya örtüaltında bir sezon öncesinden vejetasyon devresi 
+sonunda gezilerek kök-ur nematodu ur indeksine bakılır. Bu amaçla tarla veya örtüaltı 
+alanlarda dekara en az 30 bitki incelenir. Urlu kökler 0-10 Zeck skalasına göre 
+değerlendirilerek en az 5 ve daha yukarı skala değerine sahip alan bulaşık olarak kabul edilir. 
+Fumigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra güvenlik şeridi 
+bırakılmalıdır.  
+Yerel sebze yetiştirme tekniği göz önünde tutularak, domates, patlıcan ve bunun gibi sıraya 
+dikilen kültür bitkileri ile kurulan denemelerde parselin sayıma tabi tutulan bölümü en az 20-
+30 bitki ihtiva etmelidir. Parsel büyüklüğü buna göre ayarlanmalıdır.  
+Damlama sulama sistemi bulunan seralarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+38
+2.2. Karşılaştırma ilacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 0-30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Bazı ilaçlar can suyu şeklinde dikimden sonra toprağa uygulanabilir. Can suyu içerisinde 
+uygulanacak ilaçlarda bitki başına preparat üzerinden doz saptanması esas alınmalıdır. 
+Kullanılacak can suyu miktarı o kültür bitkisi için yerel koşullarda uygulanan limitler arasında 
+bulunmalıdır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak seraya 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+seraya verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+39
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15ºC’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+. 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10ºC’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Değerlendirme, her parselden tesadüfi olarak alınan 10-20 bitkinin köklerinde 0-10 Zeck 
+sakalasına göre yapılır. Kenar etkilerini azaltmak amacıyla, bu bitkiler parsel ortasından 
+seçilmelidir. 
+Denemede kontakt, sistemik veya fumigant ilaç kullanılarak yapılan uygulamada denemeler 
+kontrol parselinde,0-10 Zeck skalasına göre en az 5 ve daha yukarı skala değerine sahip 
+olduğunda değerlendirme yapılır. 
+0-10 Zeck Skalası 
+Urluluk 
+Derecesi 
+Değerlendirme 
+0 
+Kök sistemi ursuz 
+1 
+Kökte çok az ur var 
+2 
+Urlar küçük ancak 1’dekine göre sayıca çok 
+3 
+Kök sisteminde çok sayıda ur var, urların bazıları birleşerek büyümüş 
+4 
+Çok sayıda urlara ilaveten büyük urlar mevcut 
+5 
+Köklerin %25’i görev yapamaz durumda 
+6 
+Kök sisteminin %50’si görev yapamaz durumda 
+7 
+Kök sisteminin %75’i görev yapamaz durumda 
+8 
+Sağlam kök kalmamış, bitkinin beslenme düzeni bozulmuş fakat bitki 
+halen yeşil 
+9 
+Kök sistemi tamamen urla kaplı, kök çürümüş 
+10 
+Kök ve bitki ölü 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+40
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+4. SONUÇLAR 
+İlaçların etkileri parsellerdeki bitkilerin urluluk durumları göz önünde tutularak 
+değerlendirilir. Parsellerde ortalama urluluk indeksine göre Abbott formülü yardımıyla 
+ilaçların yüzde etkileri saptanır. Ayrıca bulunan ortalama kök-ur indeks değerlerine varyans 
+analizi uygulanarak ilaçların etkisi arasındaki farklılık istatistik olarak kontrol edilir. Urluluk 
+yönünden karakterler gruplandırılarak, denemeye alınan ilaçların ilaçsız parsel ve 
+karşılaştırma ilacına göre durumları ortaya konulup karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+41
+SOĞAN VE SOĞANLI BİTKİLERDE SOĞAN SAK NEMATODU 
+[Ditylenchus dipsaci (Kühn.) (Tylenchida: Anguinidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Soğan ve soğanlı bitkiler  
+Test Organizması: Soğan sak nematodu’nun 4. dönem larvaları 
+1.2. Deneme Yerinin Özellikleri  
+Bir üretim sezonu öncesi nematod popülasyonunun yüksek olduğu yerler vejetasyon süresi 
+içinde belirlenerek deneme yeri olarak seçilir. Bulaşık alanlarda bulunan Soğan sak nematodu 
+türünün teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak analizi (pH, bünye, tip, 
+organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. 100 g toprakta en az 2 adet (2 
+nematod/100 g toprak) Soğan sak nematodu bulunması halinde bu alan bulaşık olarak kabul 
+edilerek deneme kurulabilir. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra güvenlik şeridi 
+bırakılmalıdır. Parsel büyüklüğü en az 10 m2 olmalıdır. 
+Damlama sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+42
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı  
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+43
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+Uygulamadan sonra sayımlar bitkinin tohum ekilerek veya fide dikilerek yetiştirilmesine göre 
+2 farklı şekilde yapılır. Bu süreçte aşağıda belirtilen zaman dilimlerinde her parseldeki 
+bulaşık, ölü ve sağlam bitkiler sayılır. 
+Tohum ekimi ile yetiştirilen uygulamalarda nematod popülasyonu 3 şekilde değerlendirilir; 
+1. değerlendirme: Çıkıştan kısa bir süre sonra 
+2. değerlendirme: Nematod zararından kaynaklanan belirtiler görülür görülmez  
+3. değerlendirme: Hasatta 
+Fide dikimi ile yetiştirilen uygulamalarda nematod popülasyonu 2 şekilde değerlendirilir; 
+1. değerlendirme: Fide dikiminden yaklaşık 6 hafta sonra 
+2. değerlendirme: Hasatta 
+3.3. Uygulamanın Kültür Bitkisine Etkisi   
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+Hasat sonuna kadar bulunan tüm bulaşık ve ölü bitkilerin sayısının, başlangıçtaki toplam bitki 
+sayısına oranı bulunarak ilgili parseldeki % bulaşıklık (zarar derecesi) bulunur. Bulunan 
+yüzde değerlere Abbott formülü uygulanarak % etkiler bulunur. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+44
+ŞEKER PANCARINDA KÖK-UR NEMATODLARI 
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1.DENEME KOŞULLARI 
+1.1. Kültür Bitkisi İle Test Organizmalarının Seçimi 
+Kültür Bitkisi: Şeker Pancarı 
+Test Organizması: Kök-ur nematodu larvası 
+1.2. Deneme Yerinin Özellikleri 
+Deneme için drenajı yeterli ve taşsız tarlalar tercih edilmelidir. Toprak tipi, gübreleme ve 
+toprak işleme şartları bütün parseller için homojen olmalı ve bölgesel tarım uygulamalarından 
+farklı olmamalıdır. Bir önceki yıl yetiştirilen bitki mutlaka kaydedilmelidir. Deneme yeri, bir 
+önceki üretim sezonunda Kök-ur nematodları ile yoğun bulaşık olduğu tespit edilen şeker 
+pancarı tarlalarından seçilir. Bu amaçla 1 dekara kadar olan her alandan en az 30 konukçu 
+bitki sökülerek urluluk yönünden makroskobik olarak incelenir. Sökülen pancarların kökleri 
+0-10 Zeck skalasına göre değerlendirilir. Değerlendirmenin sonucunda en az 5 urluluk 
+indeksine sahip alan deneme yeri olarak seçilir. Bulaşık alanlarda bulunan Kök-ur nematodu 
+türü teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda toprak analizi (pH, bünye, tip, 
+organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. 
+Fumigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise en az 4 olmalı; 
+hataya ait serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar 
+ölçüsünde fazla tutulmalıdır. Tekerrürler arasında 1 sıra güvenlik şeridi bırakılmalıdır. 
+Geleneksel şeker pancarı yetiştirme tekniği göz önünde tutularak, parselin sayıma tabi 
+tutulacak en az 10-20 bitki ihtiva etmesi yeterlidir. Parsel büyüklüğü buna göre ayarlanmalı 
+ve en az 22.5 m2 olmalıdır. Her parsel en az 5 pancar sırası içermelidir. 
+Damlama sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır.  
+2. İLAÇLARIN UYGULAMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+45
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli 
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fumigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak alana 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Ekim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında 
+olmadığı aylarda uygulanır.  
+Ekim sırasında veya ekimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman ve 
+ilaçlama sayısına göre uygulanmalıdırlar. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+46
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Değerlendirme, her parselden tesadüfi olarak alınan 10-20 bitkinin köklerinde 0-10 
+Zecksakalasına göre yapılır. Kenar etkilerini azaltmak amacıyla, bu bitkiler parsel ortasından 
+seçilmelidir. 
+Denemede kontakt, sistemik veya fumigant ilaç kullanılarak yapılan uygulamada denemeler 
+kontrol parselinde,0-10 Zeck skalasına göre en az 5 ve daha yukarı skala değerine sahip 
+olduğunda değerlendirme yapılır. 
+0-10 Zeck Skalası 
+Urluluk 
+Derecesi 
+Değerlendirme 
+0 
+Kök sistemi ursuz 
+1 
+Kökte çok az ur var 
+2 
+Urlar küçük ancak 1’dekine göre sayıca çok 
+3 
+Kök sisteminde çok sayıda ur var, urların bazıları birleşerek büyümüş 
+4 
+Çok sayıda urlara ilaveten büyük urlar mevcut 
+5 
+Köklerin %25’i görev yapamaz durumda 
+6 
+Kök sisteminin %50’si görev yapamaz durumda 
+7 
+Kök sisteminin %75’i görev yapamaz durumda 
+8 
+Sağlam kök kalmamış, bitkinin beslenme düzeni bozulmuş fakat bitki 
+halen yeşil 
+9 
+Kök sistemi tamamen urla kaplı, kök çürümüş 
+10 
+Kök ve bitki ölü 
+3.3. Uygulamanın Kültür Bitkisine Etkisi 
+Ek 2’ye bakınız.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+47
+3.4. Uygulamanın Verim ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlaçların etkileri; parsellerdeki bitkilerin urluluk durumları göz önünde tutularak 
+değerlendirilir. Parsel ortalama urluluk indeks değerlerinden Abbott formülü yardımıyla 
+ilaçların yüzde etkileri hesaplanır. Ayrıca bulunan ortalama kök-ur indeks değerlerine varyans 
+analizi uygulanarak ilaçların etkinliği arasındaki farklılık kontrol edilir. Urluluk yönünden 
+karakterler gruplandırılarak, denemeye alınan ilaçların, ilaçsız parsel ve karşılaştırma ilacına 
+göre durumları ortaya konulup karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+48
+ŞEKER PANCARINDA ŞEKER PANCARI KİST NEMATODU 
+[Heterodera schachtii Schmidt. (Tylenchida: Heteroderidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Şeker pancarı 
+Test Organizması: Şeker pancarı kist nematodu kist, yumurta ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Deneme için drenajı yeterli ve taşsız tarlalar tercih edilmelidir. Toprak tipi, gübreleme ve 
+toprak işleme şartları bütün parseller için homojen olmalı ve bölgesel tarım uygulamalarından 
+farklı olmamalıdır. Şeker pancarı kist nematodu ile bulaşık topraklarda yetişen bitkilerde, 
+genellikle bodurlaşma, bitkinin gelişmesinde zayıflama, yapraklar küçülme ve bitkinin genel 
+görünümünde solgunluk görülür. Bitki köklerinde nematodun kılcal köklerde yaptığı zarar 
+nedeniyle "sakallanma" olarak isimlendirilen tipik dallanma ve çalılaşmalar oluşur. Köklerde 
+zarar yaparak olgunlaşan dişiler, ölü kökler üzerinde kist haline geçerler. Bu tip belirtilerin ve 
+nematod yoğunluğunun yüksek olduğu tarlalar deneme yeri olarak seçilir. Bulaşık alanlarda 
+bulunan Şeker pancarı kist nematodu türünün teşhisi yapılmalıdır. Ayrıca deneme kurulacak 
+alanda toprak analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) 
+yaptırılmalıdır.  
+Deneme kurulacak alanı temsil edecek şekilde köşegenler doğrultusunda gezilen 1 dekar 
+alandan belirti gösteren 30 konukçu bitki sökülerek kist nematodları yönünden makroskobik 
+olarak incelenir. Bulaşık olduğuna karar verilen tarlalardan deneme kurulmadan önce toprak 
+örneği alınır. Bu amaçla tarlanın köşegenleri doğrultusunda zikzak çizerek 1 dekara kadar 
+olan alanın en az 60 ayrı noktasından toprak sondası yardımıyla 0-20 cm derinlikten alınan 
+örnekler paçal yapılır ve paçaldan 1 kg toprak örneği alınarak laboratuvara getirilir. Bu örnek 
+100 gramlık 4 tekerrür olarak Fenwick metoduna göre analize tabi tutularak kistler elde edilir. 
+Toprak örneklerinden elde edilen nematod sayısı 4 tekerrürün ortalaması, 100 g toprakta en az 
+15 adet yumurta ve larva içeren kist veya 1250 adet canlı larva ve yumurta ise bu alan deneme 
+yeri olarak seçilebilir. 
+Fumigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise en az 4 olmalı; 
+hataya ait serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar 
+ölçüsünde fazla tutulmalıdır. Tekerrürler arasında 1 sıra güvenlik şeridi bırakılmalıdır. Şeker 
+pancarı yetiştirme tekniği göz önünde alınarak, parselde sayıma tabi tutulacak bitki sayısı en 
+az 10 bitki olmalıdır. Parsel büyüklüğü ise 22.5 m2'den az olmamalıdır. Her parsel için en az 5 
+pancar sırası olmalıdır. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+49
+Damlama sulama sistemi bulunan alanlarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır.  
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli 
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır. 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak alana 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+alana verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+50
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Ekim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında 
+olmadığı aylarda uygulanır.  
+Ekim sırasında veya ekimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman ve 
+ilaçlama sayısına göre uygulanmalıdırlar. 
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+İlaç uygulamasından önce ve hasat sonrası olmak üzere, her parseli temsil edecek şekilde 
+köşegenler doğrultusunda girilir ve 20 ayrı noktadan toprak sondası yardımıyla 0-20 cm 
+derinlikten alınan örnekler paçal yapılır ve paçaldan 1 kg toprak örneği alınarak laboratuvara 
+getirilir. Bu örnek 100 g’lık 4 tekerrür olarak “Fenwick Metodu”na göre analize tabi tutularak 
+kistler elde edilir ve sayım yapılır. Toprak örneklerinden elde edilen nematod sayısı, 4 
+tekerrürrün ortalaması (canlı kist veya canlı larva ve yumurta /100 g toprakta) alınarak 
+hesaplanır. Toprak örnekleri tercihen hemen analiz edilmelidir. Bu durum mümkün olmazsa 
+kurutulduktan birkaç ay sonra da değerlendirilebilir. 
+Denemede kontakt veya sistemik ilaçlar kullanılarak yapılan uygulamada 6-8 hafta sonra, 
+fumigant ilaç kullanılacaksa bitki dikiminden 6-8 hafta sonra değerlendirme yapılır. 
+3.3. Uygulamanın Kültür Bitkisine Etkisi 
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verim ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlaçların nematoda olan etkileri, ilaçlama öncesi ve hasat sonrası elde edilen nematod (H. 
+schachtii) sayıları Henderson-Tılton formülüne göre değerlendirilir. Varyans analizi yapılarak 
+karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç hakkında bir karara 
+varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+51
+TURUNÇGİLLERDE TURUNÇGİL NEMATODU 
+[Tylenchulus semipenetrans Cobb. (Tylenchida: Tylenchulidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi 
+Kültür Bitkisi: Turunçgil ağaçları ve fidanları 
+Test Organizması: Turunçgil nematodunun larvaları 
+1.2. Deneme Yerinin Özellikleri  
+Meyveye yatmış turunçgil ağaçlarında durgunluk, gerileme ve susuzluk belirtileri, 
+yapraklarda manganez, demir, bakır, fosfor gibi mineral noksanlıkları dallarda çalılaşma, 
+meyve dökümü ve yıldan yıla ürün kalite ve kantitesinde düşme gibi belirtiler görülen 
+bahçeler deneme yeri olarak seçilir. Fidanlıklarda bakım, gübreleme ve sulama işleri çok iyi 
+yapıldığından Turunçgil nematodu'da bitkilerde yavaş çöküntü meydana getiren bir nematod 
+olduğundan ve zararı ancak 5-7 yıl sonra belirtiler şeklinde ağaçlarda görülebildiğinden 
+fidanlıkların deneme yeri seçimi için dış belirti aranmaz.  
+Örnekleme köşegenler doğrultusunda gezilerek her köşegenden 10 ağacın taç izdüşümünün 3-
+5 ayrı noktasından 10-40 cm derinliğinden toprak sondası kullanılarak kılcal köklerle birlikte 
+1 kg toprak örneği alınır. Fidanlıklardan ise her tavanın 5-10 ayrı noktasından 0-30 cm 
+derinlikten örnek alınır. Alınan örnekler laboratuvarda incelenerek turunçgil nematodunun 
+varlığı ve yoğunluğu saptanır. Deneme yerinin seçiminde ağaçların yaşının ve turunçgil 
+çeşidinin aynı olmasına, toprak karakterinin ve topraktaki Turunçgil nematodu yoğunluğunun 
+da homojen olmasına özen gösterilir. Alınan toprak örneğinden 100 g “Baermann huni” 
+yöntemiyle analize tabi tutularak nematodlar elde edilir. Toprak örneğinden elde edilen 
+nematod sayısı en az 800 (800 nematod/100 g) ise bu alan deneme yeri olarak seçilebilir. 
+1.3. Deneme Deseni ve Tertibi  
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisini araştıracağımız ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise en az 4 olmalı; 
+hataya ait serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar 
+ölçüsünde fazla tutulmalıdır. Tekerrür arasında 1 sıra güvenlik şeridi bırakılmalıdır. 
+Fidanlıklar da ise fidanların bulunduğu tavalar parsel kabul edilir.  
+Damlama sulama sistemi bulunan seralarda, denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekrarlar her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+52
+2.2. Karşılaştırma İlacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi  
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama esnasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş sahalara uygulanacak ilaçlar  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 0-30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+a) Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+b) Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır. Suda eriyebilen ve ıslanabilir toz ilaçlar ise 
+enjektörle, süzgeçli kova veya damlama sulama sistemi yardımıyla toprak yüzeyine verilir ve 
+toprak sulanır. 
+Tesis edilmiş bahçe veya fidanlıklara uygulanacak ilaçlar 
+Sistemik ve kontakt etkili ilaçlar, uygun aletle toprağa verilir ve çapalama ile toprağa 
+karıştırıldıktan sonra toprak sulanır. 
+Deneme açılan yerlerde yeni bulaşmaların önüne geçmek için, sulamanın artezyen suyu ile 
+yapılması tercih edilir. 
+Ancak ilacın uygulaması ve açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkat alınır. 
+2.3.2. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı   
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15°C’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim esnasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+53
+2.3.4. Kullanılan Dozlar ve Hacimler 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek 1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10°C’den aşağı olmamalıdır. İlaçlamayı meteakip 10 gün içerisinde vuku bulan yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı  
+Her parseldeki ağaçların taç izdüşümünün 3-5 ayrı noktasından toprak sondası kullanılarak 
+10-40 cm. derinlikten, fidanlıklarda ise tavaların 5-10 ayrı noktasından 0-30 cm derinliğinden 
+1’er kg kadar toprak örneği alınır. Bu örneklerin herbirinden 100 g alınarak “Baermann Huni” 
+metoduna göre analize tabi tutulur ve elde edilen Tylenchulus semipenetrans larvaları 
+mikroskop altında sayılır.  
+Denemede fumigant, kontakt veya sistemik ilaçlar kullanılacaksa tüm parsellerden 
+ilaçlamadan önce (engeç 1 hafta) ve uygulamadan 6-8 hafta sonra toprak örnekleri alınarak 
+nematod sayımı yapılır.  
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi   
+Ek 2’ye bakınız.  
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir.   
+4. SONUÇLAR 
+İlacın nematoda olan etkileri, ilaçlama öncesi ve ilaçlama sonrası elde edilen nematod 
+(T.semipenetrans) sayıları Henderson-Tilton formülüne göre değerlendirilir. Varyans analizi 
+yapılarak karakterler arasında istatistik farklılık olup olmadığı belirlenerek ilaç hakkında bir 
+kanaate varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+54
+TÜTÜNDE KÖK-UR NEMATODLARI 
+[Meloidogyne spp. (Tylenchida: Meloidogynidae)] 
+STANDART İLAÇ DENEME METODU 
+1. DENEME KOŞULLARI 
+1.1. Kültür Bitkisi ve Çeşidi ile Test Organizmalarının Seçimi  
+Kültür Bitkisi: Tütün  
+Test Organizması: Kök-ur nematodları dişi ve larvaları 
+1.2. Deneme Yerinin Özellikleri 
+Tütün yetiştiriciliğinde ruhsata yönelik ilaç denemelerinde sağlıklı sonuç alınabilmesi için, 
+denemelerin nematodla bulaşık tütün alanlarda kurulması uygundur. Bulaşık alanlarda 
+bulunan Kök-ur nematodu tür/türlerinin teşhisi yapılmalıdır. Ayrıca deneme kurulacak alanda 
+toprak analizi (pH, bünye, tip, organik madde ve katyon değişim kapasitesi) yaptırılmalıdır. 
+Deneme nisan-mayıs aylarında kurulmalıdır. İlaçlama sırasında toprağın tav durumunda ve 
+toprak sıcaklığının en az 15ºC olması gereklidir. Kökler temmuz-ağustos ayında incelenerek 
+ur indeksine bakılır. Bu amaçla dekara en az 30 bitki incelenir. Urlu kökler 0-10 Zeck 
+skalasına göre değerlendirilerek en az 5 ve daha yukarı skala değerine sahip alan bulaşık 
+olarak kabul edilir. 
+Fumigant etkili bir ilaç kullanılacak ise toprağın kumlu-tınlı yapıda olmasına özen 
+gösterilmeli, çok aşırı derecede kumlu, çakıllı ve killi topraklarda denemenin kurulmasından 
+kaçınılmalıdır. 
+1.3. Deneme Deseni ve Tertibi 
+Doğada nematodlar homojen bir dağılım göstermediğinden tesadüf blokları deneme deseni 
+tercih edilmelidir. Deneme kurulacak alanın etrafında en az 1 sıra olmak üzere kenar tesiri 
+bırakılmalıdır. Nematoda olan etkisi araştırılacak ilaç ile karşılaştırma ilacı ve şahit (ilaç 
+verilmeyen parsel) denemenin karakterlerini oluştururlar. Tekerrür sayısı ise; hataya ait 
+serbestlik derecesi 9'dan aşağı düşmeyecek şekilde ayarlanmalı ve olanaklar ölçüsünde fazla 
+tutulmalıdır. Tekerrür sayısı en az 4 olmalı ve tekerrürler arasında 1 sıra güvenlik şeridi 
+bırakılmalıdır. Parsel büyüklüğü en az 10 m2 olmalıdır. 
+Damlama sulama sistemi bulunan alanlarda denemeler bloklara (şerit parsellere) uygulanmalı 
+ve tekerrürler her blok (şerit parsel) içinde alınmalıdır. Deneme yeri uygunsa blokların tekrarı 
+alınmalıdır. 
+2. İLAÇLARIN UYGULANMASI 
+2.1. Denemeye Alınacak İlaçlar 
+Denemeye alınacak ilaçların ticari adı, firması, aktif madde adı ve miktarı, formulasyon şekli 
+ve dozları bir çizelge halinde verilmelidir. 
+2.2. Karşılaştırma ilacı 
+Ülkemizde aynı konuda ruhsat almış aktif madde ve yüzdesi, formülasyonu, etki ve uygulama 
+şekli aynı ilaçlar karşılaştırma ilacı olarak alınır. Bu özellikte Bitki Koruma Ürünü 
+bulunmadığı takdirde aynı konuda ruhsat almış formülasyonu, etki ve uygulama şekli gibi 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+55
+özellikleri denenecek ilaca en yakın olan ilaçlar karşılaştırma ilacı olarak alınır. Karşılaştırma 
+ilacının bulunmaması durumunda ise; sadece şahit ile karşılaştırılarak deneme kurulabilir. 
+2.3. Uygulama Şekli  
+2.3.1. Uygulamanın Tipi 
+İlaçlamadan önce toprak nemi ilacın başarısı için çok önemlidir. Uygulama sırasında toprak 
+tarla kapasitesinde olmalıdır.  
+Boş saha ilaçlamalarında kesekler ilacın toprak içine nüfusunu engellediği için ilacın etkisi 
+düşer. Yapısına göre toprak 0-30 cm derinliğine kadar işlenmelidir. İlaçlamaya başlamadan 
+önce dikim yapılacakmış gibi toprak işlemleri tamamlanmalıdır. İlaçlamadan sonra toprak 
+kesinlikle işlenmemelidir.  
+Fümigant etkili sıvı ilaçlar, küçük parsellere el enjektörü ile büyük parsel ve alanlara ise 
+pulluğun açtığı çizilere pülverizatör, traktörle çekilen aletler, süzgeçli kova veya damlama 
+sulama sistemi ile verilerek üzeri en az 0.025 mm kalınlığında polietilen örtü ile örtülür. 
+Toprak, en az 2 hafta kapalı tutulduktan sonra işlenerek ilacın etkili maddesine göre 1 
+haftadan az olmamak üzere havalandırılmalıdır 
+Granül ilaçlar, doğrudan doğruya kum, toprak vb. ile karıştırılıp toprak yüzeyine serpilirek 
+toprağa karışması sağlanır ve toprak sulanır.  
+Sıvı, suda eriyebilen ve ıslanabilir toz ilaçlar ise enjektörle, süzgeçli kova veya damlama 
+sulama sistemi yardımıyla toprak yüzeyine verilir ve toprak sulanır. 
+Bazı ilaçlar can suyu şeklinde dikimden sonra toprağa uygulanabilir. Can suyu içerisinde 
+uygulanacak ilaçlarda bitki başına preparat üzerinden doz saptanması esas alınmalıdır. 
+Kullanılacak can suyu miktarı o kültür bitkisi için yerel koşullarda uygulanan limitler arasında 
+bulunmalıdır.  
+Damlama sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği durumda, sistem çalıştırılarak seraya 1-2 saat su verildikten sonra, önerilen 
+dozdaki ilaç, ilaç normuna (l/da) bağlı olarak, bir kap içinde belli miktar suyla karıştırılarak 
+sistemin sıvı gübre atıcısına bağlanır. Buradaki vana ayarlanarak ilacın 30-45 dakika içinde 
+seraya verilmesi sağlanır. İlaçlamadan sonra sistem, toprak tipine bağlı olarak 15 dakika ile 2 
+saat arasında değişen sürede çalıştırılarak ilacın toprağa nüfuzu sağlanır.  
+Ancak ilacın uygulaması bu açıklamaların dışında özel bir metot gerektiriyorsa ilacın 
+etiketinde bulunan veya firmasınca belirtilen öneriler dikkate alınır. 
+2.3.2. Kullanılan Aletin Tipi 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayarak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik 
+etkinliği doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, 
+meme verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, 
+kullanılan zirai mücadele alet-makinesi ve ilaçlama başlıklarının ticari adı ile birlikte 
+kaydedilmelidir.  
+2.3.3. Uygulama Zamanı ve Uygulama Sayısı 
+Dikim öncesi kullanılacak ilaçlar 20 cm toprak derinliğindeki sıcaklığın 15ºC’nin altında 
+olmadığı aylarda uygulanır.  
+Dikim sırasında veya dikimden sonra kullanılan ilaçlar ise prospektüslerinde önerilen zaman 
+ve ilaçlama sayısına göre uygulanmalıdırlar. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+56
+2.3.4. Kullanılan Dozlar ve Hacimler. 
+Bitki koruma ürünleri firmasınca önerilen etkili en düşük doz ve en az iki alt dozda 
+denenmelidir. Doz 100 l suya veya dekara preperat olarak alınmalı ve her parsele sarf edilen 
+ilaçlı su miktarı kaydedilmelidir. Uygun ilaç normu seçilmeli ve ilaçlamadan önce bir parsele 
+kullanılacak su miktarı kalibrasyon yapılarak belirlenmelidir (Ek–1).  
+3. SAYIM VE DEĞERLENDİRME 
+3.1. Meteorolojik Veriler 
+İlaçlama sırasında yağış, sıcaklık, orantılı nem ve rüzgâr hızı denemenin yapıldığı yerde 
+kaydedilmeli veya en yakın meteoroloji istasyonundan alınmalıdır. 
+Deneme süresince şiddetli kuraklık, sağanak yağış, dolu vb. gibi deneme sonucunu 
+etkileyecek ekstrem hava koşulları da kaydedilmelidir. 
+İlaçlama anında 20 cm toprak derinliğindeki sıcaklık ölçülmelidir. Bu sıcaklık hiçbir zaman 
+10ºC’den aşağı olmamalıdır. İlaçlamayı takiben 10 gün içerisinde gerçekleşen yağışlar 
+kaydedilmelidir. 
+3.2. Sayım Şekli, Zamanı ve Sayısı 
+Değerlendirme, her parselden tesadüfi olarak alınan 10-20 bitkinin köklerinde 0-10 
+Zecksakalasına göre yapılır. Kenar etkilerini azaltmak amacıyla, bu bitkiler parsel ortasından 
+seçilmelidir. 
+Denemede kontakt, sistemik veya fumigant ilaç kullanılarak yapılan uygulamada denemeler 
+kontrol parselinde,0-10 Zeck skalasına göre en az 5 ve daha yukarı skala değerine sahip 
+olduğunda değerlendirme yapılır. 
+0-10 Zeck Skalası 
+Urluluk Derecesi 
+Değerlendirme 
+0 
+Kök sistemi ursuz 
+1 
+Kökte çok az ur var 
+2 
+Urlar küçük ancak 1’dekine göre sayıca çok 
+3 
+Kök sisteminde çok sayıda ur var, urların bazıları birleşerek büyümüş 
+4 
+Çok sayıda urlara ilaveten büyük urlar mevcut 
+5 
+Köklerin %25’i görev yapamaz durumda 
+6 
+Kök sisteminin %50’si görev yapamaz durumda 
+7 
+Kök sisteminin %75’i görev yapamaz durumda 
+8 
+Sağlam kök kalmamış, bitkinin beslenme düzeni bozulmuş fakat bitki 
+halen yeşil 
+9 
+Kök sistemi tamamen urla kaplı, kök çürümüş 
+10 
+Kök ve bitki ölü 
+3.3. Uygulamanın Kültür Bitkisine Olan Etkisi 
+Ek 2’ye bakınız.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+57
+3.4. Uygulamanın Verime ve Kaliteye Etkisi 
+Gerekli hallerde kontrol ve ilaçlı parsellerdeki ürün nitelik ve nicelik bakımından 
+karşılaştırılabilir ve ekonomik analiz de yapılabilir. 
+4. SONUÇLAR 
+İlaçların etkileri parsellerdeki bitkilerin urluluk durumları göz önünde tutularak 
+değerlendirilir. Parsellerde ortalama urluluk indeksine göre Abbott formülü yardımıyla 
+ilaçların yüzde etkileri saptanır. Ayrıca bulunan ortalama kök-ur indeks değerlerine varyans 
+analizi uygulanarak ilaçların etkisi arasındaki farklılık istatistik olarak kontrol edilir. Urluluk 
+yönünden karakterler gruplandırılarak, denemeye alınan ilaçların ilaçsız parsel ve 
+karşılaştırma ilacına göre durumları ortaya konulup karara varılır. 
+NOT: Böcek gelişme düzenleyicileri, mikrobiyal preparatlar ve Entegre Mücadele 
+Programlarında kullanılmaya uygun; yan etkileri az olan veya olmayan preparatlar 
+için, ilacın özelliğine ve etki şekline bağlı olarak Bakanlığın uygun görmesi halinde 
+metotta gerekli değişiklikler yapılabilir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+58
+EK-1 
+ZİRAİ MÜCADELE ALET VE MAKİNALARININ KALİBRASYONU 
+İlaçlamalara başlamadan önce mutlaka iyi bir ilaçlama tekniği kullanımı için hazırlık 
+yapılmalıdır. İyi ilaçlama tekniği; 
+• 
+Parametrelerin doğru seçimi (meme, fan, ilerleme hızı, ilaç normu, basınç vb.), 
+• 
+Efektif bir kalibrasyon metodu, 
+• 
+Kullanıcı güvenliği, 
+• 
+Pülverizatör bakım ve temizliğini içerir. 
+İlaçlamanın yapılacağı hedef yüzeylerin, bitkinin ve tarla veya bahçenin özelliklerine göre 
+öncelikle mutlaka ilaçlama parametrelerinin seçilmesi gerekmektedir. Bu yapılmadan 
+kalibrasyon yapılması mümkün olmaz. Zaten bu koşulda yapılacak kalibrasyon bitki ve 
+arazinin ihtiyaçlarını karşılayamayacağından, ilaç uygulaması yetersiz kalır. 
+İlaç uygulamalarının efektif olabilmesi için kullanılan pülverizatörün çeşidi de son derece 
+önemlidir. Bitkilerin fiziksel özellikleri (şekli,yaprak boyutu, yüksekliği hacmi, büyüme 
+dönemi vb.) birbirinden farklı olduğu için uygun ilaçlamayı yapabilecek alet ve makina 
+seçiminin bu özelliklere uygun olarak yapılması gerekmektedir. Doğru makina kullanımı 
+uyulması gereken ilk kuraldır. 
+Her zirai mücadele alet ve makinasının teknik özellikleri birbirinden farklıdır. Hatta aynı 
+makinada zaman içerisinde oluşacak yıpranma ve aşınmalar sebebiyle uygulamalarda ilaç 
+normu, damla çapı, basınç vb. değerlerde (dolayısıyla atılan ilaç miktarında) önemli 
+farklılıklar oluşmaktadır. Ayrıca özellikle sırt pülverizatörü ve sırt atomizörlerinde kullanıcıya 
+bağlı olarak ilerleme hızı ve ilaç normu değiştiğinden ilaçlama etkinliği açısından farklı 
+sonuçlar alınabilir. Bu koşullar göz önüne alındığında kalibrasyonun önemi daha iyi 
+anlaşılabilir.  
+İyi bir kalibrasyon için şu değerlerin bilinmesi gerekir: 
+• 
+İlaç normu (l/ha), 
+• 
+Memenin tipi ve verdisi (l/dak), 
+• 
+Çalışma basıncı (bar), 
+• 
+İlerleme hızı (km/h). 
+Kolay ve doğru bir pülverizatör ayarı (kalibrasyon) yapılabilmesi için aşağıdaki işlem 
+basamakları takip edilmelidir: 
+• 
+Bütün deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel ilaçlama 
+(kısmi dal, gövde vb.) yapabilecek uygun bir alet veya makinanın seçilmesi, 
+• 
+Tüm filtrelerde dahil olmak üzere pülverizatörün kontrol edilmesi, 
+• 
+İlaç etiketinin dikkatli olarak okunması, 
+• 
+Kullanılacak ilaç ve mücadelesi yapılacak hastalık-zararlı ile bitki gözönünde 
+bulundurularak pülverizasyon şeklinin ve pülverizasyon sınıfının seçilmesi, 
+• 
+İlaç normunun seçilmesi, 
+• 
+Belirlenen ilaç normunun hava koşulları ve bitki yoğunluğuna göre yeniden gözden 
+geçirilmesi, 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+59
+• 
+Meme tipi, çalışma basıncı ve ilerleme hızının (uygun damla çapı ve damla dağılım 
+düzgünlüğü sağlayacak şekilde) seçilmesi, 
+• 
+Püskürtme borusu (bum) yüksekliği ve stabilitesinin kontrol edilmesi, 
+• 
+Püskürtme borusu üzerindeki meme aralıkları ve örtme payının kontrol edilmesi, 
+• 
+Pülverizatör üzerinde yardımcı hava akımı var ise, havanın çıkış yönünün ve hava hızı 
+dağılımının kontrol edilmesi, 
+• 
+İlaç deposunun temiz su ile doldurulması, 
+• 
+İlerleme hızının kontrol edilmesi, 
+• 
+Regülatörün ayarlanması, 
+• 
+Meme verdisinin ve memeler arasındaki dağılım düzgünlüğünün kontrol edilmesi, 
+• 
+Çalışma basıncının ve buna bağlı olarak meme verdisinin yeniden kontrolü, 
+• 
+Etiket bilgilerine uygun olarak ilaç deposunun ilaç karışımı ile doldurulması, 
+• 
+İlaçlama sırasında kontrollere devam edilmesi (bum yüksekliği, basınç ayarları ve 
+memelerde tıkınma olup olmadığı), 
+• 
+İlaçlama sonunda pülverizatörün temizlenmesi. 
+1. Tarla yüzeyi ilaçlamalarında kalibrasyon 
+Tarla ilaçlamalarında yaygın olarak 8-14 m aralığında iş genişliğine sahip hidrolik tarla 
+pülverizatörleri kullanılmaktadır. Kalibrasyon metodu bu pülverizatörler için anlatılacaktır. 
+Ancak tarla koşulu veya bitkiye bağlı olarak sırt pülverizatörü ile uygulama yapılması 
+gerekiyor ise, kalibrasyon metodu bölüm 3’te verilmiştir. 
+Genel bir referans olarak tarla uygulamaları için aşağıdaki değerler kullanılabilir. 
+– İlaç normu için; 
+Herbisitler →100 - 300 l/ha 
+Fungusit ve insektisitler →150 – 300 l/ha 
+– Meme tipi ve basıncı için; 
+a) Yelpaze hüzmeli memelerde, 
+Herbisitler → 1.5 -3 bar 
+Fungusitler ve insektisitler → 2-5 bar 
+b.Konik hüzmeli memelerde, 
+Fungusitler ve insektisitler → 5-8 bar 
+Tarla ilaçlamalarında kalibrasyon için aşağıdaki sıra takip edilir: 
+I- İlerleme hızının kontrolü: 
+İstenilen ilaç normunun elde edilebilmesi için, traktörün ilerleme hızının tam olarak bilinmesi 
+çok önemlidir. Çünkü tekerleklerdeki patinajdan dolayı traktörmetrede görülen hızdan 
+sapmalar olabilir. 
+Bunun için, 100 m’den az olmayan bir uzaklık belirlenir. Bu uzaklık ilaçlama hızında geçilir 
+ve geçen zaman saniye olarak kaydedilir. 
+Aşağıdaki eşitlikten ilerleme hızı hesaplanır;   
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+60
+Uzaklık (m) x 3.6 (Sabit katsayı) 
+İlerleme hızı (km / h) =  –––––––––––––––––––––––––––––––––––   
+Zaman (s) 
+II- Meme verdisinin belirlenmesi 
+İlaçlama makinasının toplam alana atacağı ilaç+su karışımı yani ilaç normu, makinanın her 
+bir memesinden çıkan sıvı miktarına doğrudan bağlıdır. Uygun meme tipi ve çalışma basıncı 
+belirlendikten sonra verdi ölçümlerinin mutlaka yapılması gereklidir. Ayrıca bu ölçümler her 
+ilaçlamadan önce tekrarlanmalıdır. Çünkü oluşabilecek tıkanmalar, aşınmalar ve memenin 
+yapısındaki fiziksel hatalar verdinin değişmesine sebep olmaktadır. 
+Pülverizatör uygun basınçta çalıştırılarak 1 dakika süreyle temiz su püskürtülür. Püskürtülen 
+su, memelerin altına yerleştirilen kaplarda toplanarak ölçülür. Bu işlem mümkünse tüm 
+memeler için ya da en azından bumun sağ, sol ve orta kısmından olmak üzere birkaç meme 
+için yapılmalıdır. 
+III- İlaç normunun belirlenmesi 
+İlerleme hızı ve meme verdisi belirlendikten sonra aşağıdaki eşitlikten ilaç normu hesaplanır; 
+Meme verdisi (l/dak) x Meme sayısı x 600 
+İlaç normu (l/ha) = ––––––––––––––––––––––––––––––––––––– 
+İş genişliği (m) x ilerleme hızı ( km/ h) 
+İş genişliği (m) = İki meme arası mesafe (m) x Bumdaki meme sayısı 
+Eğer gerçek norm önerilen veya hedeflenen normdan % 5 daha yüksek veya daha düşük ise ya 
+basınç, ya ilerleme hızı ya da her ikisinde de ayarlamalar yapılmalıdır. 
+Tüm yüzey ilaçlamasından farklı olarak bant ilaçlamasında yalnızca bantlar üzerine ilaç 
+püskürtülmektedir. Bu nedenle tüm yüzey ilaçlamasında kullanılan ilaç deposundaki 
+karışımın aşağıdaki eşitlik ile hesaplanması uygun olacaktır. 
+Meme verdisi (l/dak) x 600 
+İlaç normu (l/ha) = ––––––––––––––––––––––––––––––––––– 
+Bant genişliği (m) x ilerleme hızı ( km/ h) 
+IV- İlaç deposuna eklenecek ilaç miktarının belirlenmesi; 
+Meme verdisi ayarlanıp, kontrolleri tamamlandığında depoya konulacak kimyasal miktarı da 
+aşağıdaki eşitlikten hesaplanabilir. 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo = ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha) 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+61
+Etkili bir ilaçlama ve ilaçlanan yüzeyler üzerinde kalan aşırı pestisit kalıntılarını azaltmak için 
+pülverizatörün kalibrasyonu periyodik olarak yapılmalıdır. Çalışma koşulları ve kullanılan 
+kimyasaldaki değişmeler yeni bir kalibrasyon gerektirir. Ayrıca memelerde oluşan aşınmalar 
+ile verdileri arttığından veya azalttığından kalibrasyon çok önemlidir. Verdi arttıkça 
+hedeflenen ilaç normundan daha fazlası tarlaya uygulanmaktadır. Verdi azaldıkça ise 
+hedeflenen ilaç normundan daha az ilaç tarlaya uygulanmakta ve etkisiz bir ilaçlama ortaya 
+çıkmaktadır. 
+2. Bağ-bahçe ilaçlamalarında kalibrasyon 
+Bağ-bahçe ilaçlamalarında da kullanılacak pülverizatörlerin kalibrasyonu için uygulanacak 
+temel plan tarla uygulamaları ile aynıdır. Ağacın şekline, yaprak yoğunluğuna ve bahçenin 
+özelliklerine uygun olarak; 
+• 
+Uygulanacak ilaç normunun seçilmesi (l/ha), 
+• 
+İlerleme hızının seçimi ve ölçülmesi (km/h), 
+• 
+Toplam meme verdisinin belirlenmesi (l/dak), 
+• 
+Eğer hedeflenen ile ölçülen değerler arasında farklılık varsa meme tipi ve basıncı ile 
+ilerleme hızının yeniden gözden geçirilmesi. 
+Bu işlem basamakları “1. Tarla yüzeyi ilaçlamalarında kalibrasyon” bölümünde yer aldığı 
+şekilde yapılmalıdır.  
+Bağ-bahçe ilaçlamalarında yaygın olarak konik huzmeli meme kullanılmaktadır. Bu 
+memelerin farklı modellerinde basınç 2-50 bar arasında değiştiğinden uygun basınç değeri 
+ilaç normuna ve damla çapına göre seçilmelidir. Bu ilaçlamalarda ilaç normu değerleri ise; 
+kullanılan makinaya ve ağaç çeşidine bağlı olarak yaklaşık 20 l/ha ile 3000 l/ha arasındadır. 
+Dolayısıyla tarla uygulamalarında olduğu gibi hastalık ve zararlı için referans değer vermek 
+zordur. 
+Bu ilaçlamalarda ilaç deposuna eklenecek ilaç miktarının belirlenmesi tarla ilaçlamalarında 
+olduğu gibi yapılmaktadır. 
+Meme verdisi ayarlanıp, kontrolleri tamamlandığında depoya konulacak kimyasal miktarı da 
+aşağıdaki eşitlikten hesaplanabilir. 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo = ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha) 
+Özellikle bahçe ilaçlamalarında hastalık ya da zararlıya karşı kullanılan ruhsatlı ilaçların bir 
+kısmında (birkaç ilaçlamanın yapıldığı ve vejetatif dönemler arasında yaprak alanı açısından 
+büyük farklılık bulunan bahçelerde) doz, l/ha veya kg/ha olarak verilmeyip 100 l suya ml 
+(konsantrasyon) olarak ifade edilmektedir. Bu koşulda ilacın etiketinde tavsiye edildiği 
+şekilde, birim alana kullanılacak su miktarına bağlı olarak depoya eklenecek ilaç miktarı 
+hesaplanmalıdır. 
+Bağ-bahçe ilaçlamalarında yaygın olarak kullanılan yardımcı hava akımlı bahçe 
+pülverizatörlerinde (atomizör) aynı zamanda fan üzerinden ayar yapılması gerekmektedir. 
+İlaçlama yapılacak ağacın şekline ve vejetasyon dönemine bağlı olarak uygun hava hızı ve 
+hava miktarı seçilmelidir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+62
+Ayrıca bağ-bahçe ilaçlamalarında kullanılan bazı makinalarda memelerin yeri ve pozisyonu 
+ihtiyaca göre ayarlanabilmektedir. Eğer bu şekilde ayar olanağı bulunmayan pülverizatör 
+kullanılıyorsa ağacın şekline göre farklı meme kombinasyonları tercih edilebilir. 
+3. Sırt pülverizatörlerinde kalibrasyon 
+Gerek tarla uygulamalarında (özellikle küçük veya traktörün giremeyeceği engebeli ve meyilli 
+alanlarda)  gerekse bağ-bahçe uygulamalarında (küçük alanlarda, yaprakaltı ilaçlamalarında 
+ve yüksek ağaçlarda ağacın üst kısım ilaçlamalarında) sırt pülverizatörleri veya tabanca ile 
+ilaçlama söz konusu olabilmektedir. 
+Eğer sırt pülverizatörleri veya tabanca ile ilaçlama söz konusu ise kalibrasyon aşağıdaki işlem 
+basamaklarına göre yapılabilir: 
+• 
+100 m2’lik bir alan işaretlenir. 
+• 
+Depoya ölçülü miktarda su konularak bu alan ilaçlanır ve depoda kalan su miktarı 
+ölçülür (Püskürtme, ilaçlı su zerreleri bitkide damla oluşturup akmayacak şekilde olmalıdır). 
+İlaçlama öncesi ve sonrasındaki su miktarı arasındaki fark kaydedilir. Aşağıdaki formülden 
+ilaç normu (l/ha veya l/da) hesaplanır. 
+Harcanan su miktarı (l) 
+İlaç normu= ––––––––––––––––––––––––––––––––––– 
+İlaçlanan alan (da, ha) 
+• 
+Ölçülen norm ile önerilen norm karşılaştırılır. Eğer gerçek norm, önerilen veya 
+hedeflenen normdan % 5 daha yüksek veya daha düşük ise ya basınç, ya ilerleme hızı ya da 
+her ikisinde de ayarlamalar yapılarak kalibrasyon yenilenir. 
+• 
+Depoya konulacak ilaç miktarı aşağıdaki eşitlikten hesaplanır 
+• 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo= ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha veya l/da) 
+Veya; 
+• 
+Makinanın deposu temiz su ile doldurulur. 
+• 
+Tarlada bitkisel örtüyü veya yüzeyi ıslatacak şekilde sabit bir yürüme hızında ve 
+meme için tavsiye edilen basınçta depo boşalıncaya kadar  bu su püskürtülür (Püskürtme, 
+ilaçlı su zerreleri bitkide damla oluşturup akmayacak şekilde olmalıdır). 
+• 
+Su bittikten sonra ıslanan alan ölçülür.Aşağıdaki formülden ilaç normu (l/ha veya l/da) 
+hesaplanır. 
+• 
+Harcanan su miktarı (l) 
+İlaç normu=  ––––––––––––––––––––––––––––––––––– 
+İlaçlanan alan (da,ha) 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+63
+• 
+Ölçülen norm ile önerilen norm karşılaştırılır. Eğer gerçek norm, önerilen veya 
+hedeflenen normdan % 5 daha yüksek veya daha düşük ise ya basınç, ya ilerleme hızı ya da 
+her ikisinde de ayarlamalar yapılarak kalibrasyon yenilenir. 
+• 
+Depoya konulacak ilaç miktarı aşağıdaki eşitlikten hesaplanır. 
+• 
+Depo hacmi (l) x Doz ( l/ha veya gr/ha) 
+İlaç/Depo= ––––––––––––––––––––––––––––––––––– 
+İlaç normu (l/ha veya l/da) 
+Yüksek ilaç normları gerektirdiğinden tabanca ile ilaçlama, özel koşullar hariç tercih 
+edilmemelidir. 
+4. Yabancı ot ilaçlamalarında kalibrasyon 
+Yabancı ot mücadelesi, mekanik veya motorlu sırt pülverizatörü ile traktöre asılır veya çekilir 
+tip tarla pülverizatörü kullanılarak yapılmalıdır. 
+Uygulamalarda yelpaze tipi memeler kullanılmalıdır. Bu memeler üzerinde bulunan 
+rakamların anlamı önemlidir.  
+Örneğin: f 03 080 yazılı bir yelpaze memede;  
+f 
+: yelpaze püskürtmeyi;  
+03 
+: memenin debisi (03 litre/dakika);  
+080 
+: memenin püskürtme açısını (80°) ifade etmektedir.  
+Standart basınçta 80° ve 110° huzme açısı veren yelpaze tipi memeler yabancı ot 
+ilaçlamasında yaygın olarak kullanılmaktadır. Örneğin 110°’lik memenin tercih edilmesinin 
+nedeni, püskürtme borusu üzerine daha az sayıda meme takılarak daha alçaktan ilaçlama 
+yapılabilmesidir. 80°’lik meme ile bitki üzerinden 50 cm yukarıdan¸ 110°’lik meme ile bitki 
+üzerinden 35 cm yukarıdan ilaçlama yapılarak sürüklenme azaltılabilir. Yelpaze memeler ile 
+tarlada düzgün bir ilaç dağılımı elde etmek için püskürtme borusu üzerinde yan yana bulunan 
+memelerden çıkan ilaç huzmelerinin uç kısımlarından itibaren belirli ölçüde birbirine girişim 
+yapması çok önemlidir.  
+Bu amaçla memeler püskürtme borusuna yaklaşık 5° açı ile yerleştirilmelidir. Böylece 
+yelpaze memeden çıkan damlaların birbirine çarpıp çok büyük damlacıkların oluşması 
+önlenerek sürüklenme riski azaltılır. 
+Yabancı ot mücadelesi sırasında kullanılacak makina, arazi ve bitki özelliklerine bağlı olarak 
+sırt pülverizatörü veya tarla pülverizatörü olmaktadır. Bu makinalar için kalibrasyon bölüm 1 
+ve bölüm 3’te anlatıldığı şekilde yapılmalıdır. 
+5. Nematodlara karşı toprak sterilizasyonu 
+Nematodlara karşı mücadelede toprağa ekim ya da dikim öncesi herhangi bir nematisitle 
+toprak boş olarak ilaçlanabilmektedir. Bu işlem sterilizasyon olarak adlandırılmaktadır. 
+Kimyasal toprak sterilizasyonunda kullanılan nematisitler sıvı veya granül yapıdadır. Önerilen 
+nematisitlerden sıvı preparatların uygulanmasında sera veya fide yerleri gibi küçük alanlar 
+için toprak el enjektörü, daha büyük alanların ilaçlanmasında traktöre monte edilmiş sıvı 
+fumigant enjeksiyon makinaları kullanılmaktadır.  
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+64
+Damla sulama sistemi bulunan seralarda ilaç, sistemin sıvı gübre atılan kısmına konularak 
+sulama suyu ile birlikte toprağa verilir.  
+Granül ilaçlar ise eldiven kullanılarak serpme şeklinde veya çeşitli tip granül dağıtıcılar 
+kullanılarak toprak yüzeyine dağıtılmaktadır. Ayrıca katı fümigant maddeler, sterilize edilmek 
+istenen alana ekim makinasının ekici ayaklarına benzer düzenlere sahip ilaçlama makinaları 
+ile  toprağa gömülmektedir.  
+Bazı emülsiyon formülasyonlu preparatların uygulaması süzgeçli kova veya sırt pülverizatörü 
+ile yapılır. 
+Fümigasyonda ilaçlama tekniği aşağıdaki şekilde uygulanmalıdır: 
+İlaçların uygulanmasından önce, toprağın derince işlenmiş, önceki üründen kalan bulaşık bitki 
+artıklarından iyice temizlenmiş veya böyle artıkların dağıtılıp çürümesini sağlamak için bir 
+kaç hafta öncesinden sürülmüş olması gerekmektedir. İlaç uygulanacak toprak tavında ve 
+ekim-dikime hazır olmalıdır.  
+Sıvı fümigantlar toprak el enjektörü veya sıvı fumigant enjeksiyon makinaları ile 30 cm ara 
+ile 15–20 cm derinliğe doğrudan toprak içerisine verilir. Basıncın etkisinden kurtulan 
+fümigant hemen buhar haline geçerek etki gösterir. 
+Damla sulama sistemi ile kullanılacak ilaçların etiketinde özel bir uygulama şekli 
+belirtilmediği taktirde, sistem çalıştırılarak seraya 1–2 saat su verildikten sonra, önerilen 
+dozdaki ilaç bir kap içinde az miktar suyla karıştırılarak sistemin sıvı gübre atıcısına bağlanır. 
+Buradaki vana ayarlanarak ilacın 30–45 dakika içinde seraya verilmesi sağlanır. İlaçlamadan 
+sonra sulama sistemi 2 saat daha çalıştırılarak ilacın toprağa nüfuzu sağlanır. 
+Granül ilaçlar için, atılacak alana göre ilaç normu hesaplanır (kg/da). Bu işlem için aşağıdaki 
+işlem basamakları izlenmelidir: 
+• 
+Toprak üzerine büyüklüğü bilinen bir plastik örtü serilir. 
+• 
+Dağıtıcı belirlenen bir hızda tente boyunca çalıştırılarak kaplanan alan belirlenir. 
+• 
+Bu alana yayılan granüller toplanarak tartılır. 
+• 
+gr/m2 veya kg/da olarak bulunan gerçek norm ile önerilen norm karşılaştırılır. Eğer 
+aradaki fark büyük olursa gerekli ayarlar yapılarak kalibrasyon tekrarlanır. 
+Elle veya granül dağıtıcılar ile toprak yüzeyine homojen olarak dağıtılır. İlacın toprağa 
+gömülebilmesi için karıştırılması gerekmektedir. Makine kullanılarak yapılan granül 
+uygulamalarında ise ilaç toprağa doğrudan gömülmektedir. İşlemin ardından toprak sulanır. 
+Gerek sıvı gerekse katı fümigantların uygulanmasından sonra gazın hemen uçmaması için 
+toprak yüzeyi  polietilen örtü ile kapatılmalıdır. Büyük alanlar ise toprağın üzeri gölleninceye 
+kadar bol su verilerek su ile örtülebilir. Örtünün kapalı tutulma süresi ilacın özelliğine bağlı 
+olarak, sıcak ve kurak mevsimlerde 2 haftaya kadar inebileceği gibi, soğuk ve yağışlı 
+periyodlarda 4 haftaya kadar uzatılabilir. Fümigant etkili bazı preparatlar solarizasyon 
+yöntemi ile birlikte kombine bir şekilde kullanılabilmektedir.  
+6. Seralarda ilaçlama uygulamaları 
+Seralarda hastalık ve zararlı kontrolü için yapılan ilaçlamalarda yaygın olarak elle veya sırtta 
+taşınan pülverizatörler kullanılmaktadır. 
+Elle taşınan pülverizatörlerde farklı damla çapları üreten makinalar bulunmaktadır:  
+• 
+Isı enerjisiyle çalışan memelerin yer aldığı sisleyiciler ile oldukça küçük damlalı sis 
+şeklinde pülverizasyon yapılmaktadır. Düşük ilaç normlarında çalışıldığından bir depo ilaç+su 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+65
+karışımı ile büyük alanlar ilaçlanabilmektedir. Ayrıca sisin yüzey aralarına nüfuz etme 
+yeteneği yüksek olduğundan hastalık ve zararlı kontrolünde etkili sonuçlar alınmaktadır. 
+Kapalı alan için genellikle 400 m3’lük birim hacim için 1 litre ilaç uygulanmaktadır. Ancak bu 
+büyük sisleme oranına karşılık ilacın solunum yoluyla vücuda geçme tehlikesi sözkonusudur. 
+Bu nedenle seralarda sisleme yapıldıktan sonra en az 5–6 saat sera kapalı tutulmalıdır. 
+İlaçlama sırasında ve seraya girilecekse sonrasında mutlaka koruyucu maske ve elbise 
+kullanılmalıdır. 
+ Sisleyicinin verdisi ve dozu doğru ayarlanmalıdır. Bitki yaprakları sisleme sırasında 
+kuru olmalı ve yüksek nem bulunmamalıdır. Sıcaklık ise 18–29 ºC arasında olmalıdır. Bu 
+nedenle sisleme için akşam saatleri tercih edilmelidir. 
+• 
+Döner diskli memeye sahip pülverizatörler ile (bazı modellerde küçük bir fan 
+bulunabilmektedir) ULV ve LV hacimlerinde küçük damlalarla ilaçlama yapılmaktadır. 
+Pülverizatör tarafından üretilen damla çapları standart olduğu için bitkide iyi bir kaplama elde 
+edilebilmektedir. Bu pülverizatörlerle ilaçlama yapılmadan önce bölüm 1.’de anlatılan meme 
+verdisi ve ilaç normunu belirlemedeki işlem basamakları takip edilmelidir. İlaçlamayı yapan 
+kişinin yürüyüş hızı da ilerleme hızı olarak göz önünde bulundurulmalıdır. Hesaplanacak ilaç 
+normuna ve doza uygun olarak gerekli ilaç depoya konulmalıdır. 
+Sırtta taşınan pülverizatörler mekanik veya motorlu olabilmektedir. Kullanım ve 
+kalibrasyonları bölüm 3 ‘te anlatılmıştır. 
+Bu pülverizatörlerin dışında üzerinde, elektrik veya benzinli motoru bulunan arabalı tip küçük 
+pülverizatörlerin de kullanımı söz konusudur. İlaçlama bir tabanca yardımıyla, düşük basınç 
+altında üretilen iri damlalar ile yapılmaktadır. Kalibrasyonu bölüm 3’te anlatılmıştır. 
+7.Damla Sulama Sistemleri ile Pestisit Uygulamaları 
+Damla sulama, noktasal ya da hat şeklindeki kaynaklar ile aracılığı düşük basınçlarda bitkinin 
+kök bölgesine eşit miktarda su temin etmek için kullanılan bir sistemdir. Bu sistemler ile 
+uygulanması tavsiye edilen pestisitleri kullanılarak zararlı etmenlere karşı ilaçlama da 
+yapılabilir. Çoğu zaman hava ve arazi koşullarına bağlı kalmaksızın tekdüze bir dağılım ile 
+ilaçlama imkanının bulunması, yoğun vejetatif dönemlerde uygulama kolaylığı, operatörün 
+kimyasallara daha az maruz kalması, traktör ve ekipmanla geçişe bağlı toprak sıkışmasının 
+azaltılması gibi yararları bulunmaktadır.  
+Damla sulama ile ilaçlama sistemlerinde de uygun ekipman kullanımı ve kalibrasyon son 
+derece önemlidir. Temel olarak bu sistemler tek parça halinde işletilen iki farklı bölümden 
+oluşmaktadır. Birinci bölümün komponentleri tipik bir sulama sisteminde olduğu gibidir: 
+ Ana su kaynağı 
+ Ana su pompası 
+ Su filtre sistemi 
+ Geri akış önleme valfi 
+ Basınç göstergesi 
+ Düşük basınç kapatma vanası  
+ Düşük basınç sensörü / kapatma düğmesi  
+ Basınç tahliye valfi 
+ Çeşitli çapta hortumlar ve tüpler 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+66
+İkinci bölümün komponentleri ise sulama ekipmanına ek olarak sisteme bitki koruma ürünü 
+enjeksiyonu öncesinde ihtiyaç duyulacak parçalardır: 
+ Kimyasal karışım deposu 
+ Herhangi bir kimyasal çözelti sızıntısını engellemek için muhafaza 
+ Düşük basınçlarda sabit akış oranını sağlamak için pompa veya cihaz 
+  Geri akış önleme valfi 
+ Alçak basınç kapatma vanası 
+Yukarıdaki komponentlerden oluşan sistem Şekil 1’ de verilmiştir. 
+Şekil 1. Damla sulama sistemi ve enjeksiyon sistemi 
+Kalibrasyon 
+1-Zamanlama: 
+Minimum enjeksiyon zamanı, ihtiyaç duyulan suyun pestisit enjeksiyon pompasından en 
+uzaktaki dağıtıcıya ulaşması için gerekli olan süredir. Bu süreyi doğru belirlemek için sabun 
+ya da gıda boyası karıştırılmış yaklaşık 4 litre su sisteme enjekte edilir. Başlangıç  ve son 
+dağıtıcıdan bu karışımın çıktığı bitiş süresi kaydedilerek sistemin doldurulması için gerekli 
+zaman bulunmuş olur. Bu süreden daha azı bitkilere eşit olmayan ilaç dağılımına sebep olur. 
+Genel bir kural olarak her bir sulama bölgesi için enjeksiyon süresi 2 saatten daha uzun 
+olmamalıdır. Ayrıca pestisit enjeksiyon için sulama döngüsünün 1/3 ‘lük dilimi 
+hedeflenmelidir. Örneğin; 180 dakikalık sulama süresinin ilk 60 dakikasından sonraki zaman 
+dilimi enjeksiyon için seçilmelidir. Tıkanmaları engellemek için enjeksiyon son filtrelerden 
+önceki bir noktada yapılmalıdır. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+67
+2-Sulama sistemine enjekte edilecek pestisit miktarının hesaplanması: 
+Damla sulama sistemine enjekte edilecek pestisit miktarının hesaplanması için öncelikle 
+ıslatılacak alanın belirlenmesi gerekmektedir. Damla sulama sistemi ile boş alanda (malçsız) 
+enjekte edilecek pestisit miktarının hesaplanması için; Bitki sıra üzerine bitkilerin kök 
+bölgelerini ıslatmak için yeterli su uygulandıktan sonra ıslatılmış sıranın genişliği ölçülür. 
+Sulanacak sıraların toplam uzunluğu ıslatılmış sıranın genişliği ile çarpılarak toplam ıslatılmış 
+alan bulunur. Sisteme enjekte edilecek pestisit miktarı bu alana göre hesaplanmalıdır. İlacın 
+etiketinden dekara uygulama dozu ile toplam alan çarpılarak sulama suyuna enjekte edilecek 
+pestisit miktarı hesaplanır. 
+A = b x h x 0,001 
+A: Toplam ıslatılan alan (da) 
+b: Islatılan sıranın genişliği (m) 
+h: Sulanacak sıraların toplam uzunluğu (m) 
+m= A x D 
+m: Enjekte edilecek pestisit miktarı (ml) 
+D: İlaç dozu (ml/da)   
+Örnek: Damla sulama sistemi ile sulanan toplam 50 sıralık bir alanda ıslatılan tek bir sıranın 
+genişliği b=0,75 m ve uzunluğu h= 50 m,  kullanılacak pestisitin dozu 125 ml/da ise; 
+A= 0,75 x 50 x 50 x 0,001= 1,87 da 
+m= 1,87 x 125= 233,75 ml’ dir. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+68
+EK-2  
+BİTKİ ZARARLILARI FİTOTOKSİSİTE REHBERİ 
+Bu rehber Türkiye Bitki Zararlılarına Karşı Zirai Mücadele Standart İlaç Deneme Metotları 
+için fitotoksitenin belirlenmesi amacıyla hazırlanmıştır. 
+1. Tanımı 
+Fitotoksite, bir bitki koruma ürününün bitkide geçici veya uzun süreli zarar oluşturma 
+kapasitesidir.  
+2. Fitotoksitenin Değerlendirilmesi 
+Bir kültür bitkisi veya ürününe bir bitki koruma ürününün fitotoksitesinin değerlendirilmesi 
+biyolojik etkinlik raporunun ayrılmaz bir parçasıdır.  
+Bitki koruma ürünlerinin fitotoksite değerlendirilmesinde ilk önce bitkideki renk değişimine 
+bakılır. Renk değişikliği söz konusu ise 5. maddede yer alan kültür bitkisi bazında hazırlanan 
+fitotoksite ile ilgili kriterler incelenir. 
+Fitotoksiteden kaynaklanan belirtilerle, tohum veya toprak kaynaklı etmenler tarafından 
+oluşturulan belirtileri birbirinden ayırmak zor olduğu için, toprağa veya tohuma doğrudan 
+uygulanan bitki koruma ürünleri için de seçicilik denemeleri rutin olarak yürütülmelidir.  
+Seçicilik denemeleri fitotoksiteyi ölçmek üzere tavsiyesi istenen dozda ve uygulamada üst 
+üste ilaçlamalarla karşılaşılabileceği düşünülerek iki katı dozda yapılır. Bu durumda 
+genellikle belirtilerin yanı sıra verim üzerine etkiler de değerlendirilir.  
+Aynı bitkiye, ikinci ürüne ya da komşu bitkiye kullanılan farklı bitki koruma ürünleri 
+arasındaki etkileşimler veya bir önceki ürüne yapılan uygulamadan kalan kalıntılar sonucunda 
+da fitotoksite meydana gelebilir. Gerektiğinde bu faktörler göz önüne alınmalıdır. 
+Sonuç olarak fitotoksite değerlendirmesiyle ilgili olarak çeşit seçiminin de önemli olduğu 
+vurgulanmalıdır. Farklı çeşitlere fitotoksitenin karşılaştırılabilmesi için bir dizi özel deneme 
+kurmak yararlı olabilir.  
+3. Genel Fitotoksite Belirtilerinin Tanımları  
+Fitotoksite etkileri bitki gelişimi boyunca her hangi bir zamanda veya hasatta görülebilir. Bu 
+belirtiler geçici veya kalıcı olabilir. Belirtiler bütün bitkiyi etkileyebileceği gibi bitkinin kök, 
+yaprak vb. herhangi bir organında görülebilir. Bu durum açıkça belirtilmeli ve mümkünse 
+görsel olarak belgelenmelidir. 
+Belli başlı fitotoksite belirtileri şunlardır: 
+Renk değişmesi: Bütün bitkinin veya bazı kısımlarının sararma, beyazlaşma, renk 
+koyulaşması veya açılması, kahverengileşme veya kızarıklık gibi renk değişiklikleri 
+Bitki gelişme dönemlerinde sapmalar: Gelişmede duraklama veya gecikme, uyanma, 
+çiçeklenme, meyve bağlama, olgunlaşma gibi dönemlerdeki gecikmeler veya sapmalar, 
+yaprak, çiçek, meyve vb. gibi organların görülmemesi 
+Ölü Doku (Nekroz) Oluşumu: Ölü doku, organ ve dokuların bölgesel ölümüdür. Başlangıçta 
+genellikle renk değişmesi olarak görünür. Daha sonra ölü doku noktaları yaprak üzerinde 
+delikler bırakarak dökülür. 
+Şekil bozuklukları: Bitkide veya bazı kısımlarında görülen kıvrılma, bodurluk, uzama, 
+hacimde değişme gibi normalden farklılaşmalardır. Solma da bu gruba girer. 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+69
+4. Genel Fitotoksite Belirtilerini Değerlendirme Yöntemleri 
+Seyrelme: Fidan sayısında azalma 
+Gelişme dönemlerine erken veya geç ulaşma: Bitkilerin %50’sinin belirli bir gelişme 
+dönemine ulaştığı gün sayısı olarak veya belirli bir sürede bir gelişme dönemine ulaşmış bitki 
+sayısı olarak. 
+Gelişmede gerileme veya hızlanma: Bazı organların sayısında, uzunluğunda ve çapında 
+oransal veya kesin ölçümler.  
+Renkte değişmeler, nekroz ve deformasyon: Parsel veya birim alan başına etkilenen bitki 
+veya bitki kısımlarının sayısal, skala kullanımı (örneğin; hiç yok, hafif, orta, çok) ile, 
+etkilenen yüzey alan oranı veya şahit ile karşılaştırılmak suretiyle belirtilir.  
+5. SEÇİCİLİK DEĞERLENDİRMELERİNDE KULLANILACAK KRİTERLER 
+Fitotoksite; denenen bitki koruma ürününün etki şekli, uygulama zamanı vb. gibi özellikler 
+esas alınarak aşağıda belirtilen uygun parametreler seçilmek suretiyle değerlendirilmelidir. 
+MEYVE AĞAÇLARI İÇİN 
+a. Belirli gelişme dönemlerine ulaşmada, tomurcuklanmada, çiçeklenmede, meyvenin renk 
+değiştirmesinde ve meyvenin olgunlaşmasında gecikme 
+b. Çiçek ve meyve dökmede hızlanma, 
+c. Çiçek ve yaprak tomurcuğu sayısında azalma, 
+d. Olgunlaşmadan önce ve olgunlaştıktan sonra düşen meyve sayısında artma, 
+e. Yaprak ayasının tamamında kloroz, renk açılması vb. gibi anormal renk oluşumları, 
+f. Yaprak damarlarında, damar aralarında, uçlarında veya kenarlarında lokal renk bozukluğu 
+veya anormal renk oluşumu, 
+g. Bir yıllık sürgünlerde renk bozukluğu veya anormal renk oluşumu,  
+h. Bir yıllık sürgünlerdeki yaprak kenarlarında, damar boyunca ve yaprak ayasında nekroz 
+oluşumu, 
+ı. Yaprak veya yıllık sürgünlerde kısalma, çalılaşma ve kıvrılma, yaprak ayasında solgunluk, 
+şişkinlik ve kıvrılma, damarların şekil ve yerinde değişiklikler, petiol, yaprak sapı ve yaprak 
+ayasının bir birine yapışması gibi deformasyonların oluşması, 
+i. Hasat zamanı meyvede lekelenme (1-4 skalası kullanılabilir) 
+1  leke yok 
+2  meyve yüzeyinin %10’u lekeli 
+3  meyve yüzeyinin %10-30’u lekeli 
+4  meyve yüzeyinin %30’undan fazlası lekeli 
+BAĞ İÇİN 
+a. Belirli gelişme dönemlerine ulaşmada, tomurcuklanmada, çiçeklenmede, meyvenin renk 
+değiştirmesinde ve meyvenin olgunlaşmasında gecikme 
+b. Çiçek ve yaprak tomurcuğu sayısında azalma, 
+c. Yaprak ayasının kenarlarında, damarlarında, ayanın iç kısımlarında renk bozukluğu veya 
+lokalize olmuş lekeler, 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+70
+d. Genç sürgün ve dallarda renk bozukluğu ve nekroz oluşumu, 
+e. Odunsu dokuda renk bozukluğu ve nekroz oluşumu (doku içindeki renk bozukluğunu 
+gösterir ) 
+f. Tüm bitkide çalılaşma, kıvrılma, boğum aralarının kısalması ve solgunluk gibi 
+deformasyonlar 
+g. Yapraklarda çalılaşma, kıvrılma, şişme, şemsiye şekli alma ve damarlarda büzüşme gibi 
+deformasyonlar 
+ENDÜSTRİ VE SÜS BİTKİLERİ 
+a. Belirli gelişme dönemlerine ulaşmada, tomurcuklanma, taraklanma, çiçeklenme, koza 
+oluşturmada gecikme ve azalma, 
+b. Tarak, çiçek, tomurcuk ve koza dökmede hızlanma, 
+c. Tarak, çiçek ve yaprak tomurcuğu sayısında azalma, 
+d. Yaprak ayasının tamamında kloroz, renk açılması vb. gibi anormal renk oluşumları, 
+e. Yaprak damarlarında, damar aralarında, uçlarında veya kenarlarında lokal renk bozukluğu 
+veya anormal renk oluşumu, 
+f. Yapraklarda çalılaşma, kıvrılma, şişme, şemsiye şekli alma, damarlarda büzüşme, bamya 
+yapraklılık oluşumu gibi deformasyonlar 
+g. Çiçeklerde şekil bozuklukları, renk bozulmaları, çiçeklerin tam açılmaması 
+h. Kozaların sağlıklı açılamaması ve küçük kalması 
+SEBZE, YEM BİTKİLERİ VE PATATES 
+a. Bitkilerde fide öneminde ve/veya gelişme dönemine ulaştığında, çiçeklenmede, 
+yapraklarda, meyvenin renk değiştirmesinde ve meyvenin olgunlaşmasında gecikme 
+b. Çiçek, meyve ve yaprak dökmede hızlanma, 
+c. Çiçek ve yaprak tomurcuğu sayısında azalma, 
+d. Olgunlaşmadan önce ve olgunlaştıktan sonra düşen meyve sayısında artma, 
+e. Yaprak ayasının tamamında kloroz, renk açılması vb. gibi anormal renk oluşumları, 
+f. Çiçek, meyve görünümünde ve yapısında; Yaprak damarlarında, damar aralarında, 
+uçlarında veya kenarlarında oluşabilecek lokal renk bozukluğu veya anormal renk oluşumu 
+h. Sürgünlerdeki yaprak kenarlarında, damar boyunca ve yaprak ayasında nekroz oluşumu, 
+ı. Yaprak veya sürgünlerde kısalma, çalılaşma, kıvrılma, solgunluk, şişkinlik ve kıvrılma; 
+damarların şekil ve yerinde değişiklikler, petiol, yaprak sapı ve yaprak ayasının bir birine 
+yapışması gibi deformasyonların oluşması, 
+i. Hasat zamanı meyvede lekelenme (1-4 skalası kullanılabilir) 
+1  leke yok 
+2  meyve yüzeyinin %10’u lekeli 
+3  meyve yüzeyinin %10-30’u lekeli 
+4  meyve yüzeyinin %30’undan fazlası lekeli 
+T A G E M
+Zararlı Nematodlar Standart İlaç Deneme Metotları  
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+71
+HUBUBAT 
+a. Kardeş/bitki sayısında azalma, belirli gelişme dönemlerine ulaşmada, (çiçeklenmede/tepe 
+püskülü oluşumu, koçan bağlama) olgunlaşmada gecikme,  
+b. Çiçek organları, başak, panikül/tepe püskülü çıkartan bitki sayısında azalma, 
+c. Yapraklarda renk bozukluğu, daha açık veya koyu yeşil renk veya beyazlaşma,  
+d. Yapraklarda ölü doku oluşumu, deformasyonlar, 
+e. Bitki boyunda değişim ve gövde deformasyonları, 
+f. Çiçeklerde deformasyonlar (çift veya çatallaşmış başak, ilave başakçıklar vb.) 
+g. Sapa kalkamama ve çiçek durumunun oluşmaması 
+h. Verime etki 
+ı. Çimlenme ve sürme gücü ve hızına etkiler (tohum ilaç denemelerinde) 
+DEPO   
+a. Çimlenme, sürme gücü ve hızına etkiler 
+b. Üründe renk bozukluğu veya anormal renk oluşumu 
+c. Üründe lekelenme 
+d. Koku ve tat yönünden değişim gözlemlenmeli 
+e. Üründe şekerlenme 
+f. Meyve sertliği 
+g. Üründe nem miktarı  
+h. Ürünün asitliği (gibi kriterleri de ekleyebiliriz. Dilek Turanlı) 
+GENEL ZARARLILAR 
+Denenen ilacın uygulama şekli, formülasyonu ve konukçusu dikkate alınarak yukarıdaki 
+parametrelere göre fitotoksik yönden değerlendirilmelidir. 
+T A G E M

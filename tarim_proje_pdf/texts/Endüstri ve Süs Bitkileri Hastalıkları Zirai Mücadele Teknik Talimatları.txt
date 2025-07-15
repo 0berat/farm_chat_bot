@@ -1,0 +1,2245 @@
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+1
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+2
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+İÇİNDEKİLER 
+ 
+İÇİNDEKİLER………………………………………………………………………………………………2 
+ 
+AYÇİÇEĞİNDE KÖMÜR ÇÜRÜKLÜĞÜ Macrophomina phaseolina (Tassi) Goid.…………………...3 
+ 
+AYÇİÇEĞİ MİLDİYÖSÜ Plasmopara halstedii (Farl.) Berl. &De Toni………………………………….5 
+ 
+AYÇİÇEĞİ PASI Puccinia helianthii (Schw.)………………………………………………………………9 
+ 
+AYÇİÇEĞİNDE SİYAH GÖVDE LEKESİ Phoma macdonaldii Boerema……………………………...12 
+ 
+ÇINAR KANSERİ Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. [Synm: Ceratocystis 
+fimbriata f.sp. platani (C. May & J.G. Palmer)]…………………………………………………………....14 
+ 
+ÇİMLERDE TOPRAK KÖKENLİ HASTALIKLAR Rhizoctonia spp., Fusarium spp., Bipolaris spp., 
+Pythium spp.………………………………………………………………………………………………….17 
+ 
+ÇİMLERDE YAPRAK YANIKLIĞI Bipolaris spp., Curvularia spp.……………………………………20 
+ 
+GÜL MİLDİYÖSÜ Peronospora sparsa Berk.……………………………………………………………..22 
+ 
+KANOLADA KARABACAK (GÖVDE KANSERİ) Phoma lingam (Tode) Desm. (=Leptosphaeria 
+maculans (Desm.) Ces and De Not ve L. biglobosa)………………………………………………………..25 
+ 
+KARANFİLDE TOPRAK KÖKENLİ FUNGAL HASTALIKLAR……………………………………..28 
+ 
+KEKİKTE KÜLLEME Golovinomyces biocellatus (Ehrenb. V. P. Heluta)……………………………...30 
+ 
+PAMUKTA FİDE KÖK ÇÜRÜKLÜĞÜ Rhizoctonia solani J.G. Kühn., Fusarium spp., Alternaria spp., 
+Macrophomina spp., Verticillium spp., Aspergillus niger Van Tieghen…………………………………...32 
+ 
+PAMUKTA Verticillium SOLGUNLUĞU Verticillium dahliae Kleb.…………………………………...36 
+ 
+SOYADA CERCOSPORA YAPRAK LEKESİ VE YANIKLIĞI Cercospora sojina Hara, Cercospora 
+kikuchii T. Matsu & Tomoyasu……………………………………………………………………………..38 
+ 
+SOYADA KÖMÜR ÇÜRÜKLÜĞÜ Macrophomina phaseolina (Tassi) Goid…………………………...41 
+ 
+SÜS BİTKİLERİNDE KURŞUNİ KÜF Botrytis spp.…………………………………………………......43 
+ 
+SÜS BİTKİLERİNDE KÜLLEME Erysiphe spp., Podosphaera spp., Phyllactinia spp., Uncinula spp., 
+Sphaerotheca spp., Microsphaera spp., Oidium spp. ve Leveillula spp.…………………………………...45 
+ 
+SÜS BİTKİLERİNDE YAPRAK LEKESİ Alternaria spp., Septoria spp., Cercospora spp.……………48 
+ 
+ŞEKER PANCARINDA CERCOSPORA YAPRAK LEKE HASTALIĞI Cercospora beticola Sacc…51 
+ 
+ŞEKER PANCARINDA ÇÖKERTEN/KÖK YANIKLIĞI [Rhizoctonia solani Kühn., Phoma betae 
+A.B. Frank (syn. Pleospora bjoerlingii Byford.) Pythium spp., Fusarium spp.]………………………….54 
+ 
+ŞEKER PANCARINDA KÜLLEME Erysiphe betae (Vaňha) Weltzien (synonym: Erysiphe 
+polygoni)………………………………………………………………………………………………………60 
+ 
+ŞERBETÇİOTU KÜLLEMESİ Podosphaera macularis (Wallr.:Fr.) U. Braun & S. Takamatsu 
+(=Sphaerotheca macularis (Wallr.:Fr.) Lind ,=Sphaerotheca humuli (DC.) Burrill)…………………….63 
+ 
+YERFISTIĞINDA AFLATOKSİN Aspergillus flavus, Aspergillus parasiticus………………………….65 
+ 
+YERFISTIĞINDA CERCOSPORA YAPRAK LEKESİ Cercospora arachidis Henn. ve Cercospora 
+personata (Berk. & M.A. Curtis) Ellis……………………………………………………………………...68 
+ 
+YERFISTIĞINDA KÖKBOĞAZI ÇÜRÜKLÜĞÜ Aspergillus niger Tiegh.............................................71 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+3
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+AYÇİÇEĞİNDE KÖMÜR ÇÜRÜKLÜĞÜ 
+Macrophomina phaseolina (Tassi) Goid. 
+1. TANIMI VE YAŞAYIŞI 
+Macrophomina phaseolina, ayçiçeğinde kömür çürüklüğü hastalığına neden olan, toprak ve 
+tohum kaynaklı fungal bir patojendir. ‘Özükuru hastalığı’ olarak da bilinmektedir. Hastalık 
+etmeni toprakta serbest halde veya bitki artıklarında mikrosklerot şeklinde kışlar. 
+Mikrosklerotlar yuvarlak şekilli ve siyah renkli dayanıklı yapılardır. Fungus toprakta en az 2 
+yıl canlılığını sürdürebilir. İlk enfeksiyonlar mikrosklerotlarla gerçekleşir. Hastalık şiddeti 
+toprakta bulunan canlı mikrosklerotların sayısı ile doğrudan ilişkilidir. Uygun koşullar altında 
+mikrosklerotlar çimlenerek, doğal açıklıklardan ve yaralardan konukçu bitkiye giriş yapar. 
+Konukçu dokusuna giriş yapan hif önce hücrelerarası gelişir daha sonra iletim demetlerinde 
+kolonize olur. Fungusun oluşturduğu mikrosklerotlar iletim demetinin tıkanmasına neden 
+olur. Topraktan su ve besin elementlerinin alımının engellenmesi sonucu bitkide solgunluk ve 
+ölüm gerçekleşir. 
+Hastalık toprak sıcaklığı 30°C’nin üzerine çıktığında ve kurak koşullarda iyi gelişir. Bununla 
+birlikte bitkide meydana gelen su stresi ve açılan yaralar da hastalık şiddetinin artmasına 
+neden olmaktadır. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Fungus ayçiçeğinde fide yanıklığı, çökerten, kök çürüklüğü ve gövde çürüklüğüne neden olur. 
+Etmen, bitkileri tohum, fide ve olgun bitki döneminde hastalandırabilir. Eğer hastalık 
+tohumda görülürse tohumlar çimlenmeyebilir, fide döneminde görülürse bitkiler solar ve ölür. 
+Genç fidelerde hastalık belirtileri hipokotillerde kahverengi lezyonlar şeklinde başlar. Daha 
+sonra hastalıklı bitkilerin yaprakları küçük, solgun ve kahverengimsi renge dönüşür. Olgun 
+bitkilerde ise hastalık, sararma ve solgunluk şeklinde belirti gösterir. Kök boğazı ve gövdeye 
+yakın kısmında kahverengi-siyah renklerde lezyonlar görülür (Şekil 1). Bu belirtilere sahip 
+bitkilerin gövdesi boyuna kesildiğinde iğne başı büyüklüğünde siyah renkli mikrosklerotlar 
+görülür. Hastalıklı bitkiler çoğunlukla erken olgunlaşır ve sağlıklı bitkiye göre daha ince 
+gövdeli ve küçük tablalıdır. Yapraklar dökülmez, bitki üzerinde kalır. Hastalık belirtileri ilk 
+olarak tarladaki kuru kalmış alanlarda gözlenir. Kömür çürüklüğü hastalığının en karakteristik 
+belirtisi kök ve gövde içindeki mikrosklerotlardır.  
+Ayçiçeği tarımı yapılan alanlarda özellikle Trakya bölgesinde hastalık görülmektedir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+4
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Ayçiçeğinde kömür çürüklüğü hastalığının kök boğazındaki belirtisi 
+3. KONUKÇULARI 
+Fungus ayçiçeğinin dışında soya fasulyesi, sorgum, mısır, susam, tütün, pamuk, domates, 
+börülce, mercimek, kavun, kadife çiçeği gibi çok sayıda kültür bitkisinde de hastalık 
+oluşturmaktadır.  
+4. MÜCADELESİ 
+4.1. Kültürel önlemler 
+- Hastalıktan ari tohum kullanılmalıdır. 
+-Hastalığın görüldüğü tarlalarda 2-3 yıl konukçusu olmayan bitkilerle münavebe yapılmalıdır. 
+- Dayanıklı çeşit tercih edilmelidir. 
+- Özellikle sıcak aylarda bitkileri su stresine sokmayacak şekilde düzenli sulama yapılmalıdır. 
+- Hastalıklı bitki artıkları ortamdan uzaklaştırılmalıdır. 
+- Derin sürüm yapılarak mikrosklerotlar toprağa gömülmelidir.  
+4.2. Kimyasal Mücadele 
+Bu hastalığa karşı etkili bir kimyasal mücadele yöntemi bulunmamaktadır. 
+©T. Hilal Çiftçigil 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+5
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+AYÇİÇEĞİ MİLDİYÖSÜ 
+Plasmopara halstedii (Farl.) Berl. &De Toni 
+1. TANIMI VE YAŞAYIŞI 
+Ayçiçeği mildiyösü hastalığına Plasmopara halstedii (Farl.) Berlese et de Toni fungal etmeni 
+neden olmaktadır. Hastalık etmeni toprak, tohum ve hava kaynaklıdır. Etmenin dünya 
+genelinde 44 ırkının olduğu bilinmektedir.  
+Etmen, tohumda misel ve oospor, bitki artıklarında ise oospor olarak kışlar. Oosporlar 
+toprakta 5-10 yıl canlılığını sürdürebilir. İlkbaharda 15-20°C sıcaklık ve nemli koşullarda 
+zoosporangiumlar oluşur. Daha sonra oluşan zoosporlar toprak suyunda hareket ederek 
+bitkilerin toprak altı kısımlarından giriş yaparak primer enfeksiyonlar başlamış olur 
+(Şekil 1).  
+Daha sonra fungus miselleri, bitki içerisinde hücreler arasında beslenerek yukarıya doğru 
+ilerler ve sistemik olarak kolonize olur. Sistemik enfeksiyonlar tohumlar çimlendikten 2-
+3 hafta sonrasına kadar gerçekleşir, bitki olgunlaştıkça hastalığa dirençli hale gelmeye 
+başlar. %70-80 nisbi nemde yaprakların altında oluşan fungal örtü (sporangium) yağmur 
+ve rüzgârın etkisiyle dağılarak sekonder enfeksiyonları gerçekleştirirler.  
+Elverişli koşullar ortadan kalktığında etmen oospor formuna geçerek yaşamını devam ettirir. 
+Şekil 
+1. 
+Plasmopara 
+halstedii 
+sporangiofor 
+ve 
+sporangiumları 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalık belirtileri, etmenin bitkiyi yakaladığı döneme göre değişmektedir. Etmen tohumla 
+taşınabildiğinden ve ayrıca bitki artıkları üzerinde kışlayabildiğinden, henüz toprak yüzeyine 
+çıkmış fidelerde çökerten belirtilerine neden olabilmektedir. Bu tür bitkiler toprak yüzeyine 
+devrilirler. Bu dönemi atlatan bitkilerde ise kök ve kökboğazı enfeksiyonları, sistemik 
+enfeksiyonlar veya lokal yaprak lezyonları görülür. Bitkilerde görülen en yaygın belirti 
+tipidir, bulaşık tarlaya uzaktan bakıldığında bodur bitkiler ve yer yer boşluklar dikkati çeker 
+(Şekil 2). 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+6
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 2. Hastalıklı tarlada bodur bitkilerin 
+görünüşü 
+Fide döneminde enfekteli bitkiler büyürken, patojen de bu bitkilerin dokuları 
+içerisinde gelişir. Diğer bitkilere göre bodur kalan bu bitkilerin yaprakları birbirine 
+yaklaşmış ve dolayısı ile rozetleşmiştir. Bunun yanında enfekteli bitkilerde 
+yaprakların damarları boyunca açık sarı bir renk değişimi (kloroz) de dikkati çeker. 
+Nemli havalarda yapraktaki kloroz belirtilerinin altında yer alan yaprak dokularında 
+etmenin beyaz renkli fungal örtüsünü (sporangium) görmek mümkündür (Şekil 3). 
+Etmen, bitki içinde tablaya kadar çıkabilir ve enine kesit yapıldığında dokudaki 
+fungal gelişme kahverengi çizgi şeklinde izlenebilir. Hasta bitkilerde tablaların içi 
+tam dolmaz, sapları kıvrılmaz ve dik durur. Tohumların çimlenme güçleri, bin dane 
+ağırlıkları ve yağ içerikleri azalır. 
+Orta şiddetteki enfeksiyonlarda bitki normal gelişim gösterebilir. Bu durumda 
+yapraklarda sadece klorotik lekeler görülür. Bazen dış belirtiler de görülmeyebilir. Bu 
+durumda bitki boyu normal, tabla eğiktir. Buna karşın bu bitkilerin kök ve kök 
+boğazında etmenin varlığı beyaz fungal örtü sayesinde anlaşılır. 
+Şiddetli enfeksiyonlarda fungal örtü kotiledonlarda, kök ve kök boğazı kısımlarında 
+görülür (Şekil 4). Bitkilerde %100’e varan ürün kaybına neden olabilmektedir. 
+Ülkemizde başta Trakya bölgesi olmak üzere ayçiçeği tarımı yapılan hemen yer 
+yerde bu hastalığa rastlamak mümkündür. 
+Şekil 3. Yapraklarda kloroz (a) ve yaprak altlarında sporangiumların oluşturduğu fungal örtü (b) 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+7
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 4. Kotiledonlarda 
+oluşan fungal örtü 
+Hastalığın bir sonraki yıla geçişinde en önemli faktör, kışlık sporlarla bulaşmış olan tohum, 
+kendi gelen bitkiler ve topraklardır. Hastalığın bir tarladan diğerine geçişinde ise bulaşık 
+tohum ve tohuma karışmış bitki artıkları, rüzgâr ve rüzgârla karışık yağmurlar, taşkın sular rol 
+oynar. 
+3. KONUKÇULARI 
+Etmen, yalnızca Asteraceae familyasına bağlı bitkilerde hastalık oluşturur. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Sertifikalı tohum kullanılmalıdır. 
+- Sık ekimden kaçınılmalıdır. Dekara ortalama 800-900 g tohum yeterli olmaktadır. 
+- Ekim nöbeti uygulanmalıdır. Ağır bulaşık alanlarda buğday ve pancar gibi bitkilerle 7 
+yıllık bir ekim nöbetine gidilmelidir. 
+- Düzenli bir yabancı ot savaşımı yapılmalıdır. 
+- Zayıf drenaja sahip topraklarda ayçiçeği üretiminden kaçınılmalıdır. 
+- Dayanıklı çeşit ekilmelidir. 
+- Tarlada görülen hastalıklı bitkiler ve hasat sonrası bitki artıkları sökülüp imha edilmelidir. 
+- İki yapraklı dönemde, tarladaki hastalık oranı %30’un üzerine çıkarsa, böyle tarlaların 
+sahipleri uyarılarak tarlaları sürdürülmelidir. 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+İlaçlama, ekimden önce tohum ilaçlaması şeklinde yapılır. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+8
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2.3. Kullanılacak alet ve makineler 
+Tohum ilaçlamasında, düz beton zemin, plastik leğen, beton havuz, metal bidon gibi ilaçlama 
+kapları kullanılabilir. İlaç karıştırma işlemi kürek ve plastik eldivenlerle veya mekanik 
+sarsıcılarla yapılabilir. 
+4.2.4. İlaçlama tekniği 
+Toz veya sıvı formülasyonlu preparatların 100 kg tohum için önerilen ilaç miktarı 1-1.5 litre 
+su içerisinde çözündürülür ve sonrasında karıştırmayla bu ilaçlı su bütün tohuma homojen 
+olarak dağıtılır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+9
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+AYÇİÇEĞİ PASI 
+Puccinia helianthii (Schw.) 
+1. TANIMI VE YAŞAYIŞI  
+Ayçiçeğinde pas hastalığına Puccinia heliantii (Schw.) isimli fungal patojen neden 
+olmaktadır. Enfeksiyon üretim sezonu boyunca, inokulum kaynağına ve çevresel koşullara 
+bağlı olarak herhangi bir zamanda meydana gelebilir. Yağışlar veya çiy nedeniyle yaprak 
+üzerinde oluşan nisbi nem ve 13-30°C arasında seyreden hava sıcaklıkları enfeksiyon için 
+elverişli koşullardır. Enfeksiyon oluşumu için yaprağın minimum 2 saat süreyle ıslak kalması 
+gereklidir. Pas sporları, bir önceki üretim sezonundan kalma hastalıklı bitki artıklarında kışlar. 
+Baharda, sporlar çimlenerek yeni enfeksiyonlar meydana getirirler. Uygun koşullar altında, 
+spor üretimi ve hastalığın ilerlemesi bütün bir yıl boyunca devam eder.  
+Geç dönemde ekilen duyarlı çeşitler genellikle erken ekime oranla hastalıktan daha çok 
+etkilenir. Yağlık çeşitler genellikle yaygın pas ırklarına karşı çerezlik çeşitlere oranla daha iyi 
+direnç göstermektedir.  
+Ayçiçeği pası yalnızca ekimi yapılan ayçiçeği türleri ile yabani ayçiçeği türlerini hastalandırır. 
+Yaşam döngüsünü tamamlamak için alternatif bir konukçuya ihtiyaç duymaz. Puccinia 
+helianthii’nin yabani ve ekili ayçiçeği türlerinde meydana gelen yaşam döngüsünde 5 aşama 
+vardır. Hastalıklı bitki artıkları üzerinde kışlayan teliosporlar bahar aylarında çimlenerek 
+yalnızca mikroskop altında görülebilen basidiumları oluşturur. Basidiumlarda olgunlaşan 
+basidiosporlar yaprakları enfekte ederek piknidium oluşumunu başlatır. Piknidiumların 
+oluşumundan 8-10 gün sonra aeciumlar meydana gelir ve aeciosporlar rüzgarlarla taşınarak 
+yeni ayçiçeği bitkilerini veya bitki kısımlarını enfekte ederler. Burada üredial püstüller 
+meydana gelir ve ürediosporlar rüzgarlar aracılığıyla uzak mesafelere taşınabilirler. Şiddetli 
+enfeksiyonlarda ürediosporlar ayçiçeğinin tüm toprak üstü kısımlarında görülür (Şekil 3). 
+Hastalık için elverişli koşullarda üredial aşama 10-14 günde bir tekrarlanır. Hava sıcaklığının 
+düşmesiyle etmen, üredial aşamadan kışlama formu olan telial aşamaya geçecektir. Baharda, 
+teliosporlar çimlenerek hastalık döngüsünü devam ettirirler.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Ayçiçeği pasında piknidiumlar çok sık görülmemekle beraber küçük (yaklaşık 6 mm), sarı 
+veya turuncu renkte lekeler şeklinde kotiledonların veya alt yaprakların üst yüzünde belirir. 
+Hastalık ilerledikçe, aeciumlar yapraklarda piknidiumların alt yüzünde meydana gelir. 
+Aeciumlar piknidiumlarla benzer boyutta turuncu kümeler halinde görünür (Şekil 1). Eğer 
+aeciumlar göründüyse, pasın en yaygın dönemi olan ürediler iki hafta içerisinde oluşur. Üredi 
+püstülleri çok küçüktür (yaklaşık 1,5 mm) ve bitkide üst yapraklarda veya yaprakların alt 
+yüzünde görülür. Püstüllerin içi tarçın rengi ürediosporlarla doludur, etraflarında klorotik hale 
+bulunur (Şekil 2). Üretim sezonunun sonunda ürediler sert ve siyah yapılar olan teliumlara 
+dönüşürler (Şekil 4). 
+Ayçiçeği pası, ayçiçeğinin yaygın görülen hastalıklarından biridir. Ülkemizde Trakya 
+Bölgesi’nde ayçiçeğinde mildiyöden sonra en önemli hastalık olduğu bildirilmiştir. Duyarlı 
+çeşitlerde erken dönemde gerçekleşen enfeksiyonlar tabla ve tohum boyutlarına bağlı olarak 
+yağ içeriği ve verimin düşmesine neden olur. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+10
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1.a) Yaprağın üst yüzünde yer alan piknidiumlar b) Yaprağın alt yüzünde yer alan aeciumlar 
+Şekil 2. Yaprağın üst ve alt yüzünde yer alan tarçın rengi püstüller 
+Şekil 3. Gövde, yaprak sapı ve tabladaki koruyucu yapraklar üzerinde yer alan ürediosporlar  
+a
+b
+© T. Hilal Çiftigil 
+© T. Hilal Çiftigil 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+11
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 4. Sert ve siyah yapıdaki teliumlar 
+3. KONUKÇULARI 
+Etmen yalnızca Asteraceae (Compositae) familyası bitkilerde hastalık oluşturur.  
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Hastalığa dayanıklı çeşitler ekilmelidir. 
+- Geç dönem enfeksiyonları önlemek için erken ekim yapılmalıdır.  
+- Tarlada görülen hastalıklı bitkiler ve hasat sonrası bitki artıkları tarladan uzaklaştırılarak 
+imha edilmelidir. 
+- Yabani ayçiçeği türleriyle ve Asteraceae familyasına ait yabancı otlarla mücadele 
+edilmelidir. 
+- Aşırı azotlu gübrelemeden ve sık ekimden kaçınılmalıdır. 
+- 3 yıllık ekim nöbeti uygulanmalıdır.  
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele, yeşil aksam ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+İlaçlamalara hastalık için uygun hava şartları oluştuğunda ve tarlada yapraklar üzerinde ilk 
+hastalık belirtileri görülür görülmez başlanır. Hastalığın seyrine göre kullanılan ilacın etki 
+süresi dikkate alınarak ilaçlamalara devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Ülkemizde bu bitkide bu hastalığa karşı henüz ruhsatlı bir bitki koruma ürünü 
+bulunmamaktadır. 
+4.2.3.Kullanılacak alet ve makinalar 
+İlaçlamada sırt pülverizatörü (mekanik, otomatik, motorlu) kullanılır. 
+4.2.4. İlaçlama tekniği 
+İlaçlama sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm bitkiyi kaplayacak 
+şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+12
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+AYÇİÇEĞİNDE SİYAH GÖVDE LEKESİ 
+Phoma macdonaldii Boerema 
+1. TANIMI VE YAŞAYIŞI 
+Ayçiçeğinde siyah gövde lekesi hastalığına tohum kaynaklı Phoma macdonaldii (Eşeyli 
+formu Plenodomus=Leptosphaeria lindquistii) fungusu neden olmaktadır. Etmen, kışı 
+hastalıklı bitki artıklarında miselyum ya da piknit olarak geçirir. Açık kahverengiden koyu 
+kahverengiye kadar değişen renkte piknidyumlar dikkatli bakıldığında çıplak gözle 
+görülebilirler. 
+Fungus bitkiye stoma gibi doğal açıklıklardan ya da mekanik zararlanmalar sonucu açılan 
+yaralardan girer. Konidiler yağmur sularıyla yayılır. Etmen tohuma kadar geçer ve primer 
+inokulum kaynağı olarak önemlidir. Primer infeksiyonları ilkbaharda piknidyumlardan toplu 
+olarak çıkan pikniosporlar gerçekleştirir. Hastalığın gelişmesi ve yayılmasında sıcaklık, nem 
+ve yağış önemli faktörlerdir. Hastalık 20-30°C sıcaklık ve yüksek nemde hızlı gelişir. 
+Çiçeklenme sonrasındaki yağışlar enfeksiyon şiddetini arttırır. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalığın belirtileri yaprak, yaprak sapı, gövde ve tablada görülebilir. Hastalıklı bitkilerin 
+gövdesinde 4-5 cm uzunluğunda oval siyah lekeler oluşur ve tipik olarak yaprak ve 
+yaprakların gövdeye bağlandığı kısımlarda hastalık lezyonları görülür (Şekil 1-2). Hastalık 
+için uygun koşullar oluştuğunda tüm gövde siyah lekelerle kaplanabilir. Hastalığın ilerleyen 
+dönemlerinde lekeler üzerinde siyah küçük piknitler karakteristiktir. Yaprak sapındaki bu 
+belirtiler yaprak kenarlarına doğru yayılır ve tüm yaprağı kaplar. Bu tip yapraklar sapa 
+bağlandığı kısımlardan başlayarak kurur ve dökülür.  
+Şekil 1-2. Ayçiçeğinde siyah gövde lekesi hastalığının belirtileri 
+Hastalıklı bitkilerin tablaları sağlıklı bitkilere oranla daha küçük olup, dane tutumu ve 
+danelerin yağ oranı da düşüktür. Hastalık, iklim koşulları uygun olduğunda tüm üretim sezonu 
+boyunca görülebilir ancak yaz sonunda gövdedeki lezyon belirtileri ortaya çıkana kadar fark 
+edilmez. Hastalık belirtileri genellikle yüzeyseldir ve öz dokusunda zararlara yol açmaz. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+13
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Ancak Apion spp. ve Cylindrocopturus spp. larvaları bitkinin öz dokusuna etmenin sporlarını 
+taşıdığında, özde de lezyonlar görülebilir.  
+Ayçiçeğinde siyah gövde lekesi hastalığı %10-30 verim kaybına sebep olabilmektedir.  
+3. KONUKÇULARI 
+Ayçiçeği tek konukçusudur. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Hastalıktan ari tohum kullanılmalı, 
+- Dayanıklı çeşitler tercih edilmeli, 
+- Sık ekimden kaçınılmalı, 
+- 2-3 yıllık ekim nöbeti yapılmalı, 
+- Hastalıklı bitkiler imha edilmeli, 
+- Bitkilerin gövdesinde yara açılmasından kaçınılmalıdır. 
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele, tohum ve yeşil aksam ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+Tohum ilaçlamalarında, tohumlar ekim sırasında veya ilacın özelliğine göre daha önceden 
+ilaçlanabilir. 
+Yeşil aksam ilaçlamalarına, tarla veya çevresinde yapraklar üzerinde ilk hastalık belirtileri 
+görülür görülmez başlanır. Hastalığın seyrine göre kullanılan ilacın etki süresi dikkate 
+alınarak ilaçlamalara devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3.Kullanılacak alet ve makinalar 
+İlaçlamada sırt pülverizatörü (mekanik, otomatik, motorlu) kullanılır. 
+4.2.4. İlaçlama tekniği 
+İlaçlama sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm bitkiyi kaplayacak 
+şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+14
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ÇINAR KANSERİ 
+Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr. 
+[Synm: Ceratocystis fimbriata f.sp. platani (C. May & J.G. Palmer)] 
+1. TANIMI VE YAŞAYIŞI 
+Çınar Kanseri Hastalığı (Ceratocystis platani) çınar (Platanus spp.) ağaçlarında kanser, 
+solgunluk ve kurumalara neden olan bir yara patojeni hastalığıdır. Çınar ağaçları biyotik veya 
+abiyotik nedenlerle dal, gövde ve köklerde oluşan yaralardan enfekte olabilmektedir. 
+Patojenin sporları bir yarayla temas ettiğinde çimlenir ve sağlam dokularda miselyum gelişir 
+ve altındaki ksilem dokularına ilerler, hem enine hem de boyuna gelişebilmektedir. Askospor 
+içeren peritesyum yapısı enfeksiyondan sonraki altı ile sekiz gün içinde (Şekil 1a-b), 
+klamidosporlar ise enfeksiyondan 10-20 gün sonra, konukçunun ksilem içerisinde bol 
+miktarda oluşur. Eşeysiz sporlar (Şekil 1c-d) enfeksiyondan 2-8 gün sonra, özellikle budama 
+yerlerinde kül renginde tozlu bir tabaka şeklinde ortaya çıkar. Etmen, ksilem boyunca 
+solgunluk patojeni olarak hareket eder ve aynı zamanda kansere neden olur. Çınar kanseri 
+enfeksiyonu nedeniyle doku nekrotik hale geldikçe sekonder enfeksiyona neden olabilen 
+Pestalotiopsis spp., Fusarium spp., Dendrochium spp., Sphaeropsis spp., Asterosporium spp. 
+gibi diğer etmenler nekrotik dokularda kolonize olabilmektedir. 
+C. platani'nin optimum gelişme sıcaklığı 25°C'dir. Yüksek nem enfeksiyon ve hastalık 
+gelişimi için gerekli iken 10°C'nin altında veya 45°C'nin üzerinde fungus gelişememektedir. 
+Patojen, enfekteli ağaçlarda bir yıl boyunca klamidospor olarak canlılığını devam 
+ettirebilmekte, kışın toprakta 3 aydan fazla hayatta kalabilmekte, 35-40°C sıcaklıklar ise 
+toprakta canlılığını olumsuz etkilemektedir. 
+Şekil 1. Etmenin peritesyum (a), askospor (b), aleuriokonidi (c) ve silindirik 
+endokonidi (d) yapıları (Dr. Zühtü POLAT). 
+a 
+b 
+c 
+d 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+15
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Enfeksiyon genç bitkinin ana dalında veya gövdesinde meydana geldiğinde, uzunlamasına 
+çökük ve nekrotik iğ şeklinde lezyonlar görülür (Şekil 2a). Olgun ağaçlarda; genellikle önce 
+seyrek, klorotik yapraklara sahip tek bir dal ve yaprakların bir kısmının aniden solması ile 
+birlikte geriye doğru ölüm belirtisi göstermektedir (Şekil 2b-c). Solgunluk genellikle 
+ilkbahar/yaz döneminde görülür. Yapraklar başlangıçta sararır, sonra kurur, ancak hemen 
+dökülmez. Çevredeki sağlıklı yapraklardan kolayca ayırt edilebilirler. Zaman zaman bazı 
+dallar tomurcuk vermez veya gelişen tomurcuklar aniden solarak ölür. Ağacın gövdesi veya 
+dal kısmı, geniş lezyonlar ve sayısız yuvarlak kabuk şişkinlikleri gösterir, ardından 
+uzunlamasına çatlar. Yaraların kenarları kallus oluşumu göstermezler ve genellikle mavimsi-
+siyah şeritler halinde gelişirler. Eğer bir lezyon gövdeyi veya ana dalı sarmışsa, lezyondan 
+uzak alanlarda kabuk, belirgin bir kızılımsı-kahverengi renk alır. Yayılan lezyonlar, floem, 
+kambiyum ve genç odun tabakasını etkiler. Bitkiler tek tek veya gruplar halinde etkilenebilir. 
+Tek bir enfeksiyon yeri, bir yıl içinde 2-2.5 metre uzunluğa ulaşabilir. Hastalık, 30-40 cm 
+çapında bir ağacı 2-3 yılda ve büyük, güçlü bir ağacı ise 4-7 yılda öldürebilir.  
+Etmen, dünyanın birçok bölgesinde tespit edilmiştir. ABD’nin çeşitli eyaletlerinde ve 
+Avrupa’da (Avusturya, Belçika, Fransa, Yunanistan, Hollanda, İngiltere, İtalya, İngiltere vb.) 
+binlerce çınar ağacı bu hastalıktan dolayı kesilmiştir. Yaşlı çınar ağaçlarının kesilmesi, 
+kentsel peyzajı ve turizmi olumsuz etkileyebilmektedir. Hastalıklı ağaçların kentsel alanlarda 
+kesilmesi veya alternatif türlerle değiştirilmesi maliyetli bir durumdur. Hastalık, dal, gövde 
+veya köklerdeki yaralar aracılığıyla yayıldığı gibi bulaşık toprak suyunun köklerle emilmesi, 
+kuşlar, böcekler ve köklerin birbirine teması ya da yağmur suları ile de yayılmaktadır. Etmen, 
+kök kaynaşması (anastomozis), budama aletleri ve çeşitli vektörlerle sağlıklı çınar ağaçlarına 
+bulaşabilmektedir. 
+Şekil 2. Hastalık belirtisi gösteren ağaç gövdesinde oluşan nekrotik alan (a) ve kuruma belirtisi 
+gösteren çınar ağaçları (b-c) (Dr. Zühtü POLAT). 
+3. KONUKÇULARI 
+Batı çınarı (Platanus occidentalis), Doğu çınarı (Platanus orientalis), Kaliforniya çınarı 
+(Platanus racemosa), Londra çınarı (Platanus x hispanica) 
+4. MÜCADELESİ 
+4.1. Kültürel önlemler 
+-Sağlıklı üretim materyali kullanılmalıdır.  
+a 
+b 
+c 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+16
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+-Dikim materyali hastalığın görülmediği bölgelerden temin edilmelidir. Fidanlıklar 
+hastalıktan ari olduğu tespit edilen yerlerde kurulmalıdır.  
+-Budama işleminde kullanılan alet ve ekipmanlar, budama işleminden önce ve budama 
+esnasında her ağaç arasında alkol veya sodyum hipoklorid ile dezenfekte edilmelidir. 
+-Hastalıklı ağaçlar kesildiğinde, tüm bitki artıkları ve talaşlar, ağacın altında bırakılmamalı, 
+alandan uzaklaştırılıp yakılmalıdır. Kesim sırasında ortaya çıkan talaşların çevreye saçılması 
+engellenmeli, toplanmalı ve bol miktarda sodyum hipoklorid püskürtülerek dezenfekte 
+edilmelidir. 
+-Endüstride ahşap yonga levha üretimi için kullanılan çınar ağaçları etmenin öldürülmesi için 
+üretim sürecinde yüksek sıcaklıklarla (90-100°C) işlenmelidir. 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+Bu hastalığa karşı etkili bir kimyasal mücadele yöntemi bulunmamaktadır. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+4.2.3. Kullanılacak alet ve makineler 
+4.2.4. İlaçlama tekniği 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+17
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ÇİMLERDE TOPRAK KÖKENLİ HASTALIKLAR 
+Rhizoctonia spp., Fusarium spp., Bipolaris spp., Pythium spp. 
+1. TANIMI VE YAŞAYIŞI 
+Ülkemizde çimlerde kök ve kökboğazı çürüklüğüne neden olan etmenlerin başında 
+Rhizoctonia spp. ve Fusarium spp. gelmektedir. Bipolaris spp. ve Pythium spp. de çim 
+alanlarında sorun oluşturmaktadır. Etmenler kışı spor, miselyum ve sklerot halinde yeşil bitki 
+örtüsü ile toprak yüzeyi arasında kalan ölü ve canlı çimden oluşan tabaka (thatch) kısmında 
+geçirirler. Bu funguslar toprak kökenli olup tohumla da taşınabilmektedir. Kesin tanıları 
+ancak laboratuvar çalışmalarıyla yapılabilir. 
+Rhizoctonia spp.’in hifleri dik açı oluşturacak şekilde yan dallar oluşturur. Yan dallar 
+üzerinde boğumun hemen yanında bir bölme oluşur. Miseller bölmeli, gençken şeffaf sonra 
+sarımtırak olup, yaşlandıkça koyu kahverengi bir renk alır. Patates Dekstroz Agar (PDA) 
+ortamında gelişen koloni renkleri, kremden kahverengiye, devetüyü renginden turuncu renge 
+kadar değişiklik göstererek, türler arasındaki farklılıkları ortaya koyar. Hastalık etmeni, 
+türlere göre değişkenlik gösteren renk ve büyüklükte sklerot oluşturmaktadır ve bu sklerot 
+yapıları ile toprakta daha uzun süre canlı kalabilmektedir. Rhizoctonia türleri bitkiyi hifleri ile 
+enfekte etmektedir, spor oluşturmazlar. R. solani ve R. cerealis’de enfeksiyon ve hastalık 
+gelişimi için optimum sıcaklık aralığı 21-32°C’dir. Ilık ve nemli havalarda enfeksiyon şiddeti 
+de artış gösterir. R. zeae ve R. oryzae' nin neden olduğu hastalıklar ise daha çok 28-36°C 
+aralığında görülmektedir.  
+Fusarium türleri, kültürde bol miktarda kısa ve kalın görünümlü bölmeli makrokonidi 
+oluşturur. Makrokonidiler genellikle 4-6 bölmeli olup kıvrık ya da düz olabilmektedir. Bazı 
+türlerde belirgin bir ayak hücresi varken bazılarında ise bu ayak hücresi belirgin değildir. Çok 
+sayıda tür mikrokonidi de oluşturabilmektedir. Bazı türler kültürde klamidospor oluşturmakta 
+ve meydana getirdiği pigmentler nedeni ile somon, karmen, pembe renkler oluşturmaktadır.  
+Bipolaris türlerinin konidioforları koyu kahverengi, kısa ve çoğunlukla tek veya küçük 
+gruplar halinde düz veya kıvrık genellikle 3-10 bölmelidir. Toprak patojenleri kurak geçen 
+uzun ilkbahar periyodundan sonraki yağışlarda şiddetli hastalık oluşturur. Oksijenin yetersiz 
+olduğu ağır ve zayıf topraklarda hastalık daha fazla ortaya çıkar.  
+Pythium türlerinin hifleri şeffaftır ve genellikle 5-7 mm çaptadır. Koloni renkleri beyaz-krem 
+renktedir. Bölmesiz misellere ve sporangiyumlara sahiptir. Sporangia türe bağlı olarak değişik 
+şekillerde (ipliğimsi, şişkin ipliğimsi, küremsi) ve boyutlarda oluşan asexuel sporlardır. Eşeyli 
+devresinde ise anteridium ve oogonyumlara sahip olan bir toprak fungusudur. Pythium spp. 
+oosporları ile kışlamaktadır. Fungus 27-34°C arasindaki sıcaklıkları ve nemli ortamlar tercih 
+eder. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Rhizoctonia solani çim alanlarında çapı birkaç cm’den bazen birkaç metreye kadar ulaşan 
+kahverengi yama belirtilerine sebep olur. Kahverengi yama belirtisi çim alanlarında ilk olarak 
+mor ya da gri-yeşil alanlar şeklinde başlar. Enfekteli yapraklar kuruduktan sonra bu alanlar 
+hızla soluk bronz veya kahverengiye dönüşür ve sonuçta iç kısmı saman rengi olan etrafı koyu 
+kahverengi kenarla çevrelenmiş yamalar oluşur (Şekil 1). Rhizoctonia cerealis ise çim 
+yapraklarında sararma ve daha sonra kahverengileşmeye sebep olur. Bu sebeple çim 
+alanlarında çapı birkaç cm’den bazen birkaç metreye kadar ulaşan yuvarlak, ortası yeşil ve 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+18
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+kenarları sarı renkli yamalar oluşturur (Şekil 2). Yama belirtileri golf sahaları ve 
+stadyumlarda daha net olarak gözlenir. 
+Fusarium türleri; genel olarak çimlerde yaprak lekeleri, yaprak yanıklığı, kök, kök boğazı, 
+stolon ve rizom çürüklükleri meydana getirmektedirler. Bu çürümeler sonucunda çim 
+alanlarında düzenli, düzensiz veya yuvarlak sararmış alanlar oluşur. Fusarium nivale (= 
+Microdochium nivale)’nin sebep olduğu hastalık diğer türlerden farklı olarak ‘pembe kar 
+küfü’ olarak adlandırılır. Kışın soğuk havalarda, hatta çim alanları kar altında olduğu 
+zamanlarda bile tipik, ortası açık renkli etrafı mor, sarı ve kahverengi renklerden oluşan bir 
+hale ile çevrili belirtiler oluşturur (Şekil 3). 
+Pythium spp. çim bitkisinde yaprak yanıklığı, kök ve kök boğazı çürüklükleri ve pamuksu 
+yanıklık oluştururlar. Bazen çim bitkileri üzerinde etmenin miselleri görülebilir (Şekil 4). 
+Özellikle golf sahaları ve stadyumlarda yuvarlak açık yeşil veya sarı halkalar şeklinde 
+belirtiler oluşturur. Pythium enfeksiyonlarına karşı tüm çim bitkileri hassas olmakla beraber 
+serin iklim ÇİM türlerinde genellikle daha fazla zarara neden olur. Hastalık etmeni, en şiddetli 
+zararını genellikle sıcak ve nemli havalarda gerçekleştirir. Agrostis çim türlerinde, etkilenen 
+çim alanları turuncu ile bronz renkte görünürler hatta duman şeklinde halkalı alanlar 
+oluşabilir. Özellikle geceleri, nemli koşullar uzun süre devam ederse bozulmuş yapraklar 
+keçeleşir ve üzerlerini etmenin tüylü, kabarık beyaz miselyumları kaplar. Bu dönem belirtileri 
+‘‘Pamuksu yanıklık’’ olarak isimlendirilir. 
+Şekil 1. Kahverengi yama (R. solani) belirtisi 
+Şekil 2. Sarı yama (R. cerealis) belirtisi 
+Şekil 3. Phytium yanıklığı belirtisi 
+Şekil 4. Pembe yama (Microdochium nivale) 
+belirtisi 
+Bipolaris spp., çimlerde tüm gelişme dönemlerinde ve tüm organlarda hastalık 
+oluşturabilmektedir. Bu nedenle, fungusun yaprak ile kök ve kökboğazında meydana getirdiği 
+sararma ve kahverengileşmeler birleştiğinde bitkiyi tamamen çürütebilmektedir.  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+19
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+3. KONUKÇULARI 
+Hastalık etmenleri tüm buğdaygil bitkilerinde hastalık oluşturabilmektedir. Rhizoctonia, 
+Fusarium ve Phytium türleri polifag’tır.  
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+ - Gübreleme toprak analizi sonucuna göre yapılmalı, baharda aşırı azotlu gübrelemeden 
+kaçınılmalıdır. 
+ - Çim alanlarındaki rutubeti azaltmak için iyi bir drenaj yapılması gereklidir.  
+ - Çim alanlarında hava sirkülasyonu hastalıkların baskılanması bakımından önemlidir.  
+- Çim biçimi zamanında yapılmalıdır.  
+ -Aşırı 
+thatch 
+katmanı 
+köklerin 
+faydalanacağı 
+hava, 
+su 
+ve 
+gübre 
+alınımını 
+kısıtlayabileceğinden, bitki artığı ve thatch birikimi azaltılmalı ve bunlar hemen alandan 
+uzaklaştırılmalıdır 
+4.2. Kimyasal Mücadele  
+Bu hastalıklara karşı yeşil aksam ilaçlaması önerilmektedir. 
+4.2.l. İlaçlama zamanı 
+Firmasınca önerilen aralıklarla, tavsiye edilen sayı ve zamanda uygulamalar yapılır. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayacak veya doğru ilaçlama 
+yapabilecek uygun bir alet veya makine ile yapılmalıdır. 
+4.2.4. İlaçlama tekniği 
+Yapraklar ilaçlı su ile tamamen kaplanacak şekilde yapılır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+20
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ÇİMLERDE YAPRAK YANIKLIĞI 
+Bipolaris spp., Curvularia spp. 
+1. TANIMI VE YAŞAYIŞI 
+Bipolaris ve Curvularia cinslerinin eşeyli dönemi Cochliobolus olarak bilinmektedir. 
+Bipolaris sorokiniana (Sacc.) Shoemaker ve Curvularia lunata (Wakker) Boedijn ülkemiz 
+çim alanlarında yaprak yanıklığına neden olan en yaygın türler olarak saptanmıştır. Bipolaris 
+spp. konidiosporlarının rengi koyu zeytin veya kahverengi, oval ve uçları yuvarlaktır bazı 
+türlerde sporlar hafif kavislidir. Konidiosporlar, konidioforlar üzerinde tekli veya kümeler 
+halinde oluşurlar, genellikle 3-10 bölmelidir (Şekil 1). Curvularia spp. konidiosporları ise 
+açık veya koyu kahverengi, ortalama 24.9 µm x 10.3 µm boyutlarında ve genellikle 3 bölmeli 
+ve kıvrıktır. Ortadaki bölme uçtaki bölmelerden daha geniştir (Şekil 2). Her iki etmen de 16-
+400C’lerde enfeksiyon oluştursalar da optimum gelişme sıcaklıkları 25-350C’dir. Etmenler 
+kışı spor ve miselyum olarak toprak, bitki materyali ve çim bitkisinin dip kısmında yeşil bitki 
+örtüsü ile toprak yüzeyi arasında kalan ölü ve canlı çimden oluşan tabaka (thatch) arasında 
+geçirirler. Etmenlerin sporları ve miselleri insanlar, alet ve ekipmanlar, çim alanlarında 
+kullanılan çeşitli makinalar, sulama vb. işlemler ile yayılırlar. Hastalıklar tohumla da taşınır. 
+Sıcak ve nemli havalarda, yaprak ıslaklığının arttığı dönemlerde enfeksiyon şiddeti de artış 
+gösterir.  
+Şekil 1. B. sorokiniana’nın konidiosporları (x20) 
+Şekil 2. Curvularia sp. konidiosporları (x40) 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Bipolaris spp.’de hastalık belirtileri ilk olarak yapraklarda, küçük kahverengi veya siyah 
+lekeler şeklinde başlar ve lekeler genişledikçe ortası beyaz, etrafı mor veya kahverengi bir 
+sınırla çevrelenir (Şekil 3). Bu safhada önlem alınmazsa lezyonlar birleşir ve bitkinin kök 
+boğazı ve kök kısmına doğru ilerleyerek solgunluk, sararma ve tüm bitkinin ölümüne sebep 
+olur. Bu ölü bitki kümeleri çim alanlarında küçük yuvarlak, bazen şekilsiz başlangıçta sarı 
+daha sonra grimsi ve kahverengi alanlar (yamalar) oluştururlar. Curvularia spp. ile enfekteli 
+bitkilerde ise belirtiler yine yapraklarda başlar başlangıçta yapraklarda sarı ve yeşil benekler 
+oluşur ve bu benekler zamanla tüm yaprağı sarar. Zamanla enfekteli yapraklar kahverengiye 
+dönüşür, daha sonra gri ton alır, büzülür, çürür ve ölür. Çim alanlarında düzensiz biçimli 
+küçük yamalar oluşturur (Şekil 4). Önlem alınmazsa bu yamalar birleşerek tüm çim alanını 
+kaplar. Bu tip belirtiler özellikle golf sahaları ve stadyumlarda hem çim bitkilerini çürüttüğü 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+21
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+hem de sahanın görüntüsünü bozduğu için istenmeyen görüntülerdir. Hastalık etmenleri 
+ülkemizdeki tüm çim alanlarında görülmektedir.  
+Şekil 
+3. 
+Çim 
+yaprağında 
+Bipolaris 
+sorokiniana’nın neden olduğu lekeler 
+Şekil 4. Çim sahasında Curvularia sp.’nın 
+oluşturduğu belirtiler  
+3. KONUKÇULARI 
+Bipolaris spp ve Curvularia spp. kültürü yapılan tüm çim türlerinin (Lolium spp. Festuca 
+spp., Poa spp., Agrostis spp., Cynodon spp. ve Zoysia spp.,) yanı sıra diğer tüm buğdaygil 
+(Poaceae=Gramineae) bitkilerinde hastalık oluştururlar. Çok geniş konukçu dizisine sahip 
+Curvularia spp. ise Gramineae familyasının yanı sıra Leguminaceae, Cucurbitaceae, 
+Solanaceae, Compositae, Malvaceae familyalarına ait bazı bitkilerde de hastalık oluştururlar. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Gübreleme toprak analizi sonucuna göre yapılmalı, baharda aşırı azotlu gübrelemeden 
+kaçınılmalıdır. 
+- Çim alanlarında hava sirkülasyonu hastalıkların baskılanması bakımından önemlidir. Bu 
+sebeple çim biçimi zamanında yapılmalı ve çim biçim yüksekliği artırılmalıdır. 
+- Aşırı sulamadan kaçınılmalı ve sulama sabahın erken saatlerinde yapılmalıdır. 
+- Çim alanlardaki rutubeti azaltmak için iyi bir drenaj yapılması gereklidir.  
+-Aşırı 
+thatch 
+katmanı 
+köklerin 
+faydalanacağı 
+hava, 
+su 
+ve 
+gübre 
+alınımını 
+kısıtlayabileceğinden, bitki artığı ve thatch birikimini azaltılmalı ve bunlar hemen alandan 
+uzaklaştırılmalıdır. 
+4.2. Kimyasal Mücadele  
+Ülkemizde bakanlığımızca ruhsatlı bitki koruma ürünü bulunmamaktadır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+22
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+GÜL MİLDİYÖSÜ 
+Peronospora sparsa Berk. 
+1. TANIMI VE YAŞAYIŞI  
+Gül mildiyösü hastalığına Peronospora sparsa (Berk.) isimli fungus benzeri patojen neden 
+olmaktadır. Etmen toprakta kalan bitki artıklarında miselyum veya oospor formunda kışlar. 
+Oosporlar, kalın çeperli ve yuvarlak şekilli yapılardır. Bu yapılar düşük sıcaklık (10-20°C) ve 
+yüksek bağıl nemin olduğu (%85 ve üzeri) ıslak koşullarda çimlenerek sporangiumları 
+oluşturur. Sporangioforlar, çatallanmış uçları olan 3-4 kola ayrılmış düz gövdelere sahip olup, 
+sporangiumları taşımaktadırlar. Her bir sporangium, serbest suyun varlığında yüzebilen 
+düzinelerce zoospor ile doludur. Oluşan bu sporangiumlar ilk enfeksiyonları başlatırlar. 
+Bitkiye giriş yaptıktan sonra etmen miselyumları aracılığıyla bitki yaprağının içerisinde 
+gelişmeye devam eder ve bir süre sonra sporangiumları taşıyan yapılar yaprak altlarında 
+bulunan stromalardan dışarı çıkar. Bu durum bitkinin yaprak altında gri bir misel tabakası 
+şeklinde görünür. Yaprak altında gelişen bu yapıların sağlıklı bitkilere dağılarak 
+çimlenmesiyle ya da sporangiumların oluşturduğu zoosporlar aracılığıyla ikincil enfeksiyonlar 
+başlar. Birincil enfeksiyonların başlamasının ardından 7-10 gün içerisinde ikincil 
+enfeksiyonlar gerçekleşir fakat hastalık için elverişli koşullarda bu süre 4 güne kadar inebilir. 
+Etmenin çimlenmesi, enfeksiyon oluşturması ve sporulasyona geçmesi için optimum 15°C 
+sıcaklık ve en az 4 saatlik yaprak ıslaklığı gerekmektedir. Sezon sonunda yeni oosporlar 
+oluşur ve toprakta kalan bitki artıklarında kışlarlar. Peronospora sparsa özellikle böğürtlen 
+gibi diğer konukçuları üzerinde de kışlayabilir.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Gül mildiyösü yaprakların üst yüzeyinde kenarları düzgün olmayan, kızıl kahve veya 
+morumsu lezyonlar şeklinde görülür ve bu lezyonların etrafındaki dokuların sararmış olduğu 
+dikkati çeker (Şekil 1a,1b). Aynı tip belirtiler gövde, çanak yapraklar ve çiçekte de 
+görülebilir. Nemli koşullarda yapraklardaki lezyonların alt yüzeyinde gelişen gri ve seyrek bir 
+misel tabakası hastalığın en tipik belirtisidir (Şekil 1c). Bu gri misel tabakasını stromalardan 
+çıkan sporangioforların taşıdığı sporangiumlar oluşturmaktadır. İlerlemiş enfeksiyonlarda 
+kahverengi nekrotik alanlı sararmış yapraklar görülmeye başlanır ve zamanla yapraklar 
+dökülür. 
+Hastalık, sulama suyu, yağmur ve rüzgar aracılığıyla sağlıklı bitkilere kolaylıkla yayılır.  
+C. CER 
+C. CER 
+a 
+b 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+23
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Güllerde Peronospora sparsa’nın neden olduğu yaprakların üst yüzeyindeki 
+lezyonlar (a,b) ve yaprakların alt yüzeyinde etmene ait misel tabakası (c) 
+(https://apsjournals.apsnet.org/doi/pdf/10.1094/PDIS-12-17-1968-FE). 
+Gül mildiyösü, kesme çiçek veya saksıda minyatür olarak serada yetiştirilen güllerden dış 
+mekan ve peyzaj amacıyla kullanılan güllere ve hatta çalı güllerine kadar her tür gül 
+bitkisinde görülen önemli bir hastalıktır. Özellikle seralarda yetiştiriciliği yapılan türlerde 
+daha yoğun olarak görülmektedir. Hastalık şiddetli yaprak dökümüne sebep olduğu için 
+güllerin hızlı bir şekilde kurumasına, böylece verim ve kalite kayıplarına sebep olmaktadır.  
+3. KONUKÇULARI 
+Rosaceae familyasına ait bitkilerin yanında karayemiş (Prunus laurocerasus), böğürtlen 
+(Rubus fruticosus), ahududu (Rubus idaeus) ve loganberry (Rubus loganobaccus) ana 
+konukçularıdır.  
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Dayanıklı/tolerant çeşitler yetiştirilmelidir. 
+- Temiz üretim materyali (gül çelikleri) kullanılmalıdır. 
+- Üretim alanında görülen hastalıklı bitkiler ve sezon sonu bitki artıkları ortamdan 
+uzaklaştırılarak imha edilmelidir. 
+- Özellikle Rubus türleri gibi etmenin konukçusu olan bitkilerin bulunduğu alanların 
+yakınlarında gül yetiştiriciliği yapılmamalıdır.  
+- Sera vb. üretim alanlarında sıcaklık 27°C’nin üzerinde, bağıl nem %85’in altında tutulmalı, 
+bitkiler arasında nemin hapsolmayacağı ve hava akımının olacağı şekilde yetiştiricilik 
+yapılmalıdır. 
+- Yaprak ıslaklığının önlenmesi için yağmurlama sulama veya üstten sulama yapılmamalı, 
+sulama şekli, bitkiden bitkiye su sıçramalarını en aza indirgeyecek şekilde (örneğin damla 
+sulama) olmalıdır.  
+- Bitkiyi yaralamaktan kaçınılmalı ve sanitasyona önem verilmelidir 
+- İyi bir yabancı ot kontrolü yapılmalıdır.  
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele, bitkilerin veya üretim materyalinin (gül çelikleri) yeşil aksam 
+ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+Eğer hastalık her sene görülüyorsa, ilaçlamalara hastalık için uygun ortam koşulları 
+oluştuğunda veya üretim alanında bitkiler üzerinde ilk hastalık belirtileri görülür görülmez 
+c 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+24
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+başlanır. Hastalığın seyrine göre kullanılan ilacın etki süresi dikkate alınarak ilaçlamalara 
+devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3.Kullanılacak alet ve makinalar 
+İlaçlamada küçük alanlarda sırt pülverizatörü (mekanik veya motorlu), büyük alanlarda ise 
+hidrolik bahçe pülverizatörü kullanılır.  
+4.2.4. İlaçlama tekniği 
+İlaçlama sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm bitkiyi kaplayacak 
+şekilde yapılmalıdır. 
+Gül çeliklerinde ise çeliklerin metal olmayan bir kapta hazırlanan ilaçlı suya daldırılması 
+şeklinde de uygulama yapılabilir.  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+25
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+KANOLADA KARABACAK (GÖVDE KANSERİ) 
+Phoma lingam (Tode) Desm. 
+(=Leptosphaeria maculans (Desm.) Ces and De Not ve L. biglobosa) 
+1. TANIMI VE YAŞAYIŞI 
+Hastalığa iki Leptosphaeria türü (L. maculans, L. biglobosa)’nün eşeyli dönemi neden 
+olmaktadır. Bu iki türden L. maculans virülensliği yüksek, L. biglobosa’nın ise virülensliği 
+daha düşük olup ekonomik bakımdan önemli kayıplara neden olmamaktadır. 
+Hastalık etmeni fungus tohumla taşınabilmektedir. Fungus, kışı kanola tohumlarında ve hasat 
+sonrası tarlada kalan bitki artıklarında pseudothecium veya misel formunda geçirdikten sonra 
+uygun koşullarda askosporları oluşturur. Bu askosporlar, 8-12°C sıcaklıkta ve yağışlı 
+havalarda salınırlar, hava akımı veya rüzgar ile çok uzak mesafelere taşınabilirler ve bitkide 
+ilk enfeksiyonları meydana getirirler. İlk enfeksiyonlar bitkinin kotiledonlarında veya bitkinin 
+rozet yapraklarında görülür. Nemli ve serin koşullarda patojenin yapraklar üzerinde 
+oluşturduğu lekeler üzerinde etmenin eşeysiz üreme yapısı olan piknitler meydana gelir. 
+Piknitlerden yayılan piknidiosporlar yağmur damlalarının sıçramasıyla bitkiden bitkiye 
+yayılarak sekonder enfeksiyonlara neden olurlar. Piknidiosporlar hava akımı ile taşınmazlar 
+ve ilk enfeksiyonların başlatılmasında minör derecede önemi vardır. Ancak hastalık 
+döngüsünde askosporlar, hava ve rüzgar ile yayılması ve inokulum kaynağından ilk 
+enfeksiyonu başlatması açısından daha önemlidir. Hastalık etmeni toprakta bitki artıkları 
+üzerinde en az 3 yıl canlılığını sürdürebilir. Hastalığın gelişmesinde ve yayılmasında en 
+önemli faktörler sıcaklık, nem, yağış ve yaprak ıslaklığıdır. Gövde kanserleri 20-24°C 
+sıcaklıkta ve stres (böcek, herbisit zararı veya mekanik yaralanma gibi) koşulları altında çok 
+hızlı gelişirler. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalık etmeni, yapraklarda, gövde üzerinde ve meyvelerde (harnuplarda) lekeler ve kanser 
+yaraları oluşturur. Hastalığın ilk belirtileri alt yapraklarda gri-yeşil veya kül rengi lekeler 
+şeklinde kendini gösterir. Nemli ve serin koşullarda yaprak belirtileri üzerinde etmene ait 
+küçük iğne başı büyüklüğünde siyah renkli piknitler oluşur (Şekil 1,2). Yaprak belirtileri 
+iklim koşullarına bağlı olarak bitkinin tüm vejetasyon dönemi boyunca görülebilir. Özellikle 
+erken dönemde fideler hastalığa karşı oldukça hassastır ve hastalığa yakalandıklarında 
+ölümler meydana gelir. Arazilerde çökerten benzeri yer yer boş alanlar oluşur. Bu nedenle 
+bitkilerin rozet döneminden önce hastalığa yakalanması, önemli ürün kayıplarına neden 
+olmaktadır.  
+Şiddetli enfeksiyonlarda hastalık belirtileri kök boğazında, gövdede, yaprakların gövdeye 
+bağlandığı kısımlarda ve kapsüllerde de görülür. Gövde üzerindeki kanser yaraları grimsi 
+siyahımsı renktedir. Bir süre sonra bu lekeler kahverengimsi bir renk alır ve gövdeyi çevreler 
+(Şekil 3). Hastalıkla bulaşık bitkiler daha zayıftır ve rüzgarda devrilerek toprak üzerine 
+düşebilir. Hastalık gövde üzerinde ilerledikçe bitkide gelişme geriliği oluşabilir ve kapsüller 
+boş kalabilir, ya da olgunlaşmadan açılır. Kapsül içinde oluşan tohum da hastalıkla bulaşıktır 
+(Şekil 4). 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+26
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1-2. Karabacak hastalığının yaşlı yapraklardaki belirtileri. 
+Şekil 3. Karabacak hastalığının gövdedeki belirtisi 
+(http://pods.dasnr.okstate.edu/docushare/dsweb/Get/Docu
+ment-6880/EPP-7671web.pdf). 
+Şekil 4. Karabacak hastalığının kapsüldeki 
+belirtileri (Kutcher et al., 2011). 
+Hastalık, ülkemizde Marmara Bölgesi’nde kanola üretimi yapılan alanlarda görülmektedir. 
+3. KONUKÇULARI 
+Kanola başta olmak üzere karnabahar, lahana, turp ve hardal bitkilerinde zarar 
+oluşturabilmektedir. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Dayanıklı çeşit tercih edilmelidir. 
+- Sertifikalı ve hastalıktan ari tohum kullanılmalıdır. 
+- Hastalıklı bitki artıkları tarladan uzaklaştırılmalı ve/veya derin sürüm yapılmalıdır. 
+- Konukçusu olmayan bitkilerle (buğday, arpa, mısır) 3 ya da 4 yıl ekim nöbeti 
+uygulanmalıdır. 
+4.2. Kimyasal Mücadele 
+Tohum ve/veya yeşil aksam ilaçlaması yapılmalıdır. 
+4.2.1. İlaçlama zamanı 
+Tohum ilaçlamaları ekimden önce yapılır. 
+© G.Tepedelen 
+Ağ
+© G.Tepedelen 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+27
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Yeşil aksam ilaçlamalarına, tarlada hastalığın ilk belirtileri görüldüğünde başlanır ve ilacın 
+etki süresine göre devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılan alet ve makineler 
+Tohum ilaçlamasında, karıştırma kapları (kavanoz, plastik bidon, leğen vs.) kullanılmalıdır.  
+Yeşil aksam ilaçlamasında hidrolik tarla pülvarizatörü, sırt pülvarizatörü (mekanik, otomatik, 
+motorlu), sırt atomizörü veya ilaçlamada tavsiye edilen ilaçlama tekniğine uygun alet ve 
+ekipmanlar kullanılır. 
+4.2.4. İlaçlama tekniği 
+Tohum ilaçlamalarında, preparatların 100 kg. tohum için önerilen ilaç miktarı 1.5-2 litre su 
+içerisinde çözdürülür ve sonrasında karıştırılarak bu ilaçlı su bütün tohuma homojen olarak 
+dağıtılır veya firmasınca önerildiği şekilde yapılır. 
+Yeşil aksam ilaçlaması tüm toprak üstü aksamı kaplayacak şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+28
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+KARANFİLDE TOPRAK KÖKENLİ FUNGAL HASTALIKLAR 
+1. TANIMI VE YAŞAYIŞI 
+Hastalık etmenleri, Rhizoctonia solani, Fusarium spp. ve Pythium spp.’dir. 
+Rhizoctonia solani: Toprak kökenli etmenin miselleri, gençken seyrek bölmeli ve renksiz olup 
+sonradan sarımtırak bir görünüm alır, yaşlandıkça da koyu kahverengine dönüşürler. Miseller 
+dik açı teşkil edecek şekilde yan dallar meydana getirirler. Konidi oluşturmazlar. Düzensiz 
+değişik büyüklükte sklerot oluştururlar. 
+Fusarium spp.: Etmenin miselleri bölmeli ve genellikle düzensiz dallanmıştır. Konidi 
+taşıyıcıları üzerinde makro ve bazılarında mikro konidiler oluşur. Makrokonidiler değişik 
+sayıda bölmeli; mikrokonidiler bir veya birden çok bölmeli ve renksizdir. Kışı toprakta ve 
+topraktaki bitki artıklarında misel, konidiospor veya klamidospor şeklinde geçirir. Etmen, 
+toprak ve tohumla taşınabilir. 
+Pythium spp.: Hifleri kuvvetli ve dallıdır. Hifler pamuk gibi beyaz, kirli beyaz veya pembe 
+renklidir. Bölmesiz miselleri ve sporangiumları vardır. Eşeyli devresinde ise anteridium ve 
+oogonyumlara sahip olan toprak kökenli bir fungustur. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalık daha çok nemli havalarda ve arazinin su tutan kısımlarında, genç fidelerde görülür. 
+İlk belirtiler dikimden 1–6 hafta sonra meydana gelir. Saplar zayıflar, ilerleyen aşamalarda 
+saplarda kırılmalar meydana gelir. Zarara uğramış bitkiler tümüyle solar. Gövde üzerinde 
+kuru, solgun kahverengi bir halka ile çevrilmiş lekeler görülür. Daha ileri dönemlerde ise tüm 
+bitki ölebilir. 
+Karanfil yetiştiriciliği yapılan alanlarda görülen hastalık, hemen her yıl zarar oluşturarak, 
+ekonomik ürün kayıplarına neden olur. 
+Ülkemizde karanfil yetiştiriciliği yapılan bütün alanlarda görülür. 
+3. KONUKÇULARI 
+Karanfil, patates, domates, fasulye, kabakgiller (hıyar, karpuz, kabak ve kavun gibi) şeker 
+pancarı, yerfıstığı, yonca, patlıcan, çilek ve çeşitli süs bitkileri konukçularıdır. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Çoğaltımda kullanılan dikim materyalinin sağlıklı olmasına dikkat edilmeli, 
+- Hastalığın bulunduğu alanlarda toprak drenajına önem verilmeli, su birikmesi önlenmeli,  
+- Sık dikimden ve aşırı sulamadan kaçınılmalı, 
+- Hastalıklı bitki artıkları inokulum kaynağı olduğundan yetiştirme ortamlarından 
+uzaklaştırılmalı ve imha edilmeli, 
+- Ağır topraklarda hastalık etmenleri daha fazla ortaya çıktığından üretim alanları seçilirken 
+toprak yapısına dikkat edilmelidir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+29
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+Toprak ilaçlaması; çeliklerin dikiminden hemen sonra yapılmalıdır. Dikim materyaline 
+yapılacak ilaçlamalar ise dikim sırasında yapılmalıdır. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır.  
+4.2.3. Kullanılacak alet ve makineler 
+Hazırlanan bitki koruma ürünleri, fide döneminde ince delikli el süzgeci ile daha ileri 
+aşamalarda ise damlama sulama sistemi ile bitkinin köküne uygulanmalıdır. 
+4.2.4. İlaçlama tekniği 
+Uygulama toprağa veya dikim materyaline yapılır. Toprağa uygulama, çelikler seraya 
+şaşırtıldıktan sonra can suyu veya damla sulama şeklinde, dikim materyaline ise kökler 
+daldırılarak yapılır. Özel uygulama şekli olan ilaçlar firmasınca önerildiği şekilde uygulanır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+30
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+KEKİKTE KÜLLEME 
+Golovinomyces biocellatus (Ehrenb. V. P. Heluta) 
+1.TANIMI VE YAŞAYIŞI 
+Kekikte külleme hastalığına Golovinomyces biocellatus (Ehrenb.V.P. Heluta) fungal etmeni 
+neden olmaktadır. Fungusun konidiosporları şeffaf ve silindirik şekildedir. Konidiosporlar 
+kısa zincirler halinde, bir zincirde 2 yada 3 adet olacak şekilde oluşurlar. Fungus kışı bitki 
+artıklarında misel ya da kasmotesyum formunda geçirir. Olgun kasmotesyumlar 15-22°C’de 
+nemli koşullarda patlar ve içerisinde oluşan ve etmenin eşeyli üreme yapıları olan askosporlar 
+ilkbaharda ilk enfeksiyonlara neden olurlar. Hastalık için uygun koşullar (10-27°C ve %50-75 
+bağıl nem) devam ettiği sürece eşeysiz üreme yapıları olan konidiler çevreye yayılır ve diğer 
+bitkilerin yaprak yüzeyinde çimlenerek sekonder enfeksiyonlara neden olurlar. 
+Etmen, enfeksiyon meydana getirmek için yaprak üzerinde neme ihtiyaç duymaz; özellikle 
+ılık ve kurak koşularda enfeksiyonlar daha şiddetli görülür.  
+2.BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalığın ilk belirtileri alt yapraklarında ortaya çıkar. Zamanla gövde üzerinde de belirtiler 
+görülebilir. Belirtiler genellikle yaprağın üst kısmındadır. Yaprakların üzeri başlangıçta 
+fungusun konidiosporlarından oluşan 2-3 mm çapında küçük, düzensiz şekilli beyaz lekeler 
+halinde görülür, daha sonra lekeler giderek genişler (Şekil 1). Hastalıklı yapraklar kıvrılır ve 
+bir süre sonra kahverengileşir ve kurur. Böylece bitkinin verim ve kalitesi düşer. Kışın 
+yaprakların alt yüzeyinde etmene ait koyu kahverengi veya siyah renkte ve küresel yapıda 
+kasmotesyumları görülebilir. 
+Hastalığı, kekik yetiştiriciliği yapılan alanlarda uygun koşullar oluştuğunda görmek 
+mümkündür. 
+Şekil 1. Golovinomyces biocellatus’un kekik yapraklarındaki belirtisi (a, b). 
+3. KONUKÇULARI 
+Patojen ballıbabagiller (Lamiacea) familyasına ait bitkilerde hastalık oluşturmaktadır. 
+Konukçuları arasında kekiğin dışında, biberiye (Rosmarinus officinalis), nane (Mentha spp.), 
+adaçayı (Salvia officinalis) ve melisa (Melissa officinalis) yer almaktadır.  
+a 
+b 
+©G. T. Ağaner 
+©C. Cer 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+31
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.MÜCADELESİ 
+4.1.Kültürel önlemler 
+- Sık dikimden kaçınılmalıdır. 
+- Gölge alanlarda kekik dikimi yapılmamaya özen gösterilmelidir. 
+- Hastalıklı dallar budanmalı ve budanan dallar toplanıp yakılmalıdır. 
+- Sulama yapılacaksa damla sulama tercih edilmelidir. 
+4.2.Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele, yeşil aksam ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+Tarlada yapraklar üzerinde ilk hastalık belirtileri görülür görülmez ilaçlamalara başlanır. 
+Hastalığın seyrine göre kullanılan ilacın etki süresi dikkate alınarak ilaçlamalara devam 
+edilebilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Ülkemizde bu bitkide bu hastalığa karşı henüz ruhsatlı bir bitki koruma ürünü 
+bulunmamaktadır. 
+4.2.3.Kullanılacak alet ve makinalar 
+İlaçlamada sırt pülverizatörü (mekanik, otomatik, motorlu) kullanılır. 
+4.2.4. İlaçlama tekniği 
+İlaçlama sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm bitkiyi kaplayacak 
+şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+32
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+PAMUKTA FİDE KÖK ÇÜRÜKLÜĞÜ 
+Rhizoctonia solani J.G. Kühn., Fusarium spp., Alternaria spp., 
+Macrophomina spp., Verticillium spp., Aspergillus niger Van Tieghen 
+1. TANIMI VE YAŞAYIŞI 
+Hastalığa Rhizoctonia solani J.G. Kühn., Fusarium spp., Alternaria spp., Macrophomina 
+phaseolina., Verticillium spp., Aspergillus niger Van Tieghen ve Phythium spp. neden 
+olmaktadır. 
+R.solani: Miselleri dik açı oluşturacak şekilde yan dallar meydana getirir. Yan dallar üzerinde 
+boğumun hemen yanında bir bölme bulunur. Miseller seyrek bölmelidir. Gençken renksiz 
+olan miseller yaşlandıkça koyu kahverengiye dönüşür. Hastalık etmeni, toprakta veya 
+topraktaki bitki artıklarında misel veya siyah renkli sklerot şeklinde kışlar (Şekil 1a). 
+Fusarium spp.: Miselleri bölmeli ve genellikle düzensiz dallanmıştır. Konidi taşıyıcıları 
+üzerinde makro ve mikrokonidiler oluşur. Makrokonidiler 3-5 bölmeli, orak şeklinde; 
+mikrokonidiler tek hücreli ve renksizdir. Bazı ortamlarda mavi veya ten renginde sklerot 
+oluşturabilen etmen, toprakta ve topraktaki bitki artıklarında misel, konidi veya klamidospor 
+şeklinde kışlayabilir (Şekil 1b,c). 
+Şekil 1. Rhizoctonia solani miseli (a); Fusarium sp.’nin miselleri, konidi 
+taşıyıcıları, makro ve mikrokonidileri (b, c); Alternaria sp. konidiosporları 
+(d); Pythium sp. oosporları ve sporangiumları (e, f);  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+33
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Pythium spp.: Fungus bölmesiz misellere ve sporangiumlara sahip, eşeyli devresinde ise 
+anteridyum ve oogonyumları bulunan toprak kökenli bir patojendir (Şekil 1e,f). Pythium fide 
+kök çürüklüğü drenajı kötü, taban suyu yüksek, ağır yapılı topraklarda veya birkaç gün 
+boyunca su ile yoğun şekilde doyurulmuş topraklarda görülür. Bu hastalık pamuk tohumunu 
+veya tohumdan yeni çıkış yapmış fideyi çürüterek çoğunlukla çıkış öncesi çökertene neden 
+olur. Tohumdan yeni çıkmış köklerde suda haşlanmış gibi bir görüntü ortaya çıkabilir. 
+Genellikle kılcal köklerde sulu çürüklük şeklinde kendini belli eder. 
+Alternaria spp.: Konidiosporları etmen için oldukça karakteristiktir. Konidiosporlar uzun, 
+koyu kahverenginde, el bombasına benzer, enine ve boyuna bölmelidir ve belirli şekilde 
+dikenlidirler. Bazen çatallı olan bir uzantıları vardır. Genellikle düzgün konidi zinciri 
+oluşturan etmenin bu yapıları, olumsuz koşullarda fungusun yaşamını sürdürmesinde rol 
+oynar(Şekil 1d). 
+Macrophomina phaseolina: Fungusun genç lifleri kültürde renksiz ve 8 µm kalınlıkta olup, 
+fazlaca dallanırlar ve her bir dal ana dala paraleldir. Yaşlanmış hiflerin görünüşü biraz daha 
+değişiktir. Bunların ince bölmeleri ve dik dalları vardır. Bu hifler üstünde 27°C’de 2-3 gün 
+içinde sklerotlar oluşur. Sklerotların şekilleri belirli değildir, oval veya düzensizdirler. 
+Hastalık etmeni, toprakta veya topraktaki bitki artıklarında siyah renkli sklerot şeklinde kışlar. 
+Verticillium spp.: Fungusun konidioforları dik, bölmeli uzun ve renksizdir. Vertisillat olarak 
+dallanmıştır. Lamba şişesi şeklindeki yan dallar, daire şeklinde aynı yerden çıkarlar. 
+Konidiosporlar, yan dalların uçlarında meydana gelirler. Eliptik şekilde; tek hücreli renksiz 
+veya çok hafif renklidirler. Hastalık etmeni, toprakta veya topraktaki bitki artıklarında misel 
+veya siyah renkli sklerot şeklinde kışlar. 
+A.niger: Miselyumları dallı bölmeli, kuvvetli, renksiz ve çok çekirdeklidir. Konidiospor 
+uzunca bir konidiofor üzerinde meydana gelir. Görünüşleri tıpkı bir soğan çiçeği biçiminde ve 
+siyah renklidir. 
+Yukarıda adı geçen etmenler, bulaşık toprağa ekim yapıldıktan sonra, uygun koşullarla 
+birlikle yeni çimlenmekte olan tohumları enfekte eder. Böylece yeni çimlenen tohum, fide 
+oluşumu aşamasında veya sonrasında ölür. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalığın ilk belirtileri yeni oluşmuş kökte görülür. Bu köklerin kabuk dokusu renk 
+değiştirerek yumuşamaya ve çürümeye başlar. Toprak yüzeyine çıkabilmiş hasta fidelerin 
+kökleri ve kök boğazı kahverengileşir, incelir, bitki ayakta duramaz, devrilir ve kurur (Şekil 
+2,3). 
+Nemin daha az, sıcaklığın daha yüksek olduğu dönemlerde hastalık daha ağır 
+seyredebildiğinden, fideleri daha yaşlı devrede de yakalayabilmektedir. Bu aşamada 
+hastalanan fidelerdeki belirti, toprak seviyesinin hemen biraz altında kırmızımsı koyu 
+kahverengi renkte, bitkinin kök boğazı ve onun hemen biraz üzerinde ortaya çıkan çökük 
+lekeler şeklinde izlenir. Böyle zarar görmüş fidelerin bir kısmı sonraları kurur. Havaların 
+ısınması ve nemin azalmasından sonra bazı fideler yüzeysel kökler meydana getirerek 
+canlılıklarını sürdürebilirler. 
+Hastalık yeniden ekimi gerektirecek seviyede olmadığı zamanlarda ise, fide eksilişi nedeniyle 
+tarlada bazı boş alanların kalmasına sebep olmakta ve buralara yeniden tohum ekilmektedir. 
+(Şekil 4). 
+Hastalık, ülkemizde pamuk ekimi yapılan bütün alanlarda yaygındır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+34
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 2. Fide kök çürüklüğü (Ceren CER) 
+Şekil 3. Fide kök çürüklüğü  
+(Aysel Bars ORAK) 
+Şekil 4. Hastalık nedeniyle tarlada oluşan yer yer 
+boşluklar (Ceren CER) 
+Pamuk ekimi yapılan alanlarda sıklıkla görülebilen hastalık, özellikle bulaşık ve nem tutan 
+topraklarda yağışlı ve serin giden ekim dönemlerinde tarlanın yeniden ekilmesini 
+gerektirebilmektedir. Bu durum tohum, ilaç ve toprak işleme masraflarının artmasına ve geç 
+ekimden dolayı ürün kaybına neden olarak büyük ekonomik zararlar oluşturmaktadır. Ancak 
+hastalık daha çok kendisini tarlada yer yer boşluklar şeklinde göstermektedir (Şekil 4). 
+3. KONUKÇULARI 
+Biber, patlıcan, domates vs. gibi sebzelerde, çeşitli çiçek fidelerinde, meyve çöğürlerinde, 
+tütün, pancar, anason, susam gibi endüstri bitkilerinde zarara neden olmaktadır. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+– Çimlenme kapasitesi yüksek, sertifikalı tohumluk kullanılmalı, 
+– Hasat sonrası bitki kökleri topraktan sökülerek uzaklaştırılmalıdır. 
+– Toprak sıcaklığı 18°C’ye ulaşmadan ekim yapılmamalı, 
+– Hastalığın sorun olduğu alanlarda sırta ekim yapılmalı, 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+35
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+– Özellikle dikim yataklarının yüksek hazırlanması, drenajın iyileştirilmesine yardımcı 
+olacaktır. 
+– Derin ekimden kaçınılmalı, 
+– Toprağı kuru tutarak hastalık etmenlerinin çoğalmasına engel olan özellikle hububat gibi 
+bitkilerle ekim nöbeti uygulanmalı, 
+– Toprağın kaymak tabakası oluşumu önlenmelidir. 
+4.2. Kimyasal Mücadele 
+Tohum ilaçlaması yapıldıktan sonra ekim yapılmalıdır. Özellikle sistemik fungisitler, 
+ortalama olarak ekimden 5 hafta sonrasına kadar koruyuculuk sağlayarak çıkış öncesi ve 
+sonrası çökerteni önlemektedir.  
+4.2.1. İlaçlama zamanı 
+Tohum tarlaya ekilmeden önce ilaçlanır. İlaçlama zamanı ekim zamanıdır. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlama bidonu veya ilaçlama tertibatlı selektör ve kürek tohum ilaçlamasında kullanılır. 
+4.2.4. İlaçlama tekniği 
+Islatılmış pamuk tohumları önerilen doz ve miktarda ilaçla ilaçlama bidonuna veya selektöre 
+konulur. İlaçlama bidonu yeknesak bir ilaçlama yapıncaya kadar 40-50 defa çevrilir. 
+Selektörde ise ilaçlama tertibatının ayarlanması ile yapılır. 
+İyi bir ilaçlama için tohum kabuğunun tamamının ilaç ile kaplanması gerekmektedir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+36
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+PAMUKTA Verticillium SOLGUNLUĞU 
+Verticillium dahliae Kleb. 
+1. TANIMI VE YAŞAYIŞI 
+Verticillium dahliae toprak kökenli bir patojendir ve vasküler solgunluğa neden olmaktadır. 
+Etmen, kışı toprakta ve hastalıklı bitki kalıntılarında mikrosklerot ya da miselyum formunda 
+geçirerek 10 yıl gibi uzun bir süre canlılığını sürdürebilir. 
+Uygun koşullarda toprakta vejetatif hale geçen sklerotlar çimlenerek, konukçu bitkilerin kök 
+ucundan, kılcal köklerden ve hipokotilden giriş yapar. Buradan kök meristemine girerek hem 
+hücre içi hem de hücreler arası gelişim gösterir. Daha sonra merkezi silindire yönelir ve 
+ksileme ulaşır. Etmen, ksilem içinde misel ve konidi oluşturur. Bu yapılar ksilem boyunca 
+bitkinin tepe noktalarına, yapraklara ve uç tomurcuklara kadar taşınır. Yapılan çalışmalarda 
+hastalık etmeninin tohuma kadar ilerleyebildiği fakat tohumun hastalığın taşınmasında önemli 
+rol oynamadığı belirtilmektedir. Etmenin yaprak döken (T-1) ve dökmeyen (SS-4) patotipleri 
+bulunmaktadır. V. dahliae, 21-27°C’ler arasında iyi gelişir.  
+Etmenin konidioforları vertisillat dallanmıştır. Lobut şeklindeki yan dallar, eliptik şekildeki 
+tek hücreli, renksiz veya çok az renkli konidiosporları oluşturur. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalık genellikle ilk çiçeklenmeden sonra kendini gösterir ve vejetasyonun sonuna 
+yaklaştıkça ağırlaşan bir belirti tablosu meydana gelir. Bitkide alt yapraklardan yukarıya 
+doğru ilerleyen belirti tablosunda ilk belirtiler yaprakların kenarlarından damar aralarına 
+doğru ilerleyen kloroz ve sonrasında nekrozlar şeklinde olabileceği gibi herhangi bir zarar 
+görmeden solan yapraklar şeklinde, de olabilir (Şekil 1 a,b). Hastalığın diğer bir karakteristik 
+belirtisi ise gövdenin enine kesitinde ksilem iletim demetlerinin kahverengileşmesidir (Şekil 
+2). Ekim geç yapılmışsa veya hastalık erken başlamışsa bitki boyu kısalır, koza sayısı azalır 
+ve kozalar küçük kalır. Hastalığın ileri aşamalarında çoğunlukla bitki ölür (Şekil 3). 
+Etmenin yayılmasında kültürel işlemler (özellikle toprak işleme ve sulama), hastalıklı bitki 
+artıkları bulaşık toprak ve tohum önemli rol oynamaktadır. 
+Şekil 1. Pamukta Verticillium solgunluğunun yapraktaki belirtisi (a ve b). 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+37
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 2. Verticillium solgunluğunun 
+gövde enine kesitindeki görünümü 
+(Behzat BARAN) 
+Şekil 
+3. 
+Verticillium 
+solgunluğuna 
+yakalanmış 
+bitkinin 
+ileri 
+aşamadaki 
+durumu (Erhan GÖRE) 
+3. KONUKÇULARI 
+Ülkemizde pamuk, susam, bamya, domates, biber, patlıcan, börülce, fasulye, patates, 
+yerfıstığı, kavun, maydanoz, bağ, şeftali, zeytin, karanfil, şeytan elması, domuz pıtrağı, 
+horozibiği ve pire otu konukçuları arasındadır. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+– Hastalığa tolerant çeşitler tercih edilmeli, 
+– Aşırı sulamadan kaçınılmalı, 
+– Sık ekimden kaçınılmalı  
+– Ekim nöbeti uygulanmalı (2 yıl pamuk, 2 yıl yonca; 3 yıl pamuk, 3 yıl yonca; 2 yıl pamuk, 
+1 yıl buğday + mısır; 2 yıl pamuk, 1 yıl mısır; 1 yıl pamuk, 1 yıl susam + buğday), 
+– Toprak analizlerine göre gübreleme yapılmalı (Azotlu gübre olarak üre tercih edilmelidir), 
+– Tarla içindeki ve kenarındaki yabancı otlar konukçu olmaları nedeniyle yabancı otlarla 
+mücadele yapılmalı, 
+– Hastalıklı bitki kökleri inokulum kaynağıdır ve toprağa gömülerek bir sonraki seneye 
+inokulum yoğunluğunun artmasına ve hastalığın daha şiddetli seyretmesine sebep 
+olmaktadır. Bu nedenle hasat sonunda bitki köklerinin toprağa sökülerek topraktan 
+uzaklaştırılması gerekmektedir. 
+4.2. Kimyasal Mücadele 
+Bu hastalığa karşı etkili bir kimyasal mücadele yöntemi yoktur. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+38
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+SOYADA CERCOSPORA YAPRAK LEKESİ VE YANIKLIĞI 
+Cercospora sojina Hara, Cercospora kikuchii T. Matsu & Tomoyasu 
+1. TANIMI VE YAŞAYIŞI 
+Soyada kurbağa gözü olarak da bilinen yaprak leke hastalığına Cercospora sojina; yaprak 
+yanıklığına ve soya tohumunda mor tohum lekesi hastalığına Cercospora kikuchii isimli 
+fungal etmenler neden olmaktadır. 
+Her iki hastalık etmeni tohumda ve tarlada kalan bitki artıklarında kışlayarak yaşamını 
+sürdürür. Sporlar, bitki artıklarından yağmur sularının sıçramasıyla genç yapraklara taşınır ve 
+hava sıcaklığı 24-270C’ye, nem koşulları %90’ın üzerine ulaştığında çimlenerek birincil 
+enfeksiyonları başlatırlar. Oluşan konidiler rüzgarlar ve yağışlar aracılığıyla yayılarak ikincil 
+enfeksiyonlara sebep olurlar. Sıcaklık 270C üzerine çıktığında sporulasyon artar. Rüzgar ve su 
+ile taşınan spor yaprak ve sapları enfekte eder. Uygun koşullar oluştuğunda tohum kapsülü 
+doldurma döneminde enfeksiyon meydana gelir. Fungus tohum kapsülüne girince tohuma 
+bulaşır ve tohum tabanı enfekte olur.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Soya kurbağa gözü yaprak lekesi hastalığının belirtileri, yaprağın üst yüzeyinde küçük, 
+kırmızımsı kahverengi, dairesel ve/veya köşeli lekeler şeklinde oluşur (Şekil 1a). Leke 
+büyüdükçe ve yaşlandıkça merkezi zeytin grisi veya kül grisine dönerek etrafı koyu 
+kırmızımsı kahverengi olur. Lekenin etrafında klorotik sınır bulunmaz. Yaprağın alt 
+yüzeyindeki leke, koyu kahverengi veya gridir. Yaprakta lekenin merkezinde siyah 
+konidiofor demeti gelişir. Daha yaşlı lekeler ise yarı şeffaf bir görünümdedir. Lekelerin 
+çapı 1-5 mm aralığında değişir. Bu lekeler birleşerek geniş ve düzensiz lekeleri oluşturur. 
+Yaprakta oluşan çok sayıdaki leke, yaprağın kurumasına ve dökülmesine neden olur. 
+Gövde enfeksiyonu nadir olarak mevsim sonunda ortaya çıkar. Leke başlangıçta koyu 
+kırmızı, dar ve uzun, etrafı koyu kahverengi veya siyah sınırlar ile çevrilmiştir. Merkezi 
+düz veya hafif çökük şekilde görülür. Leke büyüdükçe merkezi kahverengi veya açık 
+grimsi bir renge dönüşür. Tohum kapsülünde oluşan leke dairesel, uzun, hafif çökük ve 
+kırmızımsı kahverengindedir. Leke büyüdükçe merkezi kahverengiden açık griye döner 
+ve genellikle koyu kahverengi kesin sınırlar ile çevrilidir (Şekil 1b). Enfekteli tohumda 
+açıktan koyu griye doğru veya kahverengi lekeler oluşur ayrıca tohum kabuğunda 
+çatlama ve soyulma gözlenir.  
+Yaprak yanıklığı ve mor tohum lekesi hastalığının belirtisi tohum, yaprak ve tohum kapsülü 
+doldurma döneminde kapsül ve tohum üzerinde ortaya çıkar. Genellikle en üstteki yaprakta 
+kırmızımsı-mor renk oluşur (Şekil 2a). Hastalıktan etkilenen üst yaprak dökülür. Tohumda 
+hastalık ilerledikçe lekeler birleşir ve büyük nekrotik pembe veya mor renkli lekeler meydana 
+gelir (Şekil 2b). Bu belirtiler mor tohum lekesi hastalığına aittir. Enfekteli tohum ekilirse 
+fidede hastalık belirtisi görülür. Kotiledon büzülür, mor renge döner ve fide ölür. Hafif 
+enfekte olan fide hayatta kalsa da bitki bodur kalır. 
+Hastalık üretim alanlarında önemli ürün kayıplarına yol açar.  
+Hastalık soya ekim alanlarında görülür. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+39
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Soya kurbağa gözü yaprak leke hastalığının yaprakta (a) ve tohum kapsülü (b) 
+üzerindeki belirtisi 
+Şekil 2. Cercospora yaprak yanıklığı hastalığının yaprakta (a) ve tohum kapsülü (b) 
+üzerindeki yanıklık belirtisi 
+3. KONUKÇULARI 
+Cercospora sojina ve Cercospora kikuchii soyaya özgü olan hastalık etmenleridir. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Dayanıklı veya tolerant çeşitler tercih edilmelidir. 
+- Sertifikalı tohum kullanılmalıdır. 
+- En az iki yıl ekim nöbeti yapılmalıdır. 
+- Hasattan sonra, bitki artıkları yok edilmelidir. 
+4.2. Kimyasal Mücadele 
+Yeşil aksam ilaçlaması şeklinde yapılır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+40
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2.1. İlaçlama zamanı 
+Birinci ilaçlama ilk hastalık belirtileri görüldüğünde yapılır. Hasatla son ilaçlama arasındaki 
+süre dikkate alınarak hastalık koşulları ortadan kalkıncaya kadar ilaçlamaya devam edilir. 
+4.2.2. Kullanılan bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+Yeşil aksam ilaçlamalarında hidrolik tarla pülverizatörü, sırt pülverizatörü (mekanik, 
+otomatik, motorlu) veya sırt atomizörü kullanılır. 
+4.2.4. İlaçlama tekniği 
+Bitki yüzeyinde ilaçlanmamış alan bırakılmamalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+41
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+SOYADA KÖMÜR ÇÜRÜKLÜĞÜ 
+Macrophomina phaseolina (Tassi) Goid 
+1. TANIMI VE YAŞAYIŞI 
+Kömür çürüklüğüne neden olan etmen Macrophomina phaseolina’dır. Etmenin genç hifleri 
+renksiz olup çok dallıdır ve her bir dal ana dala paraleldir. Yaşlanmış hifler bölmeli ve dik 
+dallı olup, üzerinde mikrosklerotlar oluşur. Mikrosklerotların yüzeyi pürüzsüz, parlak, siyah, 
+yuvarlak-yassı veya şekilsizdir. Mikrosklerot kök yüzeyinde çimlenir ve çok sayıda çim tüpü 
+oluşturur. Fungus doğal açıklıklardan, yaralardan ve direk penetrasyon yaparak konukçu 
+bitkiye giriş yapar. Fungus hifleri kökün korteks dokusunda önce hücreler arasında daha sonra 
+hücre içinde gelişir ve ksilem vasıtasıyla iletim dokusunu kolonize eder. Ksilemde oluşan 
+mikrosklerotlar iletim demetlerinin tıkanmasına neden olur. Genç bitkide mikrosklerot 
+oluşumu gerçekleşmez. Mikrosklerot yaşamını toprakta ve bitki artıklarında sürdürür. Nemli 
+toprakta mikrosklerot 7-8 haftadan fazla, miselyum ise 7 günden fazla canlılığını sürdüremez. 
+Hastalık genellikle sıcak ve kurak koşullarda yetişen bitkilerde daha yoğun olarak 
+görülmektedir. Fungus pek çok bitkinin tohumu ile tohum kabuğunda taşınır. Çimlenen 
+tohumlar ise çıkış aşamasında ya da çıkış sonrasında ölür. Hastalık toprak sıcaklığı 320C 
+üzerinde gelişir. Düşük toprak nemi hastalık şiddetini arttırır.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalık belirtileri bitkide kök boğazı ve gövde üzerinde kırmızımsı kahverengi renk 
+değişimleri şeklinde görülür (Şekil 1). Hastalık ilerledikçe renk koyulaşır ve siyah bir 
+görünüm alır, sıcak ve kuru havalarda enfekteli bitkiler ölür. Kömür çürüklüğü hasada yakın 
+dönemde görülür. Enfekte olan bitkilerin ana köklerin alt dokusunda parlak kahverengi renk 
+değişimi gözlenir. Bu renk değişimi bitki gövdesinin alt kısmında oluşur. Başlangıçta toprak 
+üstü aksamda hastalık belirtisi görülmez. Daha sonraki dönemde yaprak sarıya döner, solar ve 
+bitki gövdesinde asılı kalırlar (Şekil 2). Çoğunlukla enfeksiyon gövdenin toprağa yakın olan 
+kısmından yukarıya doğru gelişir. Enfekteli bitki sapı ortadan ikiye ayrılıp bakıldığında odun 
+dokusunda siyah çizgiler ve mikrosklerot oluştuğu görülür. Hastalık iklimin uygun olduğu 
+üretim alanlarında %70 oranında ürün kayıplarına yol açar.  
+Şekil 1. Soyada kömür çürüklüğü hastalığı 
+belirtisi 
+Şekil 2. Soya tarlasında kömür çürüklüğü 
+hastalığı 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+42
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+3. KONUKÇUSU 
+Soya dışında domates, patates, fasulye gibi birçok kültür bitkisi hastalık etmeninin 
+konukçusudur.  
+4. MÜCADELESİ 
+4.1. Kültürel önlemler 
+- Sık ekimden kaçınılmalıdır. 
+- Uygun gübreleme yapılmalıdır. 
+- Sulamanın yapıldığı yerlerde, mümkünse ekimden önce tarla 3-4 hafta su altında 
+bırakılmalıdır. 
+- En az 3-4 yıllık ekim nöbeti programı uygulanmalıdır. 
+- Dayanıklı çeşitler tercih edilmelidir. 
+- Hastalıklı bitki artıkları ortamdan uzaklaştırılmalıdır. 
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele tohum ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+İlaçlama, ekimden önce tohum ilaçlaması şeklinde yapılır. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+Tohum ilaçlamaları ilaçlama bidonlarında, naylon torbalarda veya naylon zemin üzerinde 
+yapılabilir. 
+4.2.4. İlaçlama tekniği 
+Islatılmış soya tohumları önerilen doz ve miktarda ilaçla homojen şekilde karışması 
+sağlanarak aynı gün ekilmelidir. İyi bir ilaçlama için tohum kabuğunun tamamen ilaç ile 
+kaplanması gerekmektedir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+43
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+SÜS BİTKİLERİNDE KURŞUNİ KÜF 
+Botrytis spp. 
+1. TANIMI VE YAŞAYIŞI 
+Botrytis spp. her yerde yaygın olarak bulunan polifag bir fungus olup, bir çok bitkide hastalık 
+oluşturabilir. Özellikle havalandırması iyi olmayan üretim alanlarında, çiçek zamanı sisli, 
+çiğli olan yerlerde, doğada ve depolarda çoğu zaman bulunmaktadır. Botrytis spp. her bitki 
+çeşidinde birbirinden farklı belirtilere neden olmakla beraber genel olarak; süs bitkilerinde 
+çiçek yanıklığı, sürgün, gövde ve taç yapraklarda çürüme, yaprak yanıklığı, çökerten ve fide 
+yanıklığı gibi belirtilere neden olmaktadır. 
+Bitkilere yaralı kısımlardan ve dokulardan giriş yapar. Konidi, miselyum ve sklerot gibi 
+değişik formlarda bitki artıkları üzerinde ve toprakta barınır. Yağmur, rüzgar ve örtü altında 
+hava akımı ile yayılmaktadır. Fungus kışı sklerot halinde hasta bitki artıkları üzerinde ve 
+toprakta geçirirken, ilkbaharda sklerotlar çimlenerek, miselyum ve konidiospor oluşturur. 
+Fungusun sporları renksiz olmasına rağmen kurşuni renkteki görünüşü koyu renkli 
+konidiofordan ileri gelmektedir. Hava neminin %95 ve sıcaklığın 17-23°C olduğu koşullar 
+hastalığın gelişmesi için uygundur. Bu hastalık, serin, nemli ve bulutlu havalarda yaygın 
+olarak görülmektedir. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalık etmeni, çiçek, gövde, yaprak, tomurcuk, meyve, soğan, yumru ve kök de dahil olmak 
+üzere bitkinin birçok aksamında hastalık meydana getirebilir. Yanıklık, en sık görülen belirtisi 
+olup yumru, kök çürümesi ve yaprak lekeleri de hastalığın belirtileri arasındadır. Hastalık 
+etmeni hassas ve yumuşak dokuları (çiçek petiolleri, tomurcuklar ve fide) zayıflamış veya 
+yaralı dokuları (hasat sonrası depolanan ürünler gibi), yaşlanmış ve ölü dokuları hedef alır. 
+Çiçekler hastalığa karşı çok hassastır. Çiçek taç yapraklarında, bazen düzensiz, genişlemiş, 
+suda ıslatılmış görünümünde lekeler oluşur. Daha sonra bu yapraklar kurşuni renk alır. Nemli 
+koşullar devam ettiği sürece, çiçek oluşumu engellenir, spor üretimi ve misel gelişimi devam 
+eder. Daha sonra çiçek taç yaprakları keçeleşir ve birbirine yapışır (Şekil 1). Çiçekler, henüz 
+tomurcuk halde iken de enfekte olabilir. Hastalanan çiçek gözleri düşer ya da kapalı kalır. 
+Şakayık ve gül bitkilerinin çiçek tomurcukları ve yapraklarında yanıklık belirtisi çok 
+yaygındır. Ortanca gibi soğuk koşullarda depolanan bitkilerin depolanması süresince 
+tomurcuk yanıklığı; karanfil, krizantem, sardunya ve aslanağzı gibi kesme çiçek ve saksı 
+çiçeklerinin sevkiyatı süresince de çiçek yanıklığı ciddi bir sorun teşkil edebilir. Bitkilerin 
+sap, gövde ve tacında çürüklük ve solgunluk gibi belirtiler meydana gelebilir. Bu belirtiler 
+siyah ve karamel renkli, kesin bir çerçeve halinde uzun lezyonlar şeklindedir. 
+Hastalık çiçek kalitesini düşürdüğü için ekonomik olarak büyük kayıplara neden olmaktadır. 
+Etmen ülkemizde hava sirkülasyonu uygun olmayan ve özellikle yüksek nemin uzun süre 
+hâkim olduğu alanlarda daha çok görülmektedir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+44
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Botrytis cinerea ile enfektelenmiş çiçekler. 
+http://plantdiagnostics.umd.edu/_media/client/diagnostics/fullsize/botrytis_rose_l.jpg 
+3. KONUKÇULARI 
+Hastalığın çok geniş bir konukçu dizisi bulunmaktadır. Süs bitkilerinin yanı sıra asma, çilek 
+başta olmak üzere diğer meyveler, sebzeler, endüstri bitkileri, orman ağaçları, makiler ve 
+çalılar konukçuları arasındadır. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Dayanıklı çeşitler tercih edilmelidir. 
+- Sık dikimden kaçınılarak, bitkilerin toprak yüzeyini tamamen örtmesi önlenmeli ve hava 
+akımı sağlanmalıdır.  
+- Dengeli gübreleme ve iyi bakım yapılarak bitkilerin sağlıklı gelişmeleri sağlanmalıdır. 
+- Hastalıklı bitki artıkları yetiştirme ortamından uzaklaştırılmalıdır. 
+- Depolarda aşırı nem oluşumu engellenmelidir. 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+Hastalığın ilk belirtileri görüldüğünde ilaçlamaya başlanır. Hastalığın şiddeti, iklim koşulları 
+ve ilacın etki süresi dikkate alınarak ilaçlamaya devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlamada sırt pülverizatörü (mekanik veya motorlu) veya tarla pülverizatörü kullanılır. 
+4.2.4. İlaçlama tekniği 
+Bitkinin yeşil aksamını kaplayacak şekilde, havanın serin ve rüzgârsız olduğu zamanlarda 
+ilaçlama yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+45
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+SÜS BİTKİLERİNDE KÜLLEME 
+Erysiphe spp., Podosphaera spp., Phyllactinia spp., Uncinula spp., Sphaerotheca spp., 
+Microsphaera spp., Oidium spp. ve Leveillula spp. 
+l. TANIMI VE YAŞAYIŞI 
+Süs bitkilerinde külleme hastalığına neden olan funguslar Erysiphe spp., Podosphaera 
+spp.,Phyllactinia spp. ve Uncinula spp (=Sawadaea tulasnei), Sphaerotheca spp. 
+Microsphaera spp., Oidium spp., Leveillula spp. (=Oidopsis)’ obligat etmenlerdir. Külleme 
+funguslarına ait konidiler tekli veya zincir halinde gelişirler. Etmenler askosporlar veya 
+konidiler aracılığıyla enfeksiyon yaparlar. İlkbaharda havaların ısınmasıyla birlikte 
+askuslardan salınan askosporlar primer enfeksiyonlara neden olurlar. Yapraklar üzerinde 
+oluşan miselyum ve konidiler rüzgarla çevreye dağılarak sekonder enfeksiyonları meydana 
+getirirler. Etmenler kışı kleistotesiyum veya miselyum halinde yaprak ve sürgünde geçirirler. 
+Ilık ve nemli koşullar hastalık oluşumunu teşvik eder. Etmenlerin ortalama gelişme 
+sıcaklıkları 18-30°C arasındadır. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Külleme etmenleri bitkide genellikle benzer belirtiler oluştururlar. İlkbaharda havaların 
+ısınmasıyla birlikte primer enfeksiyon sonucu bitkinin yaprak, çiçek, sürgün ve meyve gibi 
+kısımlarında gri-beyaz, toz tabakası şeklinde fungal bir örtü oluşur. Daha sonra bu lekeler 
+genişleyerek yaprak ayasını, sapını, çiçek aksamını ve varsa meyveyi kaplamaktadır (Şekil. 
+1,2,3). Enfeksiyonlar bitkilerin yaşlı yapraklarında başlar, ileri dönemlerde genç yapraklara da 
+bulaşır. Hastalıklı yapraklar kuruyup dökülür ve bitkinin gelişimi durur. Külleme hastalığı süs 
+bitkilerinde kalitenin bozulmasına neden olur. 
+Ülkemizde süs bitkisi yetiştiriciliği yapılan alanlarda görülebilmektedir. 
+Şekil 1. Oya bitkisinde külleme hastalığının belirtisi (a,b) 
+© M. Erhan Göre  
+© M. Erhan Göre 
+a 
+b 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+46
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 2. Oya bitkisinde meyvesinde külleme 
+hastalığının belirtisi 
+Şekil 3. Taflan bitkisinin yaprağında külleme 
+hastalığının belirtisi 
+3. KONUKÇULARI 
+Süs bitkilerinde külleme hastalığına neden olan fungusların çok sayıda konukçusu 
+bulunmaktadır. Fungus cinslerine göre bazı konukçuları aşağıda verilmiştir. 
+Erysiphe spp. , oya ağacı, çınar, karanfil, gerbera, ortanca,  yıldız çiçeği, orman gülü, kızılcık, 
+çit sarmaşığı, peygamber çiçeği, kadife çiçeği, liatris, çobandeğneği, kuzukulağı, tarla 
+sarmaşığı, eşek marulu, kabak, karpuz, kavun, kanarya otu, hıyar, marul, açelya, mahunya 
+Podosphaera spp.,taflan, pençe çalısı, aynı safa çiçeği, koyun gözü çiçeği, kayısı, erik, gül, 
+gerbera, kalanchoe ,elma, badem, karayemiş, frenk üzümü 
+Phyllactinia spp., şimşir, akçaağaç, fındık, kızılcık, huş ağacı, dut, şerbetçi otu, kavak, söğüt, 
+karaağaç, üvez, leylak ve kızılağaç 
+Uncinula spp. (Sawadaea tulasnei (=U. tulasnei), bütün akçaağaç ve atkestanesi türleridir. 
+Sphaerotheca spp., kalanchoe, çayır düğmesi, kanada şifa otu 
+Microsphaera sp., leylak, açelya, bezelye çalısı, çınar, berberis 
+Oidium spp., begonya,petunya,adi gürgen, domates, hıyar.uyuz otu, krizantem 
+Leveillula spp. (=Oidopsis), Lisianthus, latin çiçeği, cam güzeli, beyaz kan çiçeği, zambak, 
+eustoma, Allium türleri, patates, domates, biber, patlıcan, korunga 
+4. MÜCADELESİ 
+4.1.Kültürel Önlemler 
+- Sağlıklı bitkilerden çelik alınmalıdır. 
+- Sık dikimden kaçınılmalıdır. 
+- Gübreleme, toprak analizi sonuçlarına göre önerilen şekilde yapılmalıdır.  
+- Aşırı sulama yapılmamalı, ayrıca yağmurlama veya sisleme şeklinde yapılan sulamadan 
+kaçınılmalıdır. 
+- Bitkilerde hastalıklı dallar budanmalı; budama makasları dezenfekte (%10’luk sodyum 
+hipokloritte 5 dakika bekletilmeli) edilmelidir. 
+- Hastalıklı bitki artıkları toplanıp yakılmalıdır. 
+- Bulunması durumunda dayanıklı çeşitler seçilmelidir. 
+© M. Erhan GÖRE 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+47
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2. Kimyasal Mücadele 
+4.2. l. İlaçlama zamanı 
+Hastalığın ilk belirtileri görüldüğünde ilaçlamaya başlanır. Hastalığın şiddeti, iklim koşulları 
+ve ilacın etki süresi göz önünde bulundurularak ilaçlamaya devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlamalarda el pülverizatörü, sırt pülverizatörü (mekanik veya motorlu) veya bahçe 
+pülverizatörü kullanılmalıdır. 
+4.2.4. İlaçlama tekniği 
+İlaçlama rüzgarsız, yağışsız havada ve bitkinin tüm yüzeyinde iyi bir kaplama sağlayacak 
+şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+48
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+SÜS BİTKİLERİNDE YAPRAK LEKESİ 
+Alternaria spp., Septoria spp., Cercospora spp. 
+1. TANIMI VE YAŞAYIŞI 
+Alternaria spp., Septoria spp. ve Cercospora spp. bir çok süs bitkisinde yaygın olarak görülen 
+fungal yaprak leke hastalık etmenleridir. 
+Alternaria spp., yaşamını topraktaki bitki artıkları üzerinde sürdürür. Aşırı nem ve sık dikim 
+hastalığın ortaya çıkması için uygundur. Hastalık için optimum gelişme sıcaklığı 25-30°C'dir. 
+Enfeksiyon alanında oluşan sporlar genellikle sıçrayan su damlası, hava akımı ve bulaşık bitki 
+artıkları ile etrafa yayılır; bulaşık bitki artıkları ve tohumla ertesi yıla taşınır. 
+Septoria spp.,’nin sporları çiğ ve yağmur ya da sulama suları ile etrafa dağılır ve 
+enfeksiyonlarını gerçekleştirir. Fungus olumsuz koşulları toprakta bitki artıkları üzerinde 
+misel ya da klamidospor olarak geçirir. Esas inokulum kaynağı olan piknitlerden oluşan 
+konidiospor hava akımı ile sağlıklı bitkilere taşınmaktadır. Baharda, yüksek nem, yağmur ve 
+16-18°C arasındaki sıcaklıklar enfeksiyon ve hastalığın gelişmesi için uygundur. Hastalık 
+enfekteli bitki parçaları ve yağmurlama sulama ile yayılmaktadır. 
+Cercospora spp.’ nin gelişimi ve yayılışı serin ve nemli hava koşullarında daha çok 
+olmaktadır. Hastalığın gelişmesi için 24-26°C arasındaki sıcaklıklar uygundur. Bahar 
+başlangıcında hastalık etmeninin sporları hava akımları ile yeni gelişmekte olan yaprakları 
+enfekte ederler. Yüzeyde biriken serbest su, sporların çimlenmesini ve enfeksiyonunu başlatır. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Alternaria spp.’nin neden olduğu belirtiler başlangıçta suda ıslanmış gibi görünen küçük 
+lekeler şeklindedir. Bu lekeler daha sonra kırmızı-kahverengine dönüşerek etrafında sarı 
+dairesel haleler oluşur. Daha büyük lekeler üzerinde fungal etmenin koyu yeşil-siyah spor 
+tabakası meydana gelir ve bunlar lekenin merkezinde dairesel halkalar meydana getirir. 
+Lekeler çoğu zaman birleşir ve yaprağın büyük kısmını kaplar. Bazı süs bitkilerinde 
+oluşturduğu belirtiler ise, bitkinin saplarında, bazen çiçeklerde ve çiçek saplarında beliren 
+yuvarlak veya şekilsiz kenarları mor renkte olan kirli beyazımsı lekelerdir (Şekil 1). 
+Septoria spp.’nin neden olduğu belirtiler yaprak üzerinde yuvarlak, nekrotik ve kahverengi 
+lekeler şeklindedir. Bu lekelerin ortasında piknit denilen üreme organları ve belirgin 
+kahverengi kenarlar oluşur. Lezyonların büyüklüğü ve görünümü genellikle konukçuya ve 
+hava nemine bağlı olarak değişmektedir. Hastalık belirtileri çiçeklerde ve çiçek saplarında 
+ortaya çıkabilmektedir (Şekil 2). 
+Cercospora spp.’nin neden olduğu belirtiler, yaprak yüzeyine rastgele olarak dağılmış birçok 
+küçük morumsu lekeler şeklindedir. Daha sonra lekelerin merkezi grimsi bir renge dönüşür. 
+Şiddetli olarak hastalanmış bitkilerde lekeler sarıya döner ve olgunlaşmadan dökülür. Nemli 
+ve yağışlı havalar hastalığın yayılmasında büyük önem taşımaktadır (Şekil 3). 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+49
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Alternaria spp.’nin yapraklardaki belirtileri. 
+Şekil 2. Septoria spp.’nin yapraklardaki belirtileri. 
+Şekil 3. Cercospora spp.’nin yapraklardaki belirtileri. 
+http://departments.bloomu.edu/biology/ricketts/Associates/fungi/Cercospora_kalmiae1tn.JPG 
+Yaprak leke hastalığı etmenleri süs bitkilerinde kaliteyi bozduğu için ekonomik önemde zarar 
+oluşturmaktadır. 
+Hastalık ülkemizde hava sirkülasyonu uygun olmayan ve özellikle yüksek nemin uzun süre 
+hâkim olduğu üretim alanlarında daha çok görülmektedir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+50
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+3. KONUKÇULARI 
+Etmenler geniş bir konukçu dizisine sahiptir. Konukçusu olan süs bitkileri arasında karanfil, 
+nergis, cezayir menekşesi, gül, kasımpatı, gerbera, kadife çiçeği, zakkum, şebboy, sardunya 
+vd. yer almaktadır. 
+4. MÜCADELESİ  
+4.1. Kültürel Önlemler 
+- Üretim materyali temiz olmalıdır, 
+- Bitkiler arasında hava akımının olabilmesi için sık dikimden kaçınılmalı ve üretim 
+alanında havalandırmaya önem verilmelidir, 
+- Yaprak üzerindeki su oluşumu engellenmelidir, 
+- Aşırı sulama yapılmamalı damla sulama tercih edilmelidir, 
+- Dengeli gübreleme yapılmalıdır, 
+- Hastalıklı bitki artıkları uzaklaştırılmalı ve yakılarak imha edilmelidir. 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+İlaçlamaya hastalığın ilk belirtileri görülür görülmez başlanmalıdır. İlaçlamalara kullanılan 
+ilacın etki süresi göz önüne alınarak devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlamada sırt pülverizatörü (mekanik veya motorlu) veya tarla pülverizatörü kullanılır. 
+4.2.4. İlaçlama tekniği 
+Bitkinin yeşil aksamını kaplayacak şekilde, havanın serin ve rüzgârsız olduğu zamanlarda 
+ilaçlama yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+51
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ŞEKER PANCARINDA CERCOSPORA YAPRAK LEKE HASTALIĞI 
+Cercospora beticola Sacc. 
+(Rev:09.05.2025) 
+1. TANIMI VE YAŞAYIŞI  
+Şeker pancarında yaprak lekesi hastalığına neden olan fungal etmen Cercospora beticola 
+Sacc.’dır. Tohum ve/veya hava kaynaklıdır. Etmen bir önceki üretim sezonundan toprakta 
+kalan hastalıkla bulaşık bitki artıklarında, tohumlarda veya sirken, horoz ibiği gibi yabancı 
+otlar ve pazı, ıspanak ve pancar gibi kültür bitkisi olan diğer konukçularında konidi veya 
+pseudostroma (spor taşıyıcı yapılar) formunda kışlar. Stromalardan (pseudostroma) çıkan 
+konidiler çok hücreli, ipliğimsi, şeffaf, uca doğru daralan tipte, çok bölmeli ve açık 
+kahverengi renktedir. Nemli koşullarda pseudostromalarda gelişen konidiler primer 
+enfeksiyonları başlatır. Konidi üretimi gündüz sıcaklıklarının ortalama 27-32°C, gece 
+sıcaklığının 17°C ve nemin %90 ve üzeri veya yaprak ıslaklığının 11 saatten uzun olduğu 
+koşullarda gerçekleşir. Yaz aylarında elverişli koşullar altında etmenin yaşam döngüsü 10 
+günde bir tamamlanır ve konidiler aracılığıyla üretim sezonu boyunca etmenin mikro yaşam 
+döngüsü birkaç kez tekrarlanır. Böylece inokulum giderek çoğalır. Sezon sonunda ise etmen 
+yeniden pseudostroma oluşturarak kışlar.  
+Hastalığın çıkışı ve gelişmesi, üretim yılının yağış ve sıcaklık seyri ile doğrudan ilgilidir. 
+Şiddetli epidemiler sıcaklığın 20-35 °C arasında, nispi hava neminin %95-100 olduğu ve 10-
+12 saat sürdüğü durumlarda gerçekleşir. Gece sıcaklıkları 20°C ve üzerine çıktığında lekelerin 
+hızlı bir şekilde artması sonucu yaprak ölümleri de artar. Hastalığın her yıl görüldüğü 
+bölgelerde mayıs-temmuz ayları arasında uygun sıcaklık ve nem koşulları oluştuğunda 
+enfeksiyon gerçekleşir. Bu aylarda sık sık yağan yağmurlar ve yapraklarda oluşan çiğ ile 
+enfeksiyonlar başlar. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Enfeksiyon gerçekleştikten ortalama 7-10 gün sonra ilk belirtiler görülür. Hastalığın ilk 
+belirtileri yaşlı dış yaprakların üzerinde birkaç küçük daire şeklinde ortaya çıkar. Bu yaprak 
+lekeleri orta alanı gri-açık kahverengi, çevresi kırmızı-koyu kahverengi, dar veya geniş 
+belirgin bir sınırla kuşatılmış 0.5-6 mm çapındadır. Yaprak lekelerinin ortasında küçük siyah 
+noktalar halinde stromalar görülür. Yapraklardaki lekeler, hastalığın artan baskısıyla, kısa 
+zamanda çoğalıp birleşir (Şekil 1, 2). Yüzeylerinin tamamı lekelerle kaplanan yapraklar, 
+zamanla kuruyup ölür. Yoğun enfeksiyonlarda çok sayıda yaprak kuruyarak ölür, bitkiler 
+yapraklarının tamamını kaybeder ve yeni yapraklar sürer (Şekil 3,4). Yeni yapraklar da 
+sürekli olarak enfekte olarak kurur ve ölür. Mevsim sonuna doğru göbek yapraklarda ve 
+yaprak sapları üzerinde de uzunlamasına lekeler görülebilir. Mevsim sonunda, pancarın başı 
+yukarıya doğru konik bir şekilde uzamış bir görünüm alır. 
+Tohum salkımları oluşmuş olan tohumluk bitkilerde ise toprak yüzeyinin hemen üzerindeki 
+kısımların tamamı hastalıktan etkilenir.  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+52
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Yaprakta ilk lekelerin oluşması, 
+lekelerin çoğalarak birleşmesi ve nekrotik 
+alanların oluşması 
+Şekil 2. Şeker pancarı yaprağında Cercospora 
+beticola’nın neden olduğu lekeler. 
+Şekil 3. Cercospora yaprak lekesi hastalığının 
+tarlanın tamamına yayılması ve yaprakların 
+büyük bir kısmının ölmesi. 
+Şekil 4. Hastalığın bitkideki yaprakların 
+tamamını öldürmesi ve yeni yaprakların 
+sürmesi. 
+Cercospora yaprak lekesi, şeker pancarının en tahripkâr hastalıklarından biridir. Dünyada 
+şeker pancarı ekim alanlarının yaklaşık yarısında yaygınlık göstermektedir. Hastalığın şiddeti, 
+ülkeye ve bölgeye göre değişim gösterip mücadele yapılmadığı zaman şeker pancarının kök 
+verimini % 26, şeker varlığını %13, arıtılmış şeker varlığını %18 ve şeker verimini %55’e 
+varan oranlarda düşürmektedir.  
+Etmen bir sonraki sezona, bulaşık tohumlarla, tarlada kalan bitki artıkları veya konukçusu 
+olan yabancı otlar ve bazı kültür bitkileriyle taşınabilir. Bitkiden bitkiye taşınması ise yağmur 
+sularının sıçraması ve rüzgarların etkisi ile gerçekleşir.  
+3. KONUKÇULARI 
+Başlıca konukçuları şeker pancarı (Beta vulgaris subsp. vulgaris convar. vulgaris var. 
+altissima), pancar (Beta vulgaris), pazı (Beta vulgaris subsp. vulgaris), ıspanak (Spinacia 
+oleracea) ve kereviz (Apium graveolens) gibi kültür bitkilerinin yanı sıra yabani Beta türleri, 
+horoz ibiği (Amaranthus retroflexus), kara pazı (Atriplex sp.), sirken (Chenopodium album), 
+kıvırcık labada (Rumex crispus), yabani marul (Lactuca asteraceae), kara hindiba 
+(Taraxacum officinale), ebegümeci (Malva parviflora), tarla sarmaşığı (Convolvulus arvensis) 
+ve sinir otu (Plantago sp.) gibi yabancı ot türleridir.  
+©R. Kaya 
+©R. Kaya
+©R. Kaya 
+©R. Kaya 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+53
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Hastalıktan ari ve sertifikalı tohumlar kullanılmalıdır. 
+- Dayanıklı/tolerant çeşitler ekilmelidir. 
+- Tarlada görülen hastalıklı bitkiler ve sezon sonu bitki artıkları ortamdan uzaklaştırılarak 
+imha edilmelidir. 
+- Hastalığın konukçusu olan yabancı otlar yok edilmelidir. 
+- Yağmurlama sulamanın gündüz yapılması, tarla seviyesinde nispi nem düzeyinin süresini 
+uzattığı için enfeksiyonu teşvik etmektedir. Bu nedenle sulamanın gece yapılması 
+gerekmektedir. 
+- Hastalık etmeni topraktaki bitki artıklarında 2 yıl canlı kaldığı için aynı tarlada en az 3 yıl 
+etmenin konukçusu olan bitkiler ekilmemelidir. 
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele yeşil aksam ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+İlaçlamalara hastalık için uygun hava şartları oluştuğunda ve tarlada yapraklar üzerinde ilk 
+hastalık belirtileri görülür görülmez başlanır. Hastalığın seyrine göre kullanılan ilacın etki 
+süresi dikkate alınarak ilaçlamalara devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3.Kullanılacak alet ve makinalar 
+İlaçlamada sırt pülverizatörü (mekanik veya motorlu) veya tarla pülverizatörü kullanılır. 
+İlaçlamada, tarla pülverizatörü ile ilaçlamanın mümkün olmadığı alanlarda İnsansız Hava 
+Aracı (İHA) ile ilaçlama sistemleri kullanılabilir.  
+İHA ile ilaçlama yapılırken dikkat edilmesi gereken hususlar;  
+-Uçuş hızı 3-4 m/s ve uçuş yüksekliği 2-4 m arasında seçilmelidir.  
+-İlaçlamalarda sürüklenme riskine karşı en az 4 m emniyet şeridi bırakılmalı ve tercihen 
+sürüklenmeyi azaltan (anti-drift) memeler kullanılmalıdır.  
+-IHA ile ilaçlamalarda 2 m/s’nin üzerindeki rüzgar hızında ilaçlama yapılmamalıdır. 
+4.2.4. İlaçlama tekniği 
+İlaçlama sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm bitkiyi kaplayacak 
+şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+54
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ŞEKER PANCARINDA ÇÖKERTEN/KÖK YANIKLIĞI 
+[Rhizoctonia solani Kühn., Phoma betae A.B. Frank (syn. Pleospora bjoerlingii Byford.) 
+Pythium spp., Fusarium spp.] 
+1. TANIMI VE YAŞAYIŞI  
+Şeker pancarında, Rhizoctonia solani Kühn., Phoma betae A.B. Frank, Pythium spp., 
+Fusarium spp. gibi birden fazla toprak kaynaklı patojen, tek başına veya bir kompleks halinde 
+çökerten veya kök yanıklığı hastalığına sebep olmaktadır. 
+Rhizoctonia solani Kühn.: Rhizoctonia solani toprak kaynaklı fungal bir patojen olup şeker 
+pancarında erken dönemde çökertene, ilerleyen dönemlerde de kök ve kök boğazı 
+çürüklüğüne neden olmaktadır. Rhizoctonia solani’nin AG 2-2 IIIB ve AG 2-2 IV 
+anastomosis grupları şeker pancarında hastalık yapmaktadır. Patojen toprakta sklerot olarak 
+ve bitki artıklarında miselyum formunda kışlayarak canlılığını devam ettirir. Üretim sezonu 
+içerisinde çimlenerek şeker pancarında kök ve kök boğazını enfekte eder. Sıcaklıkların 
+yüksek seyrettiği (25-35°C), ağır ve drenajın zayıf olduğu topraklarda etmenin vereceği zarar 
+artmaktadır. 
+Phoma betae A.B. Frank: Phoma betae, tohum ve toprak kaynaklı fungal bir etmen olup 
+özellikle asidik karakterdeki topraklarda zarar yapmaktadır. Fungus enfekteli tohumda 
+yaşamını yıllarca devam ettirebilmektedir. Ayrıca toprakta ve konukçu bitki artıklarında da 
+yaklaşık 2 yıl boyunca canlılığını koruyabilir. Enfekteli tohumlardan gelişen bitkiciklerde 
+çökerten meydana gelirken, çökerteni atlatarak gelişmeye devam eden bitkilerde hastalık 
+sistemik olarak ilerleyerek yapraklarda yanıklık, kök ve kök boğazında ise kuru çürüklük 
+belirtilerine neden olmaktadır. Etmenin eşeyli üreme yapıları olan ascuslar, uygun şartlar 
+altında çimlenerek askosporların yayılmasına ve primer enfeksiyonları başlatmalarına neden 
+olur. İlk enfeksiyonlardan sonra etmen eşeysiz üremeye geçer ve eşeysiz üreme organları olan 
+piknidiumlardan dağılan konidileri aracılığıyla bitkiden bitkiye yayılarak sekonder 
+enfeksiyonları devam ettirir. Yeşil aksamda patojenin gelişimi için uygun sıcaklıklar 15-32°C, 
+kök gövdesindeki gelişimi için ise 5-20°C’dir. Fungus, tohumdan yeni gelişen bitkiciklere 
+15°C’nin altındaki sıcaklıklarda zarar verirken, sıcaklıklar 20°C’nin üzerine çıktığında zarar 
+azalır.  
+Fusarium spp.: Fusarium spp., toprak kaynaklı fungal bir etmen olup özellikle asidik 
+karakterdeki topraklarda daha fazla zarar yapmaktadır. Şeker pancarında erken dönemde 
+çökertene, ilerleyen dönemlerde de kök ve kök boğazı çürüklüğüne neden olmaktadır. 
+Mikrokonidi, makrokonidi ve klamidospor olmak üzere 3 tip spor üretir ve genellikle toprakta 
+ya klamidospor formunda, ya da bitki artıkları üzerinde miselyum formunda kışlar. 
+Klamidosporlar uzun yıllar toprakta konukçu bitki olmadan canlılıklarını sürdürebilen 
+dayanıklı yapılardır. Mayıs - Haziran aylarının çok yağıșlı ve sıcak geçtiği yıllarda, konukçu 
+bitkilerin köklerinden salgılanan eksudatlar aracılığıyla klamidosporlar çimlenerek genellikle 
+köklerdeki yaralardan (böcek yeniği, alet kesiği vb.) ve kılcal köklerden içeri girerek, 
+enfeksiyonu başlatır. Hastalık gelişimi 27°C’yi aşan sıcaklıklarda daha şiddetli olur. Hastalık, 
+ülkemizde en erken Mayıs ayı ortası ve en geç Temmuz ayı sonuna doğru ortaya çıkmaktadır. 
+Pythium spp.: Pythium spp. yaygın görülen toprak kaynaklı fungus benzeri bir patojen olup 
+oospor formunda toprakta birkaç yıl canlılığını sürdürebilir. Etmen, birçok konukçuda genç 
+ve sulu yapıdaki dokulara saldırarak bitki köklerinde parazitik olarak, hava koşulları elverişli 
+olduğunda da toprakta bulunan diğer organik materyallerde saprofitik olarak yaşayabilir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+55
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Dayanıklı yapıları olan oospor formunda kışlar. Tohum ve kök eksudatları oospor 
+çimlenmesini teşvik eder. Özellikle toprak sıcaklığının düşük, toprak ıslaklığının fazla olduğu 
+durumlarda ve asidik karakterdeki topraklarda Pythium spp.’nin zararı daha da artmaktadır. 
+Toprak sıcaklığı 12-20°C arasındaysa çıkış öncesi çökerten zararı çok yaygın olarak 
+görülmektedir. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Rhizoctonia solani Kühn.: Rhizoctonia solani erken dönemde; çıkış öncesi, daha yaygın 
+olarak çıkış sonrası çökertene sebep olmaktadır. Erken dönemde genç bitkiler üzerindeki 
+zararı Pythium spp.’den sonra görülür. Etmenin bașlıca simptomları sıra araları kapandığında 
+görülmeye bașlanır ve daha çok yaz sonu – sonbahar başlangıcında belirginleșir. Enfeksiyon 
+bitkinin toprak altında kalan kök boğazında kuru, belirgin sınırları olan kahverengi lezyonlar 
+şeklinde görülür ve lezyonlar hipokotillere kadar uzayabilir. Çökerteni atlatarak gelişmeye 
+devam eden bitkilerde ise patojen kök ve kök boğazı çürüklüğüne sebep olur. Kök ve kök 
+boğazı çürüklüğünün meydana geldiği bitkilerde ani bir solgunluk, yeşil aksamda sararma ve 
+dış yapraklarda kök boğazı bölgesine yakın dip kısımlarında koyu kahverengi veya siyah 
+nekrotik alanlar görülür (Şekil 1a). Kök üzerindeki lezyonlar, genellikle kök boğazı bölgesine 
+yakın koyu kahve-siyah renkte olup ilerleyen enfeksiyonlarda kök üzerindeki lekeler 
+birleşerek merdiven benzeri bir şekil oluşturur. Köklerde hastalıklı ve sağlıklı dokuların 
+belirgin bir çizgiyle ayrıldığı görülür (Şekil 1b,c). Çürüyen doku genellikle kökün dış 
+kısmında yer alır. Rhizoctonia’nın neden olduğu çürüklüklerde genellikle kökte çatlaklar 
+oluşur. Yapraklar ise toprak yüzeyinde çöker ve ölür (Şekil 1d).  
+Etmen tohumla uzak mesafelere, sulama suyu veya yağmur sularıyla tarlada temiz alanlara 
+taşınır. Bir sonraki sezona ise bulaşık tohumlarla, tarlada kalan bitki artıkları veya konukçusu 
+olan yabancı otlar ve bazı kültür bitkileriyle taşınabilir.  
+Şekil 1. Şeker pancarında Rhizoctonia solani’nin sebep olduğu dış yapraklarda kök boğazına yakın 
+alanda görülen siyah renkte nektorik lezyonlar  
+(a; 
+of-sugar-beets), kökte belirgin bir çizgiyle ayrılan hastalıklı ve sağlıklı dokular  
+yaprakların solarak toprak yüzeyine serilmesi (d). 
+a 
+b 
+c 
+d 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+56
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Ülkemizde etmen, şeker pancarının 4-16 yapraklı olduğu dönemlerde ve olgunlaşma 
+döneminde zarar yapar.  
+Phoma betae A.B. Frank: Phoma betae, şeker pancarında bütün bitki kısımlarını enfekte 
+eder. Ağır enfekteli tohumlarda çıkış öncesi çökerten görülür. Toprak yüzeyine çıkan 
+enfekteli bitkiciklerin hipokotillerinde kahverengi renk değişikliği görülebilir. Yapraklar 
+üzerinde çapı 2 cm’e varan, kahverengi, çevresinde koyu renkli konsantrik halkaları olan oval 
+veya yuvarlak şekilli lekeler oluşur (Şekil 2a). Bu konsantrik lekelerin içerisinde küçük koyu 
+renkli piknidiumlar göze çarpar. Daha yaşlı alt yapraklar, genellikle genç yapraklara oranla 
+daha duyarlıdır. Köklerdeki belirtiler kök boğazına yakın, küçük, koyu renkli ve çöküktür. Bu 
+belirtiler zamanla yumuşak ve sulu bir görüntü alır ve sonunda hastalıklı ve sağlıklı dokuyu 
+belirgin siyah sınırların ayırdığı koyu kahverengi-siyah lezyonlara dönüşür. Enfeksiyon 
+ilerledikçe dokular, siyah, kuru, çökük ve süngerimsi bir yapıya dönüşür (Şekil 2b). Kök 
+üzerindeki çökük alanlarda beyazımsı gri bir miselyum tabakası oluşabilir. Kök dokularında 
+piknidium oluşumu görülmez.  
+Etmenin uzun mesafelere taşınmasına enfekteli tohumlar neden olur. Rüzgarın bulaşık bitki 
+artıklarını veya etmenin üreme yapıları olan konidileri etrafa yayması, yine konidilerin 
+yağmur sularının sıçramasıyla sağlıklı bitkilere dağılması, sulama suları ve böcekler etmenin 
+kısa mesafelere lokal olarak yayılmasına sebep olmaktadır. Bir sonraki sezona ise yine 
+bulaşık tohumlarla, tarlada kalan bitki artıkları veya konukçusu olan yabancı otlar ve ıspanak 
+gibi bazı kültür bitkileriyle taşınabilir. 
+Şekil 2. Şeker pancarında Phoma betae’ye ait yaprak lezyonları (a) 
+(https://apsjournals.apsnet.org/doi/pdfplus/10.1094/PHP-02-19-0013-RS),  
+kök boğazına yakın koyu renkli çökük lezyonlar (b). 
+Fusarium spp.:  
+Fusarium türleri erken dönemde; çıkış sonrası çökertene ve kök çürüklüklerine sebep 
+olmaktadır. Bitkinin olgunlaştığı dönemde ise tarladaki hastalık belirtileri, yer yer adacıklar 
+şeklinde görülür ve Fusarium spp. ile bulaşık şeker pancarı bitkilerinin yeşil aksamında genel 
+bir kloroz, solgunluk ve yaşlı yapraklarda kurumalar meydana gelir (Şekil 3a,b). Sonunda 
+yaprakların tamamı ölür fakat bitkiye bağlı bir şekilde kök boğazı çevresinde bir yığın halinde 
+çökerler. Kök belirtileri dışardan görülemeyebilir ancak kökün enine kesitinde kahverengi 
+vasküler renk değişikliği göze çarpar (Şekil 3c,d). Etmen tohumla uzak mesafelere, sulama 
+suyu veya yağmur sularıyla tarlada temiz alanlara taşınır. Bir sonraki sezona bulaşık 
+tohumlarla, tarlada kalan bitki artıkları veya konukçusu olan yabancı otlar ve konukçusu 
+olduğu kültür bitkileriyle taşınabilir. 
+a 
+b 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+57
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 3. Şeker pancarında Fusarium spp.’nin neden olduğu yeşil aksamda genel kloroz ve 
+yellows-of-sugar-beet/pp1247.pdf) ve kökün enine kesitinde göze çarpan vasküler renk 
+değişiklikleri (c-d).  
+Pythium spp.: Pythium türleri erken dönemde; sıklıkla çıkış öncesi ve sonrası çökertene 
+sebep olmaktadır. Tohumdan yeni çıkmış bitkiciklerin hipokotilleri bu patojene karşı oldukça 
+hassastır ve etmen toprak yüzeyinin hemen üzerindeki hipkotillerde hafif koyu renkte ve sulu 
+bir çürüklük oluşturur. Patojen genç bitkiciğin sap kısmını enfekte ettiğinde ise enfekteli 
+dokular siyaha döner ve bitki toprak yüzeyine serilerek ölür (Şekil 4a). Pythium türlerinden 
+kaynaklı çıkış sonrası çökertenle birlikte bitki köklerinde suda haşlanmış gibi bir görüntü 
+mevcuttur. Bitkinin olgunlaştığı dönemde ise aşırı nemli ve ağır topraklarda alt yaprakların 
+sarararak solduğu görülür ve genellikle dış yaprakların kök boğazına yakın dip kısımlarında 
+siyah sulu bir çürüklük görülür (Şekil 4b,c). Ağır enfekteli bitkiler genellikle ölür. Etmen 
+sulama suyu veya yağmur sularıyla tarlada temiz alanlara taşınır. Bir sonraki sezona, tarlada 
+kalan bitki artıkları, organik materyaller veya konukçusu olan yabancı otlar ve bazı kültür 
+bitkileriyle taşınabilir. 
+a 
+b 
+a 
+b 
+c 
+d 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+58
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 4. Pythium türlerinin neden olduğu şeker pancarında çökerten (a) 
+köklerinde meydana getirdiği koyu renkli sulu çürüklük (b-c). 
+Şeker pancarında çökerten ve kök yanıklığı etmenleri, dünyada olduğu gibi ülkemizde de son 
+derece tahripkardır. Etmenlerin bulașma zamanına ve tarladaki yayılışına göre köklerde 
+meydana getirdiği kayıplar değișkenlik göstermekle birlikte ortalama olarak ürünün șeker 
+içeriğini %60’ın üzerindeki oranlarda etkilemektedir. Hastalıktan etkilenen pancarların 
+depolanması zor olmakla birlikte işleme kalitesi de düşmektedir. 
+3. KONUKÇULARI 
+Rhizoctonia solani kühn., Fusarium spp. ve Pythium spp. fungal etmenleri, birçok kültür 
+bitkisini ve yabancı otu da içerisine alan geniş bir konukçu dizisine sahiptir. Phoma betae ise 
+ıspanak ve kinoa başta olmak üzere Chenopodiaceae ve Amaranthaceae familyası üyesi olan 
+kültür bitkileri ve yabancı otlarda zarar yapmaktadır.  
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Sertifikalı ve hastalıktan ari tohum kullanılmalıdır.   
+- Dayanıklı/tolerant çeşitler ekilmelidir. 
+- Bu hastalıkta toprak drenajı oldukça önemlidir, özellikle ağır karakterli topraklardaki aşırı 
+nemlilik önlenmelidir. Bunun için yükseltilmiş yataklara tohum ekimi önerilebilir.  
+- Bununla birlikte arazinin belli bölgelerinde su birikiminin önlenmesi için arazi tesviyesi 
+de önerilir.  
+- Yağmurlama ve merkez eksen sulama tercih edilebilir ancak sık sulamadan kesinlikle 
+kaçınılmalıdır.  
+- Aşırı azotlu gübrelemeden uzak durulmalıdır.  
+- Yem bitkileriyle en az 3 senelik ekim nöbeti önerilir.  
+- Tarlada görülen hastalıklı bitkiler ve sezon sonu bitki artıkları ortamdan uzaklaştırılarak 
+imha edilmelidir. 
+- Bitkiler arasında hava akımının olabilmesi için sık dikimden kaçınılmalıdır. 
+- Hastalığın konukçusu olan Chenopodiaceae ve Amaranthaceae familyalarına bağlı 
+yabancı otlar yok edilmelidir. 
+- Tohum ekimi için toprak sıcaklığının 15°C’nin altında ve 19-20°C’nin üzerinde 
+olmaması önerilir.  
+- Hastalık etmeni topraktaki bitki artıklarında 2 yıl canlı kaldığı için aynı tarlada en az 3 yıl 
+etmenin konukçusu olan bitkiler ekilmemelidir. 
+c 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+59
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele tohum ve/veya yeşil aksam ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+Tohum ilaçlamalarında tohumlar ekim sırasında veya ilacın özelliğine göre daha önceden 
+ilaçlanabilir. 
+Yeşil aksam ilaçlamalarına, tarlada hastalığın ilk belirtileri görüldüğünde başlanır. Ancak 
+yoğun bulaşık alanlarda ilk ilaçlamalara bitkiler 4-8 yapraklı olduğunda ve/veya 10 cm toprak 
+derinliğindeki sıcaklık 19-22°C’yi bulduğunda başlanmalıdır. Hastalığın seyrine göre ve 
+firmasınca önerildiği şekilde ilaçlamalara devam edilir. İlaçlama sayısı ve tarihleri 
+kaydedilmelidir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3.Kullanılacak alet ve makinalar 
+Tohum ilaçlaması, ruhsatlı tohum kaplama alet ve makinalarıyla yapılır.  
+Yeşil aksam ilaçlamaları bütün deneme alanında tekdüze dağılım sağlayacak veya doğru 
+bölgesel ilaçlama yapabilecek uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği 
+doğrudan etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme 
+verdisi, ilerleme hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, kullanılan 
+zirai mücadele alet - makineleri ve ilaçlama başlıklarının ticari adı kaydedilmelidir. 
+4.2.4. İlaçlama tekniği 
+Tohum ilaçlamasında ilacın tohum yüzeyinde tutunabilmesi için tohumlar önceden 
+nemlendirilmelidir. Preparatlar 100 kg tohum için önerilen ilaç miktarı 1-1.5 litre su içerisinde 
+çözündürülür ve sonrasında karıştırmayla bu ilaçlı su bütün tohuma homojen olarak dağıtılır. 
+Yeşil aksam ilaçlaması ise sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm 
+bitkiyi kaplayacak şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+60
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ŞEKER PANCARINDA KÜLLEME 
+Erysiphe betae (Vaňha) Weltzien (synonym: Erysiphe polygoni) 
+1. TANIMI VE YAŞAYIŞI  
+Şeker pancarında küllemeye obligat bir parazit olan Erysiphe betae (Vaňha) Weltzien fungal 
+etmeni neden olmaktadır. Erysiphe betae yaprak yüzeyinde yüzeysel miselyum şeklinde 
+gelişir. Patojen konukçu bitkinin epidermal hücrelerinden direkt olarak penetrasyon yapar ve 
+hücreler arasında gelişerek enfeksiyona neden olur. Yaprak yüzeyindeki miselyum 
+öbeklerinden uzanan eşeysiz üreme organları konidioforlarda üretilen konidiler, rüzgarlar 
+aracılığıyla dağılarak yeni enfeksiyonları meydana getirir (Şekil 1). 
+Şekil 
+1. 
+Yaprak 
+yüzeyindeki 
+miselyum 
+öbeklerinden uzanan eşeysiz üreme organları 
+publishing/pdf/PNW/PNW643.pdf) 
+Şekil 2. Eşeyli üreme yapıları kasmotesyumlar 
+E. betae, kışlık konukçu bitkilerde veya kendi-gelen şeker pancarı bitkisinde kışlar. 
+İlkbaharda çimlenen konidiler enfeksiyon hifi oluşturarak primer enfeksiyonları başlatır. 
+Başlangıç enfeksiyonundan sonra, etmen yaprak yüzeyinde gelişerek eşeysiz sporlar olan 
+konidileri oluşturur. Daha sonraki sekonder enfeksiyonlar konidiler aracılığıyla olur ve 
+konukçu bitkinin varlığında, ekolojik koşullar hastalık için uygun olduğu sürece sezon 
+boyunca devam eder.  
+Hastalık genel olarak yazları sıcak ve kurak geçen bölgelerde görülür. Hastalık oluşumu için 
+en uygun zaman, kurak hava koşullarının yanı sıra yüksek gündüz fakat düşük gece 
+sıcaklıkları, yani gece-gündüz sıcaklık farkının fazla olduğu periyotlardır. Konidi üretimi için 
+gündüz sıcaklığının 27°C, gece sıcaklığının ise 12°C civarında olduğu sıcaklıklar ve nisbi 
+nemin %30-40 dolaylarında olduğu koşullar hastalık oluşumu için en elverişli koşullardır. 
+Konidi çimlenmesi, enfeksiyon oluşumu ve koloni gelişimi için ise optimal sıcaklık aralığı 
+15-30°C iken, optimum sıcaklık ise 25°C’dir. Enfeksiyon oluştuktan sonra eğer sıcaklıklar 
+25°C civarında seyrederse inkübasyon periyodu 5 güne kadar kısalabilir. Yüksek nisbi nem 
+(%60-100) konidi üretimini ve canlılığını da önlese de konidilerin çimlenmesi ve enfeksiyon 
+oluşumu için gereklidir. Bununla birlikte yaprak üzerindeki serbest nem konidi çimlenmesini 
+ve koloni gelişimini engellemektedir.  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+61
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Eşeyli üreme yapıları olan kasmotesyumlar, sezon içerisinde geç dönemde oluşabilir (Şekil 
+2). Kasmotesyumların oluşumunda 12-22°C sıcaklık ve %30 nisbi nem önemli rol oynar. 
+Ancak kasmotesyumların oluşumu çok sık görülen bir durum değildir.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalığın ilk belirtileri; genellikle yaşlı yaprakların alt yüzeyinde küçük, dağınık ve seyrek 
+yapıda, dairesel beyaz miselyum öbekleri şeklindedir. Hastalık ilerledikçe bütün yaprakları 
+enfekte olarak bitki küllü beyaz bir görünüme kavuşur. Hastalık uygun ortam koşullarında 
+hızlı bir şekilde gelişerek bütün yaprak yüzeyini kaplayabilir (Şekil 3). 
+Şekil 3. Şeker pancarı yapraklarındaki dağınık ve 
+seyrek yapıda beyaz miselyum öbekleri 
+Şekil 4. Şeker pancarı tarlasında külleme 
+hastalığından bir görüntü  
+Şiddetli enfekte olmuş yapraklar önce sarararak daha sonra morumsu-kahverengine döner. 
+Yaprak yüzeyindeki miselyum öbeklerinden uzanan konidioforlarda üretilen konidiler, 
+rüzgarlar aracılığıyla dağılarak yeni enfeksiyonları meydana getirir. Üretim sezonunun sonuna 
+doğru ise hastalık daha da şiddetlendiğinde ve çevre koşulları hastalık için elverişli olarak 
+devam ettiğinde, genellikle yaşlı yaprakların üst yüzeyinde koyu kahverengi-siyah, küresel, 
+eşeyli üreme yapıları olan kasmotesyumlar görülebilir.  
+Etmen kurak iklim koşullarında şiddetli enfeksiyonlara neden olur. Şiddetli enfeksiyonlarda 
+hastalık bir ay içinde tarladaki tüm bitkilere bulaşabilir (Şekil 4). Eğer kontrol altına 
+alınmazsa bitkideki şeker verimi %30-35’e kadar düşebilir. 
+3. KONUKÇULARI 
+Etmen yalnızca şeker pancarı (Beta vulgaris subsp. vulgaris convar. vulgaris var. altissima), 
+yemlik pancar (Beta vulgaris), pazı (Beta vulgaris subsp. vulgaris) gibi Beta genusuna bağlı 
+kültür bitkilerinde ve yabani Beta türlerinde hastalığa neden olmaktadır. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Hastalığa dayanıklı/tolerant çeşitler ekilmelidir. 
+- Tarlada görülen hastalıklı bitkiler ve sezon sonu bitki artıkları ortamdan uzaklaştırılarak 
+imha edilmelidir. 
+- Hastalığın konukçusu olan yabancı otlar yok edilmelidir. 
+- Özellikle vahşi (salma) sulamanın yapıldığı alanlarda hastalık çok daha şiddetli seyreder. 
+Bu nedenle vahşi sulamadan ziyade yağmurlama sulama yapılması ve sulamanın gece 
+yapılması gerekmektedir.  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+62
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2. Kimyasal Mücadele 
+Hastalıkla kimyasal mücadele yeşil aksam ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+İlaçlamalara hastalık için uygun hava şartları oluştuğunda ve tarlada yapraklar üzerinde ilk 
+hastalık belirtileri görülür görülmez başlanır. Hastalığın seyrine göre kullanılan ilacın etki 
+süresi dikkate alınarak ilaçlamalara devam edilir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması”nda yayınlanan ve tavsiye edilen bitki koruma ürünleri ve dozları 
+kullanılır. 
+4.2.3.Kullanılacak alet ve makinalar 
+İlaçlamada hidrolik tarla pülverizatörü kullanılır.  
+4.2.4. İlaçlama tekniği 
+İlaçlama sabahın erken saatlerinde, rüzgarsız ve yağışsız havalarda ve tüm bitkiyi kaplayacak 
+şekilde yapılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+63
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+ŞERBETÇİOTU KÜLLEMESİ 
+Podosphaera macularis (Wallr.:Fr.) U. Braun & S. Takamatsu 
+(=Sphaerotheca macularis (Wallr.:Fr.) Lind ,=Sphaerotheca humuli (DC.) Burrill) 
+1.TANIMI VE YAŞAYIŞI 
+Fungusun kleistotesyumları koyu renkli yuvarlak ve tek askusludur, tutunucuları genellikle 
+uzun, düz, bölmeli ve koyu kahverengidir. Konidiosporlar konidioforlar üzerinde zincir 
+şeklinde (2-8 adet veya daha fazla) sıralanmışlardır. Fungus kışı kleistotesyum olarak bitki 
+artıklarında ya da tomurcuk aralarında miselyum olarak geçirir. İlkbaharda kleistotesyumların 
+çatlaması ile etrafa yayılan askosporlar primer enfeksiyonları oluşturur. Bayrak sürgünler 
+külleme miselleriyle kaplanır ve 5-10 gün sonra konidiler görülür, üretilen bu konidiler 
+sekonder enfeksiyonları başlatır. Patojenin gelişmesi için uygun sıcaklıklar 12-30oC ‘dir. 
+Özellikle yüksek nemde daha yüksek sıcaklıklara tolerans gösterebilmektedir.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Hastalığın belirtileri sürgünlerde, yapraklarda, kozalak ve çiçeklerde görülür. Primer 
+enfeksiyon sonucu bayrak sürgünler beyazımsı miselyal örtü ile kaplanır (Şekil 1). Genç 
+yapraklar üzerindeki sekonder enfeksiyonlar beyazımsı yuvarlak noktalar olarak gözlenir 
+(Şekil 2). Zamanla bu lekeler yaprak yüzeyini tamamen kaplar. Sekonder enfeksiyonlar 
+sürgünde, bitkinin en alt ve en üst yaprağında belirti verebilmekte yani hastalık bitkide dikine 
+gelişim göstermektedir (Şekil 3). Genç yapraklar yaşlı yapraklara göre hastalıktan daha fazla 
+etkilenir. Bitkinin tepesinden aşağı doğru yaklaşık ilk 5 yaprak hastalığa en hassas 
+kısımlardır. Hassas çeşitlerde çiçek ve kozalaklar da enfekte olabilmektedir. Enfekteli 
+alanlarda büyüme durur. Çiçeklerde dökülmeler, kozalaklarda şekil bozuklukları, cüceleşme, 
+erken olgunlaşma ve kozalak dokularında gevrekleşme gözlenir (Şekil 4). Kozalak pulları 
+arasında gizli enfeksiyonlar da görülebilmektedir. Enfekteli kozalaklar kleistotesyum oluşum 
+döneminde kırmızı ile siyahımsı arasında bir renk alır. 
+Hastalık hassas çeşitlerde ve şiddetli enfeksiyonlarda önemli ürün ve kalite kaybına neden 
+olabilmektedir. 
+Hastalık ülkemizde şerbetçiotu üretiminin yapıldığı Bilecik ilinde görülmektedir. 
+Şekil 1. Bayrak sürgünündeki 
+belirtiler 
+Şekil 2. Yapraktaki belirtiler 
+Şekil 3. Sürgündeki belirtiler 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+64
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 4. Sağlıklı (A) ve hastalıklı (B) kozalaklar 
+person/37109/030909/2008GentetalPHPManuscript.pdf 
+Şekil 3 http://ipmnet.org/plant-disease/plant_images/PMcones.JPG 
+3. KONUKÇULARI 
+Şerbetçiotu, gül, çilek, ahududu, karahindiba ve koyun otu’ dur. 
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Erken dönemde enfekteli sürgünler budanarak imha edilmelidir. 
+- Aşırı azotlu gübre kullanımından kaçınılmalıdır. 
+- Dip sürgünleri mekanik yolla temizlenmelidir. 
+- Hasattan sonra hastalıklı bitki artıkları imha edilmelidir 
+- Dayanıklı çeşit kullanılmalıdır. 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+1.ilaçlama: Hastalık koşulları oluştuğunda veya hastalığın ilk belirtileri görüldüğünde 
+2. ve diğer ilaçlamalar: Kullanılan ilaçların etki süresi dikkate alınarak enfeksiyon koşulları 
+sona erinceye kadar ilaçlamalara devam edilir. 
+İlaçlama programında son uygulama ile hasat arasındaki süreye dikkat edilmelidir. 
+4.2.2. Kullanılacak bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlamada sırt pülverizatörü (mekanik veya motorlu), sırt atomizörü veya bahçe pülverizatörü 
+kullanılır. 
+4.2.4. İlaçlama tekniği 
+İlaçlamalar rüzgârsız havada yapılmalıdır. Üretim sahasında tüm sıralar atlanmadan bitkilerin 
+tüm yeşil aksamı iyice ilaçlanmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+65
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+YERFISTIĞINDA AFLATOKSİN 
+Aspergillus flavus, Aspergillus parasiticus 
+1. TANIMI VE YAŞAYIŞI 
+Yerfıstığında aflatoksin oluşumuna neden olan fungusların başında Aspergillus flavus ve 
+Aspergillus parasiticus gelmektedir. A. flavus’un konidiyal başlığı sarımsı yeşil renkte, küre 
+ya da sütun şeklindedir. Konidioforlar değişken uzunluklarda, pürüzlü, çukurlu ve dikensi bir 
+yapıya sahiptir (Şekil 1a). Vesikül çomak şeklindedir (Şekil 1b). Konidiler küre şeklinde, 
+sarı-yeşil renkte, pürüzsüz veya hafif pürüzlü, ince duvarlıdır (Şekil 1c). Fialidler tek veya çift 
+sıralı olup vesikülün tüm yüzeyini kaplar ve farklı yönlere doğru uzanır. Sterigma tek 
+sıralıdır. Sklerotlar küre şeklinde, rengi kırmızımsı kahverengiden, morumsu kahverengiye 
+kadar değişmektedir. 
+Şekil 1. a) Konidiofor ve konidial başlık b) Vesikül yapısı c) Konidiler 
+A. parasiticus’un konidial başlığı yeşil renkte, küre veya sütun şeklindedir. Konidiofor 
+oldukça pürüzlü bir yapıda, yeşil renktedir. Vesikül yuvarlak ya da yuvarlağa yakındır (Şekil 
+2a). Konidiler yuvarlak, kalın, koyu yeşil renkte, çoğunlukla pürüzlü duvarlıdır (Şekil 2b). 
+Fialidler direkt olarak vesikül ya da metula üzerinde bulunur. Sterigma iki sıralıdır. 
+Şekil 2. a) Konidiofor, konidial başlığı ve vesikül yapısı b) Konidiler 
+b 
+a 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+66
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+A. flavus ve A. parasiticus tohum, toprak veya hava kaynaklı olabilir ve bu türlerin yaklaşık 
+%40-80'i aflatoksin üretme yeteneğindedir. Etmenler, 10 ile 43°C sıcaklık aralığında 
+canlılığını sürdürmekle birlikte optimum gelişme sıcaklıkları 25-35°C’dir. Her iki etmen 28-
+30°C’de maksimum aflatoksin üretmektedir. Fungusların gelişmesi için havanın bağıl nemi 
+%65, nispi neminin ise %75-80 olması gerekmektedir.  
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI 
+Aflatoksijenik A. flavus ve A. parasiticus’un yerfıstığı kapsüllerine veya tohumlarına hasat 
+öncesi tarlada (Şekil 3) bulaşması ile aflatoksin oluşumu başlamakta ve hasat, kurutma, 
+depolama ve işleme süresince de aflatoksin miktarı artarak ürünlerde bulaşıklığa neden 
+olmaktadır. Özellikle kapsüllerin olgunlaşmaya başladığı dönemde yerfıstığı bitkilerinin 
+kuraklık, böcek vb. abiyotik veya biyotik strese maruz kalmasıyla üründe aflatoksin oluşumu 
+artmaktadır. Her iki Aspergillus türü yerfıstığı üretiminde verim olarak kayda değer bir ürün 
+azalışına neden olmamasına rağmen oluşturdukları kanserojenik toksinler ile insan ve hayvan 
+sağlığı açısından önemli bir tehdit oluşturmaktadırlar. Yerfıstığında aflatoksin üreten fungal 
+etmenlere karşı mücadele yapılmadığında hasat döneminde aflatoksin ile bulaşıklık oranı 
+artabilmektedir. Aflatoksin, ülkemizin yerfıstığı yetiştirilen her yerinde görülebilmektedir. 
+Üründe aflatoksin olup olmadığının veya varsa aflatoksin miktarının belirlenmesi için 
+üründen örnekler alınarak aflatoksin analizi yapılmalıdır. Türk Gıda Kodeksi Tebliğinde 
+yerfıstığı için maksimum toplam aflatoksin miktarı yer almaktadır. 
+Şekil 3. Aflatoksin üreten A. flavus ile bulaşık yerfıstığı tohumu 
+3. KONUKÇULARI 
+A. flavus ve A. parasiticus yerfıstığının yanı sıra mısır, buğday, arpa, çeltik, soya, pamuk, 
+fındık, antepfıstığı, ceviz, badem, incir, üzüm, kırmızıbiber ve karabiber gibi ürünlerde 
+aflatoksin oluşumuna neden olmaktadırlar. 
+4. MÜCADELESİ 
+4.1. Kültürel önlemler 
+- Herhangi bir nedenle (mekanik, böcek vb.) zarar görmüş tohum kullanılmamalıdır. 
+- Sertifikalı tohum kullanılmalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+67
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+- Aflatoksin oluşumuna dayanıklı çeşitler kullanılmalıdır.  
+- Yerfıstığı hasadı kurak koşullarda toprak sıcaklığı 240C, sulu koşullarda ise 340C 
+olduğunda yapılmalıdır.  
+- Ürün yetiştirilen çeşidin özelliğine göre optimum olgunlukta hasat edilmelidir.  
+- Hasat sonrasında yerfıstığı tane nem içeriği %18-24, kurutma sonrası kabuklu yerfıstığının 
+nem içeriği %10-11, kabuksuz yerfıstıklarında ise %7-8 olmalıdır. 
+- Hasat, kurutma, depolama ve işleme sırasında ürünlere fiziksel hasar verilmemelidir. 
+- Depolarda nem %65-70 arasında, sıcaklık 10oC’nin altında olmalıdır. 
+- Depolarda muhafaza edilen yerfıstığı ürününün içerisinde taş, toprak, çöp, lif vb. 
+bulunmamalıdır. 
+4.2. Kimyasal Mücadele 
+Toprak veya yeşil aksam ilaçlaması şeklinde yapılır.   
+4.2.1. İlaçlama zamanı 
+Toprak ilaçlaması ekimden hemen önce veya yeşil aksam ilaçlaması ekimden 60 gün sonra 
+yapılır. 
+4.2.2. Kullanılan bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+Yeşil aksam ilaçlamalarında hidrolik tarla pülverizatörü, sırt pülverizatörü (mekanik, 
+otomatik, motorlu) veya sırt atomizörü kullanılır. 
+4.2.4. İlaçlama tekniği 
+Toprak ve bitki yüzeyinde ilaçlanmamış alan bırakılmamalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+68
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+YERFISTIĞINDA CERCOSPORA YAPRAK LEKESİ 
+Cercospora arachidis Henn. ve Cercospora personata (Berk. & M.A. Curtis) Ellis 
+1. TANIMI VE YAŞAYIŞI  
+Yerfıstığı erken yaprak lekesi hastalığına Cercospora arachidis Henn. (Telemorf: 
+Mycosphaerella arachidis Deighton), geç yaprak lekesi (Telemorf: Mycosphaerella berkeleyi 
+W.A. Jenkins) hastalığına ise Cercospora personata (Berk. & M.A. Curtis) Ellis fungal 
+etmenleri neden olmaktadır. 
+Toprakta bitki kalıntıları ve kendi gelen bitkiler üzerinde oluşan konidiler çimlenerek ilk 
+enfeksiyonu başlatırlar. Konidiler rüzgarla, su sıçramaları ve böceklerle yayılır. C. 
+arachidis’in konidiosporları 3-12 bölmeli, genellikle eğri, renksiz veya çok açık zeytin yeşili 
+rengindedir. C. personata’nın konidiosporları ise çok daha kısa ve dikkat çekecek derecede 
+kalın ve 3-4 bölmelidir. Genellikle silindirik, çomak şeklinde, nadiren de eğri görünüm 
+sergiler. Askosporlar ve konidiosporlar yüksek bağıl nemde ve hava sıcaklığı 21°C’nin 
+üzerine çıktığında çimlenerek doğrudan doğruya epidermis hücrelerinden veya stomalardan 
+giriş yapar. C. personata’da emeçler kısa sürede dallanarak misele dönüşür ve konukçu 
+hücrenin canlılığını yitirmesi uzun zaman alabilir. C. arachidis’de ise konukçu hücresi kısa 
+sürede canlılığını yitirir. Yapraklar üzerinde enfeksiyona ait ilk belirtiler inokulasyondan 6-8 
+gün sonra görülür. Geç yaprak leke belirtileri ise inokulasyondan 10-14 gün sonra oluşur.  
+C. arachidis için 20-24°C’den yüksek sıcaklıklarda ve %90’nin üzerindeki nisbi nemde, C. 
+personata için ise 20°C sıcaklık ve %93’ün üzerindeki nisbi nemde en az 12 saatlik yaprak 
+ıslaklığında epidemiler oluşabilir. 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI  
+Yerfıstığı ekildikten yaklaşık 3-4 hafta sonra uygun koşullarda C. arachidis, 6-8 hafta sonra 
+ise C. personat’nın yapraklarda oluşturduğu tipik lekeler görülebilir. Ayrıca etmen dal, yaprak 
+sapı ve ginofor (toprağa giren sürgünler) üzerinde belirti oluşturabilir.  
+C. arachidis’in bitkide oluşturduğu lekeler düzensiz dairemsi şekilde olup 1-10 mm 
+çapındadır. Zamanla bu lekeler birleşerek yaprağı kaplar. Lekelerin etrafında sarı bir hale 
+mevcuttur (Şekil 1a,b). Yaprak üst yüzeyinde görülen nekrotik alanların rengi kırmızımsı 
+kahverengiden siyaha kadar değişir, yaprak alt yüzeyinde ise lekeler daha az belirgin ve açık 
+kahverengidir. Konidiosporlar genellikle yaprağın üst yüzeyinde seyrek halde bulunur.  
+C. personata yaprağın her iki yüzünde koyu kahverengiden siyaha kadar değişen renkte, 1-6 
+mm büyüklükte dairemsi lekeler oluşturur. Lekelerin çevresinde genellikle hale yoktur, ancak 
+yaprağın üst yüzeyinde ki olgun lekelerde sarı haleler gözlenebilir (Şekil 1c). Konidiosporlar 
+yaprağın alt yüzünden çıkarak yığınlar halinde görülebilir (Şekil 1d). 
+Cercospora yaprak lekesi, uygun koşullar altında yaprakların kuruyup dökülmesine ve üründe 
+%50’nin üzerinde verim kaybına neden olabilir. Etmen, ülkemizde yerfıstığı tarımı yapılan 
+alanlarda görülmektedir.  
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+69
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 1. Yerfıstığında Erken (a, b) ve Geç (c, d) yaprak lekesi belirtileri 
+3. KONUKÇULARI  
+C. arachidis ve C. personata yerfıstığına (Arachis hypogaea L.) özgü olan hastalık 
+etmenleridir.  
+4. MÜCADELESİ 
+4.1. Kültürel Önlemler 
+- Hastalıktan ari tohum kullanılmalıdır.  
+- Dayanıklı veya tolerant çeşitler tercih edilmelidir. 
+- Hasattan sonra, bitki artıkları ve kendi gelen bitkiler yok edilmelidir. 
+- En az iki yıl ekim nöbeti yapılmalıdır. 
+4.2. Kimyasal Mücadele 
+4.2.1. İlaçlama zamanı 
+Birinci ilaçlama ilk hastalık belirtileri görüldüğünde yapılır. Hasatla son ilaçlama arasındaki 
+süre dikkate alınarak hastalık koşulları ortadan kalkıncaya kadar ilaçlamaya devam edilir. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+70
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+4.2.2. Kullanılan bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+İlaçlamada sırt pülverizatörü (mekanik, otomatik, motorlu) ve bordo bulamacı hazırlamak için 
+gerekli bidonlar kullanılır. 
+4.2.4. İlaçlama tekniği 
+Bitki yüzeyinde ilaçlanmamış alan bırakılmamalıdır. 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+71
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+YERFISTIĞINDA KÖKBOĞAZI ÇÜRÜKLÜĞÜ 
+Aspergillus niger Tiegh. 
+1. TANIMI VE YAŞAYIŞI 
+Yerfıstığında kökboğazı çürüklüğüne neden olan etmen Aspergillus niger’dir. Konidiofor 
+şeffaf ve düzgün bir yapıya sahiptir (Şekil 1a). Konidial başlık siyah, küre şeklindedir (Şekil 
+1b). Konidiler yuvarlak ve pürüzsüzdür. (Şekil 1c). Vesikül küre şeklinde ve renksizdir. 
+Fialidler çift sıralıdır ve vesikülün tüm yüzeyini kaplar. Sterigma bir veya iki sıralı olabilir. 
+Sklerot küre şeklindedir. 
+Hastalığa neden olan etmen, tohum veya toprak kaynaklı olabilir ve tohumlarda %90’nın 
+üzerinde bulaşıklık oluşturabilir. Etmenin gelişmesi için en uygun sıcaklık aralığı 25-
+35°C’dir. 
+Şekil 1. a) Konidiofor ve ayak hücreleri b) Konidial başlık c) Konidileri 
+2. BELİRTİLERİ, EKONOMİK ÖNEMİ VE YAYILIŞI  
+Hastalık belirtileri önce bitkinin bazı dallarında solgunluk ve daha sonra bitkinin tamamının 
+solması ve canlılığını kaybetmesi şeklinde kendini gösterir. Etmen, genellikle yerfıstığı 
+bitkilerinin kotiledon ve hipokotil kısmında gelişir. Enfekteli doku kahverengileşir ve 
+nekrotik doku belirgin biçimde lifli bir görünüş kazanır. Konidiofor demetleri ve siyah 
+spor kümeleri toprak yüzeyinin üstünde ve altındaki enfekteli bitki kısımları üzerinde 
+kolayca görülür (Şekil 2). Hastalık bitkide hızlı ilerler ve enfekteli genç bitkiler çoğunlukla 
+ekimden 30-40 gün sonra ölür (Şekil 3). A. niger yerfıstığında tarla ve depo döneminde 
+zarara neden olmaktadır.  
+Şekil 2. Hastalığın kök ve kökboğazında meydana getirdiği konidiosporlar ve zarar şekli 
+©Erhan GÖRE 
+©Erhan GÖRE 
+©Erhan GÖRE 
+T A G E M
+Bitki Sağlığı Araştırmaları Daire Başkanlığı 
+72
+Endüstri ve Süs Bitkileri Hastalıkları Zirai Mücadele Teknik Talimatları 
+Şekil 3. Yerfıstığı tarlasında hastalığın belirtileri 
+Hastalık şiddetinin yoğun olduğu yıllarda, hastalığın görüldüğü tarlalarda oluşan ocak 
+şeklindeki boşluklar %50'ye ulaşabilmektedir. Hastalık, ülkemizin yerfıstığı ekimi yapılan 
+her yerinde görülmektedir. 
+3. KONUKÇULARI 
+Yerfıstığının yanı sıra soğan, sarımsak, üzüm, incir, muz, kiraz, turunçgil, buğday, mısır 
+ve pamuk konukçuları arasında yer almaktadır.  
+4. MÜCADELESİ 
+4.1. Kültürel önlemler 
+- Sertifikalı tohum kullanılmalıdır.  
+- Dayanıklı çeşitler tercih edilmelidir. 
+- Toprak sıcaklığının 18oC ve toprak nemi ekim tavında olduğu zaman 6-8 cm derinliğe 
+ekim yapılmalıdır. 
+- Hastalıklı bitki artıkları imha edilmelidir. 
+4.2. Kimyasal Mücadele 
+Tohum ilaçlaması şeklinde yapılır. 
+4.2.1. İlaçlama zamanı 
+Tohum ilaçlaması ekimden önce yapılır. 
+4.2.2. Kullanılan bitki koruma ürünleri ve dozları 
+Bakanlığın “Bitki Koruma Ürünleri Veri Tabanı" ile "Bitki Koruma Ürünleri Veri Tabanı 
+Mobil Uygulaması” nda yayınlanan ve tavsiye edilen bitki koruma ürünü kullanılır. 
+4.2.3. Kullanılacak alet ve makineler 
+Tohum ilaçlamaları temiz ilaçlama bidonlarında, naylon torbalarda veya naylon zemin 
+üzerinde yapılabilir.  
+4.2.4. İlaçlama tekniği 
+Islatılmış yerfıstığı tohumlarının önerilen doz ve miktarda ilaçla homojen şekilde karışması 
+sağlanarak aynı gün ekilmelidir. İyi bir ilaçlama için tohum kabuğunun tamamen ilaç ile 
+kaplanması gerekmektedir. 
+T A G E M

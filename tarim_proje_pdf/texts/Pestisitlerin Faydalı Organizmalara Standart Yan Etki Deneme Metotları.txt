@@ -1,0 +1,2008 @@
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+I 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+II
+İÇİNDEKİLER 
+İÇİNDEKİLER ............................................................................................................................................................. II 
+PESTİSİTLERİN FAYDALI ORGANİZMALARA STANDART YAN ETKİ DENEME METOTLARI 
+GENEL ESASLAR ....................................................................................................................................................... 1 
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN Anagyrus pseudococci (Girault) (Hymenoptera: 
+Encyrtidae)’YE KARŞI YAN ETKİ DENEME METODU ...................................................................................... 9 
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN Aphytis spp. (Hymenoptera: Aphelinidae)’YE 
+KARŞI YAN ETKİ DENEME METODU .................................................................................................................. 13 
+LABORATUVAR 
+KOŞULLARINDA 
+PESTİSİTLERİN 
+Chilocorus 
+bipustulatus 
+L. 
+(Coleoptera: 
+Coccinellidae)’A KARŞI YAN ETKİ DENEME METODU ..................................................................................... 17 
+LABORATUVAR 
+KOŞULLARINDA 
+PESTİSİTLERİN 
+PREDATÖR 
+AKARLAR 
+(Acarina: 
+Phytoseiidae)’A KARŞI YAN ETKİ DENEME METODU ...................................................................................... 21 
+LABORATUVAR 
+KOŞULLARINDA 
+PESTİSİTLERİN 
+Serangium 
+parcesetosum 
+Sicard 
+(Coleoptera:Coccinellidae)’A KARŞI YAN ETKİ DENEME METODU ............................................................... 25 
+TARLA 
+KOŞULLARINDA 
+PESTİSİTLERİN 
+Anagyrus 
+pseudococci 
+(Girault) 
+(Hymenoptera:Encyrtidae)’YE KARŞI YAN ETKİ DENEME METODU ............................................................ 30 
+TARLA KOŞULLARINDA PESTİSİTLERİN  PREDATÖR Chilocorus bipustulatus (Coleoptera: 
+Coccinellidae)’A KARŞI YAN ETKİ DENEME METODU ..................................................................................... 33 
+TARLA KOŞULLARINDA PESTİSİTLERİN PREDATÖR AKARLAR (Acarina: Phytoseiidae)’A KARŞI 
+YAN ETKİ DENEME METODU ................................................................................................................................ 37 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+1
+PESTİSİTLERİN FAYDALI ORGANİZMALARA 
+STANDART YAN ETKİ DENEME METOTLARI 
+GENEL ESASLAR 
+(Rev 22.02.2019) 
+GİRİŞ 
+Son yıllarda dünyada ve ülkemizde yaygınlaşan entegre mücadele çalışmalarında pestisitlerin 
+faydalı organizmalara yan etkileri önemli bir yer tutmakta olup günümüzde modern bitki 
+koruma çalışmalarında kimyasal pestisitlerin kullanımının azaltılması bir politika haline 
+gelmiştir.  
+Bu amaçla entegre mücadele programlarında uygun pestisitlerin seçilmesinde, bu pestisitlerin 
+uluslararası standart metotlarla faydalı organizmalara yan etkilerinin belirlenmesi önem 
+taşımaktadır. 
+Bir çok ülkede ilaç ruhsatlandırma çalışmalarında pestisitlerin faydalı organizmalara olan yan 
+etkilerinin araştırılması zorunluluk haline gelmiştir. 
+Bu konuda ülkemizde yapılacak denemelerde de birliktelik sağlamak amacı ile IOBC’nin 
+“Pestisitler ve Faydalı Organizmalar Çalışma Grubu” nun 1988, 1992, 1994, 2000 ve 2006 
+yılı yayınları esas alınarak, ülkemizde yaygın olarak bulunan önemli doğal düşmanlara 
+pestisitlerin yan etkilerinin araştırılmasında kullanılacak standart yan etki deneme metotları 
+hazırlanmıştır.  
+GENEL ESASLAR 
+Tarla denemelerinin zaman alıcı ve pahalı olması ile birlikte tarla koşullarının 
+değişkenliğinden dolayı zaman zaman sonuçların değerlendirilmesinde zorluk yaşanmaktadır.  
+Bu 
+nedenle 
+pestisitlerin 
+faydalı 
+organizmalara 
+etkilerinin 
+belirlenmesi 
+ve 
+değerlendirilmesinde hataları en aza düşürmek için laboratuvar, yarı tarla ve tarla 
+yöntemlerinden oluşan üç aşamalı kombinasyon deneme serisi geliştirilmiştir (Şekil 1).   
+Zararsız 
+Zararsız 
+Zararsız 
+Laboratuvar  
+Yarı tarla 
+Tarla 
+Zararlı 
+Zararlı 
+Zararlı 
+Şekil 1. Pestisitlerin faydalı organizmalara yan etkilerini belirlemek için kullanılan aşamalar.  
+Pestisitlerin zarar derecesi laboratuvar testleri ile belirlenir.  
+Laboratuvar denemelerinde bir faydalıya zararsız bulunan pestisit, aynı organizmaya tarla 
+koşullarında da etkisiz olacağı için o pestisitin yarı tarla ve tarla koşullarında denenmesine 
+gerek yoktur.  
+Laboratuvar denemelerinde faydalıya zararlı bulunan pestisitler (sınıf değeri M ve T), yarı 
+tarla denemelerine alınır. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+2
+Yarı tarla denemelerin amacı, laboratuvarda zararlı olan pestisitin daha gerçekçi koşullarda 
+faydalının canlılığı, yumurta verimi, parazitleme kapasitesi veya av tüketimindeki 
+laboratuvardaki etkiyi gösterip göstermediğini test etmektir.  
+Yarı tarla denemelerinde zararlı olarak etki gösteren pestisitler (sınıf değeri M ve T) tarla 
+denemelerine alınır.  
+Pestisitlerin zararlı etkileri konusunda kesin kanıya varmak için bunların gerçek tarla 
+koşullarında denenmesi gerekmektedir. 
+Laboratuvar denemeleri tek deneme olarak yapılır. 
+Yarı tarla ve tarla denemeleri iki farklı bölgede veya aynı bölgenin iki farklı lokasyonunda 
+yürütülür. 
+Tarla denemelerinde sınıf değeri M ve T olarak etki gösteren pestisitler zararlı olarak kabul 
+edilir. 
+Test edilecek faydalı organizmaların seçimi genel olarak, bunların ilgili bitkilerde yoğun ve 
+yaygın olarak bulunmaları, etkili olmaları, bunlarla ilgili kolay üretim yöntemlerin olması 
+veya ticari olarak bulunmaları, depolanabilir ve taşınabilir olmalarına göre yapılmaktadır.  
+Ülkemizde önemli kültür bitkilerinde ruhsata esas pestisit müracaatlarında pestisitlerin faydalı 
+organizmalara yan etki deneme metotları bitki ve test organizmalarına göre Çizelge 1’de 
+verilmiştir.  
+Çizelge 1. Yan etki denemeleri metotları için kültür bitkilerine göre test organizmaları* 
+Bitki Grubu 
+Test Grubu 
+Familya/tür 
+Yeşil Aksam İlaçlamaları 
+Hububat 
+Bir afit predatörü 
+Coccinellidae 
+Bir yumurta parazitoidi 
+Scelionidae 
+Açık alanda 
+Sebzeler 
+Bir predatör böcek 
+Chrysopidae, Coccinellidae, Syrphidae, 
+Nesidiocoris tenuis, Orius spp. 
+Bir afit parazitoidi 
+Aphidiidae 
+Bir lepidopter yumurta 
+parazitoiti 
+Trichogramma spp. 
+Bir lepidopter larva, 
+larva-pupa parazitoidi 
+Braconidae, Ichneumonidae 
+Örtü altında 
+yetiştirilen sebzeler 
+Bir predatör akar 
+Phytoseiidae 
+Bir parazitoit 
+Encarsia formosa, Aphidius spp. 
+Bir predatör böcek 
+Orius spp, Chrysopidae, Coccinellidae, 
+Nesidiocoris tenuis 
+Meyve bahçeleri  
+Bir afit parazitoidi 
+Aphidiidae 
+Bir Lepidopter yumurta 
+parazitoidi 
+Trichogramma spp. 
+Bir predatör akar 
+Phytoseiidae 
+Bir predatör böcek 
+Chrysopidae, Coccinellidae, Syrphidae 
+Bağ 
+Bir predatör akar 
+Phytoseiidae 
+Bir predatör böcek 
+Chrysopidae 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+3
+Bir yumurta parazitoiti 
+Trichogrammatidae 
+Bir larva parazitoiti 
+Habrobracon spp. 
+Pamuk 
+Bir predatör böcek 
+Chrysopidae, Coccinellidae,  Orius spp. 
+Bir lepidopter larva, 
+larva-pupa parazitoidi 
+Braconidae, Ichneumonidae 
+Antepfıstığı 
+Bir genel predatör 
+Coccinellidae, Chrysopidae 
+Bir parazitoit 
+Psyllaephagus sp. Metaphycus sp. 
+Turunçgil 
+Bir predatör böcek 
+Chilocorus bipustulatus, Serangium 
+parcesetosum 
+Bir predatör akar 
+Typhlodromus spp., Euseius 
+spp.,Amblyseius spp., Phytoseiulus spp. 
+Bir parazitoit 
+Aphytis melinus, Anagyrus pseudococci 
+Mısır 
+Bir yumurta parazitoiti 
+Trichogrammatidae 
+Bir larva parazitoiti 
+Braconidae 
+Bir predatör böcek 
+Chrysopidae, Coccinellidae, Orius spp. 
+Zeytin 
+Bir parazitoit 
+Metaphycus sp., Aphytis melinus 
+Bir predatör böcek 
+Chrysopidae, Coccinellidae 
+Tohum ve Toprak Yüzeyi İlaçlamaları 
+Hububat, Sebze, 
+Endüstri Bitkileri 
+Bir predatör 
+Carabidae,  Staphylinidae 
+* Ruhsata esas denemelerde ülkemizde bulunan doğal düşman türleri esas alınır. 
+Laboratuvar Denemeleri 
+a) Hassas dönem (örneğin; parazitoitlerin erginleri, predatör akarların ergin öncesi 
+dönemleri, predatör böceklerin larva ve nimf dönemleri) 
+1. Pestisitler, cam levha, yaprak, kum veya kumlu toprak üzerine uygulanır. 
+2. Faydalı funguslar, nematodlar ve Collembola için standart ortam (örneğin; toprak, agar 
+vb.) hazırlanır. Tohum ilaçları, granul ilaçlar, tabletler ve tuzaklar: örümcekler (Araneae), 
+toprakta yaşayan faydalı Coleoptera takımının Carabidae ve Staphylinidae familyasına bağlı 
+birer tür üzerinde test edilmelidir (Candolfi et al, 2001). 
+3. Pestisit uygulamasında homojen bir dağılım sağlamak için, cam yüzeyler ve yapraklara 
+1.5-2.0 mg ilaçlı sıvı /cm2, kum ve kumlu toprağa 4-6 mg ilaçlı sıvı /cm2 tavsiye edilir. 
+4. Laboratuvarda üretilen veya araziden toplanan test organizmaları aynı yaşta olmalıdır. 
+5. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda 
+denenmelidir.  
+6. Pestisit uygulamaları genel kurallara uygun olmalıdır. 
+7. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+8. Yeterli havalandırma sağlanmalıdır. 
+9. Her denemede mutlaka kontrol (saf su) ve standart toksik pestisit (tavsiye edilen en 
+yüksek doz) alınmalıdır.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+4
+10. Ölümün yanı sıra, faydalının yumurta verimi, parazitleme kapasitesindeki veya av 
+tüketimindeki azalma değerlendirilmelidir  
+11. Sonuçlar aşağıda tabloya göre değerlendirilmelidir (Boller et al., 2006). 
+Laboratuvar Sınıf Değerleri* 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı laboratuvarda yapılan yan 
+etki çalışmalarında eğer iki faydalı %30’un altında, bir faydalı %50’nin altında değer alıyorsa Bitki 
+Koruma Ürünü faydalılara zararsız veya az zararlı olarak kabul edilir.  
+b) Daha az hassas dönemler (örneğin; konukçu içindeki parazitoitler, predötör akarların ve 
+böceklerin erginleri) 
+1. Pestisitler deneme organizmalarına doğrudan uygulanır. 
+2. Pestisit uygulamasında homojen bir dağılım sağlamak için, cam yüzeyler ve yapraklara 
+1.5–2.0 mg ilaçlı sıvı /cm2, kum ve kumlu toprağa 4–6 mg ilaçlı sıvı /cm2 tavsiye edilir. 
+3. Laboratuvarda üretilen veya araziden toplanan test organizmaları aynı yaşta olmalıdır. 
+4. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda 
+denenmelidir. 
+5. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+6. Pestisit uygulamaları genel kurallara uygun olmalıdır. 
+7. Yeterli havalandırma sağlanmalıdır. 
+8. Her denemede mutlaka kontrol (saf su) ve standart toksik (tavsiye edilen en yüksek doz) 
+alınmalıdır.  
+9. Ölümün yanı sıra, faydalının yumurta verimi, parazitleme kapasitesindeki veya av 
+tüketimindeki azalma değerlendirilmelidir.  
+10. Sonuçlar aşağıda tabloya göre değerlendirilmelidir (Boller et al., 2006). 
+Laboratuvar Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+c) Pestisitlerin faydalı organizmalara kalıntı etki süresi  
+1. Toprağa, bitkilere ve yapraklara uygulanan pestisitlerin farklı sürelerde (gün, hafta) kalıntı 
+etkileri test edilir. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+5
+2. Tarla koşullarında (yağmurdan korunaklı ve güneş ışığının doğrudan etkisi altında) veya 
+laboratuvarda uyarlanmış tarla koşullarının (pestisitin kullanıldığı uygun mevsimde) 
+oluşturulması ile kalıntının incelenmesi. 
+3. Pestisit uygulamaları genel kurallara uygun olmalıdır. 
+4. Laboratuvarda üretilen veya araziden toplanan test organizmaları aynı yaşta olmalıdır. 
+5. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda 
+denenmelidir. 
+6. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+7. Yeterli havalandırma sağlanmalıdır. 
+8. Her denemede mutlaka kontrol (saf su) ve standart toksik pestisit (tavsiye edilen en 
+yüksek doz) olmalıdır.  
+9. Ölümün yanı sıra, faydalının yumurta verimi, parazitleme kapasitesindeki veya av 
+tüketimindeki azalma değerlendirilmelidir.  
+10. Toksisite kayboluncaya kadar veya uygulamadan bir ay sonraya kadar denemeye devam 
+edilir. 
+11. Sonuçlar aşağıda verilen dört sınıfta değerlendirilmelidir. 
+Kalıntı Sınıf Değerleri 
+Sınıf değeri 
+Süre (gün) 
+Kalıntı değeri 
+A 
+< 5 
+Kısa 
+B 
+5–15 
+Az kalıcı 
+C 
+16–30 
+Orta derecede kalıcı 
+D 
+> 30 
+Çok kalıcı 
+d) Geliştirilmiş laboratuvar çalışmaları   
+1. Denemeler örtü altında veya laboratuvarda standart tarla koşullarının yapay olarak 
+oluşturulması (yaz ayına uygun değişken sıcaklık, nem ve ışık şiddeti) ile yapılır. 
+2. Bu çalışmalarda test organizmaların hassas dönemleri kullanılır. 
+3. Pestisitlerin gaz etkisini önlemek için uygun havalandırma yapılır. 
+4. Faydalı organizmalar uygulama sırasında bitkiler üzerinde bulunmalı veya ilaçlamadan 
+hemen sonra salınmalıdır. 
+5. Laboratuvarda üretilen veya doğadan toplanan, kullanılacak organizmalar aynı yaşta 
+olmalıdır. 
+6. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda 
+denenmelidir. 
+7. Pestisit uygulamaları genel kurallara uygun olmalıdır. 
+8. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+9. Her denemede mutlaka kontrol (saf su) ve standart toksik pestisit (tavsiye edilen en 
+yüksek doz) olmalıdır.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+6
+10. Ölümün yanı sıra, faydalının yumurta verimi, parazitleme kapasitesindeki veya av 
+tüketimindeki azalma değerlendirilmelidir.  
+11. Sonuçlar aşağıda verilen üç sınıfta değerlendirilmelidir. 
+Geliştirilmiş Laboratuvar Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık derecesi 
+1 
+0–50 
+Zararsız veya az zararlı 
+2 
+51–75 
+Orta derecede zararlı 
+3 
+> 75 
+Çok zararlı 
+Yarı Tarla Denemeleri   
+1. Denemeler tarla koşullarındaki iklim faktörlerinin etkisini en aza indirecek şekilde örtü 
+altında yapılır. 
+2. Pestisit uygulaması, en uygun zaman, mevsim ve üründe yapılır. 
+3. Faydalı organizmalar uygulama sırasında bitkiler üzerinde bulunmalı veya ilaçlamadan 
+hemen sonra salınmalıdır. 
+4. Laboratuvarda üretilen veya doğadan toplanan, kullanılacak organizmalar aynı yaşta 
+olmalıdır. 
+5. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda 
+denenmelidir. 
+6. Pestisit uygulamaları genel kurallara uygun olmalıdır. 
+7. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+8. Her denemede mutlaka kontrol (saf su) ve standart toksik (tavsiye edilen en yüksek doz) 
+olmalıdır.  
+9. Ölümün yanı sıra, faydalının yumurta verimi, parazitleme kapasitesindeki veya av 
+tüketimindeki azalma değerlendirilmelidir.  
+10. Sonuçlar aşağıda tabloya göre değerlendirilmelidir (Boller et al., 2006). 
+Yarı Tarla Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+0-50 
+Zararsız veya az zararlı 
+M 
+51-75 
+Orta derecede zararlı 
+T 
+> 75 
+Zararlı 
+Tarla Denemeleri 
+a) Tarladaki doğal faydalı faunası 
+1. Kültür bitkileri veya toprakta doğal olarak bulunan faydalı organizmalar doğrudan 
+ilaçlanır. 
+2. Tarla denemeleri iki farklı bölgede veya aynı bölgenin iki farklı lokasyonunda yürütülür. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+7
+3.  Deneme yapılacak tarlaya aynı yıl içinde başka doğal düşman salımı yapılmamış 
+olmalıdır. 
+4. Uygulamadan önce ve sonra belirli aralıklarla örnekleme yapılmalıdır. 
+5. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda ve 
+uygulama sayısında olmalıdır. 
+6. Denemeler pestisit için en uygun zaman ve mevsimde yapılmalıdır. 
+7. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+8. Her denemede mutlaka su ve standart toksik pestisit (tavsiye edilen en yüksek doz) 
+olmalıdır  
+9. Standart toksik madde olarak Malathion (WP formülasyonları hariç) seçilebilir. 
+(Rev:16.05.2024) 
+10. Kontrol ve ilaç parsellerinde ölüm/canlılık oranı ile popülasyon değişimi izlenmelidir. 
+11. Parsel büyüklüğü ve örneklenen birey sayısı, istatistiksel analiz yapmaya elverişli 
+olmalıdır. 
+12. Sonuçlar aşağıda tabloya göre değerlendirilmelidir (Boller et al., 2006). 
+Tarla Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+0-50 
+Zararsız veya az zararlı 
+M 
+51-75 
+Orta derecede zararlı 
+T 
+> 75 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı tarlada yapılan yan etki 
+çalışmalarında %50’nin üzerinde değer elde edilmesi durumunda Bitki Koruma Ürünü faydalılara 
+zararlı olarak kabul edilir.  
+b) Salınmış faydalı faunası 
+1. Deneme parsellerinde mümkün olduğunca bitki zararlısı böcek ve akarlar bulunmamalıdır.  
+2. Laboratuvarda üretilen veya doğadan toplanan aynı yaştaki faydalı organizmalar 
+parsellere salınır ve doğrudan pestisit uygulanır. 
+3. Pestisit uygulamasından sonra belirli aralıklarla örneklemeler yapılmalıdır. 
+4. Denemeye alınacak pestisitler ilgili kültür bitkisinde tavsiye edilen en yüksek dozda ve 
+uygulama sayısında denenmelidir. 
+5. Denemeler pestisit için en uygun zaman ve mevsimde yapılmalıdır. 
+6. Değerlendirmeye kadar uygun bir süre geçmelidir. 
+7. Her denemede mutlaka su ve standart toksik pestisit (tavsiye edilen en yüksek doz) 
+olmalıdır. 
+8. Kontrol ve ilaç parsellerinde ölüm/canlılık oranı ile popülasyon değişimi izlenmelidir. 
+9. Parsel büyüklüğü ve örneklenen birey sayısı, istatistiksel analiz yapmaya elverişli 
+olmalıdır. 
+10. Sonuçlar aşağıda tabloya göre değerlendirilmelidir (Boller et al., 2006). 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+8
+Tarla Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+0-50 
+Zararsız veya az zararlı 
+M 
+51-75 
+Orta derecede zararlı 
+T 
+> 75 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı tarlada yapılan yan etki 
+çalışmalarında %50’nin üzerinde değer elde edilmesi durumunda Bitki Koruma Ürünü faydalılara 
+zararlı olarak kabul edilir.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+9
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN 
+Anagyrus pseudococci (Girault) (Hymenoptera: Encyrtidae)’YE KARŞI 
+YAN ETKİ DENEME METODU 
+(Rev. 22.02.2019) 
+1. GİRİŞ 
+Anagyrus 
+pseudococci 
+(Girault) 
+(Hymenoptera: 
+Encyrtidae) 
+unlubitlerin 
+biyolojik 
+mücadelesinde önemli bir yerli doğal düşmandır. Polifag bir parazitoit olan A. pseudococci, 
+Turunçgil unlubitinin [Planococcus citri (Risso) Hem.:Pseudococcidae)] üçüncü dönem nimf 
+ve henüz yumurtlamamış genç dişilerini tercih etmektedir. Bir döl, 26°C sıcaklıkta 30 günde 
+tamamlanmaktadır. Yılda dört-beş döl vermektedir.  
+P. citri üzerinde 26°C sıcaklıkta bir dişi ortalama 33, maksimum 65 adet birey vermekte, 
+dişiler erkeklere göre daha fazla yaşamaktadır. Dişi ömrü 10-18 gündür.  
+Konukçusu, parazitlenmeden sonra beşinci günde hareketini durdurmakta, altıncı ve yedinci 
+günde derisi sertleşmekte, sekizinci günde de tam anlamıyla mumya halini almaktadır. Kışı 
+konukçusunun içinde pupa döneminde geçirmektedir (Rosen ve Rössler 1966).  
+2. MATERYAL VE METOT 
+2.1. Denenecek pestisit, kontrol ve standart toksik madde 
+2.1.1. Denenecek pestisit 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Önerilen doz (g-ml/da veya g-ml/l):  
+Önerilen kültür bitkisi: 
+Kullanılan su miktarı: 
+Kullanılan etkili madde miktarı (Kullanılan su içindeki toplam etkili madde miktarı g-ml/l) : 
+2.1.2. Kontrol (Saf su ile muamele) 
+2.1.3. Standart toksik madde 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Son kullanma tarihi: 
+Depolama şartları: 
+Kullanılan su miktarı (l/da) : 
+Kullanılan etkili madde miktarı (Kullanılan su içindeki toplam etkili madde miktarı g-ml/l) : 
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/da veya g-ml/l olarak) : 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+10
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi 
+Anagyrus pseudococci (Girault) (Hymenoptera: Encyrtidae) 
+Biyolojik dönemi ve yaşı 
+Ergin 
+Eşey 
+Erkek ve dişi karışık 
+Alındığı yer 
+Laboratuvar kültürü 
+Konukçusu 
+Turunçgil unlubiti (Planococcus citri (Risso) 
+Hem.:Pseudococcidae)) 3. dönem nimfleri 
+2.3. Deneme ünitesi  
+2.3.1. Ergin parazitoitlere değme etkisi 
+Deneme ünitesi olarak, 2.0x1.0–2.0 cm kesiti olan profil metal çubuklardan yapılan iç kenarı 
+10 cm olan kare çerçeve kullanılır. Bu çerçevenin üç kenarında 0,9 cm çapında açılan ikişer 
+delik havalandırmayı sağlar. Dördüncü kenarda ise 1,2 cm çapında 2 delik bulunur, bu 
+deliklerden deneme yapılacak ergin parazitoitlerin girişi ile bunların beslenmesi için 
+hazırlanacak bal/su karışımının verileceği kağıt havlu konulur. Bu çerçevenin alt ve üst 
+yüzeyleri cam plaka ile kapatılır.  
+2.3.2. Parazitleme oranına etkisi 
+Erginlere değme etkisi denemesinden sonra ilaçlı ve kontrol ünitelerindeki canlı kalan 
+bireylerle yapılacak çalışmada 10–12 cm çapında 12–15 cm yüksekliğinde şeffaf plastik 
+silindirler kafes olarak kullanılır. Silindirin üst kısmı, havalanmaya olanak verecek ve 
+parazitoit kaçışını engelleyecek şekilde tül ile kapatılır.  
+2.4. Deneme koşulları  
+Deneme 26±1 ºC sıcaklık, %75±5 orantılı nem ve 16/8 saat aydınlık/karanlık periyodu 
+koşullarındaki iklim odalarında yürütülür.  
+2.5. Denemeye alınacak faydalı organizmanın beslenmesi  
+Denemede kullanılacak A. pseudococci erginleri ballı su ile beslenir. Parazitoit kültürü için 
+Turunçgil unlubiti ile bulaşık patates sürgünleri kullanılır.  
+2.6. Pestisitlerin uygulanması 
+2.6.1. Ergin parazitoitlere değme etkisi 
+Pestisit, deneme ünitesinin cam plakaları üzerine ilgili kültür bitkisinde ruhsatlı olduğu en 
+yüksek dozunda uygun bir pülverizasyon aleti (potter tower vb) ile cam yüzeyine 2 + 0.2 
+mg/cm2 ilaçlı sıvı gelecek şekilde uygulanır. İlaçlamadan sonra kurutulan cam plakalar ilaçlı 
+yüzeyleri karşılıklı gelecek şekilde ne yerleştirilir. Üretim biriminden alınan 24 saat yaşlı 
+ergin parazitoit deneme ünitesine aktarılır. Her deneme ünitesine 10 adet (5 dişi+ 5 erkek) 
+parazitoit konulur. Bu parazitoitler 24 saat ilaçlı yüzeye maruz bırakılır. Deneme ünitesinde 
+ergin parazitoitlerin beslenmesi için bal/su karışımı emdirilmiş kağıt havlu bu amaçla açılmış 
+delikte bulundurulmalıdır. Deneme tesadüf parselleri deneme deseninde, üç karakterli 
+(pestisit, standart toksik madde ve kontrol) ve dört tekerrürlü (her bir karakter için toplam 40 
+parazitoit) olarak kurulmalıdır. Değerlendirmede sayımlar 24 saat sonra yapılmalıdır.  
+2.6.2. Parazitleme oranına etkisi 
+Parazitleme oranına etki denemesinin kurulabilmesi için, değme etkisi denemesinden kalan 
+birey sayısı her uygulama için en az 15 canlı dişi olmalıdır. Her bir birey ayrı ayrı kafese 
+alınarak değerlendirilir. Turunçgil unlubitinin en az 40 adet 12 gün yaşlı nimfleri ile bulaşık 
+patates sürgünleri deneme ünitelerine konularak parazitoitlere verilir. 24 saat sonra 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+11
+parazitoitler alınır. Parazitleme oranının belirlenmesi için, deneme üniteleri, kontrollü 
+koşullarda 15-17 gün bekletilir. Bu süre sonunda mumyalaşma sayısı değerlendirilir. 
+Parazitleme oranları pestisitlerin sınıflandırılmasında dikkate alınmaz.  
+Toksik standart bu denemede kullanılmaz. 
+3. GEÇERLİK KRİTERLERİ VE DEĞERLENDİRME 
+3.1. Denemenin geçerlik kriterleri  
+3.1.1. Ölüm oranının belirlenmesinde kullanılan kriterler 
+1. Kontrol ünitesinde kabul edilebilir maksimum ölüm oranı: en çok %13 (40 parazitoitin en 
+çok 5’inde ölüm) 
+2. Toksik standart ünitesinde ölüm oranı: en az %80 
+Bu kriterlere ulaşılmadığı takdirde deneme tekrarlanır. 
+3.1.2. Parazitleme oranının belirlenmesinde kullanılan kriterler 
+1. Dişi başına mumya sayısı: en az 5 
+2. Kontrol uygulamasında “0” parazitleme değere sahip parazitoit sayısı: en çok 2 birey 
+3.2. Değerlendirme 
+3.2.1. Ergin parazitoitlere değme etkisi 
+Ergin parazitoitlere değme etkisi denemesinde parazitoitler 24 saat ilaçlı yüzeye maruz 
+bırakılır ve bu süre sonunda ölü bireyler sayılır. Yüzde etki Abbott (1925) formülüne göre 
+hesaplanır.  
+                      Kontrolde canlı (%)– İlaçlıda canlı (%) 
+Etki (%) = ------------------------------------------------------- x 100 
+                      Kontrolde canlı (%) 
+Sınıflandırma erginlere değme etkisi denemesindeki etki oranları esas alınarak aşağıdaki 
+şekilde yapılır.  
+Laboratuvar Sınıf Değerleri* 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı laboratuvarda yapılan 
+yan etki çalışmalarında eğer iki faydalı %30’un altında, bir faydalı %50’nin altında değer alıyorsa 
+Bitki Koruma Ürünü faydalılara zararsız veya az zararlı olarak kabul edilir.  
+3.2.2. Parazitleme oranına etkisi  
+Her bir uygulama için her parazitoit başına oluşan mumyaların ortalama sayısı her deneme 
+için standart sapma ölçüsüyle beraber hesaplanır. Sonuçlar, kontrol ile kıyaslanır. Azalma 
+oranı (yüzde) aşağıdaki formülle ifade edilir. 
+Azalma (%) = (1-Rt/Rc)* 100 
+Rt: İlaç uygulamasındaki mutlak değer 
+Rc: Kontroldeki mutlak değer  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+12
+4. FAALİYETLERİN ZAMAN ÇİZELGESİ 
+Test Günleri  
+Ölçüm ve Aktivite Programı 
+1-3 gün önce 
+• 
+Deneme ünitesi hazırlanır 
+• 
+Besin hazırlanır 
+0. gün 
+• 
+Cam kaplar hazırlanır ve ilaçlama ekipmanının kalibrasyonu yapılır 
+• 
+Cam kap ilaçlanır 
+• 
+Deneme ünitesine parazitoitler konur 
+• 
+Ergin parazitoitlerin beslenmesi bal/su karışımı ile sağlanır.  
+24 saat sonra 
+• 
+Ölüm oranı değerlendirilir 
+• 
+Canlı kalan her bir birey ayrı ayrı kafese alınarak parazitleme oranı 
+için değerlendirilir. 
+• 
+12 gün yaşlı unlubit nimfleri ile bulaşık patates sürgünleri deneme 
+ünitelerine konularak parazitoitlere verilir. 
+3 gün sonra 
+• 
+Parazitoitler alınır 
+10-12 gün sonra 
+• 
+Mumyalaşma sayısı belirlenir 
+12 gün sonra 
+• 
+Parazitleme oranına etkisi belirlenir ve değerlendirilir 
+LİTERATÜR 
+Abbott, W.S.,1925. A method of computing the effectiveness of an insecticide. J. Econ. Entomol. 18: 265-267. 
+Candolfi, M.P., S. Blümel, R. Forster, F.M. Bakker, C. Grimm, S.A. Hassan, U. Heimbach, M.A. Mead-Briggs, 
+B. Reber, R. Schmuck, H. Vogt, 2000. Guidelines to evaulate side-effects of plant protection products ton 
+on-target arthropods. IOBC, BART and EPPO Joint Initiative, (IOBC/WPRS), Germany, 45-56. 
+Hassan, E. and R. G. Summers, 1997. Testing the toxicity effects on California red scale parasitoid [Aphytis 
+lingnanensis Compere] of two insecticides used to control California red scale [Aonidiella aurantii Mask.] 
+on citrus in the laboratory. Zeitschrift für Pflanzenkrankheiten und Pflanzenschutz-Journal of Plant 
+Disease and Protection 104 [4] 415 - 418. 
+Mead-Briggs, M.A., K. Brown, M.P. Candolfi, M.J.M. Coulson, M. Miles, M. Moll, K. Nienstedt, M. Schuld, A. 
+Ufer, E. McIndoe, 2000. A laboratory test  for evaluating the effects of plant protection products on the 
+parasitic wasp, Aphidius rhopalosiphi (DeStephani-Perez) (Hymenoptera:Braconidae). IOBC, BART and 
+EPPO Joint Initiative, (IOBC/WPRS), Germany,13-25. 
+Rosen, D. and Rössler, Y. 1966. Studies on an İsrael Strain of Anagyrus pseudococci (Girault) (Hymenoptera: 
+Encyrtidae). Entomophaga, II (3), 269-277. 
+Viggiani, G. and A. Tranfaglia, 1978. A method for laboratory test of side-effects of pesticides on Leptomastix 
+dactylopii (How.) (Hym. Encyrtidae). Bol. Lab. Entomol. Agrar. Filippo Silvestri 35:8-15. 
+Yiğit, A., R. Canhilal ve A. Kişmir, 1992. Turunçgil unlubitinin bazı avcı böcek ve parazitoidlerine bazı 
+insektisitlerin etkileri üzerinde araştırmalar. Türkiye II. Entomoloji Kongresi Bildirileri 28-31 Ocak 1992, 
+sayfa 251-264. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+13
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN  
+Aphytis spp. (Hymenoptera: Aphelinidae)’YE KARŞI 
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1. GİRİŞ 
+Aphytis spp. (Hymenoptera: Aphelinidae) kabuklubitlerin özellikle Diaspididae familyası 
+türlerinin doğada baskı altına alınabilmesini sağlayan önemli bir doğal düşman grubudur. 
+Genellikle açık sarı renkli olan Aphytis türleri kabuklubitlerin ergin öncesi dönemlerine 
+özellikle de virgin dişi dönemine yumurta bırakırlar. Parazitoit çıkmış bireyler kabuklubit 
+üzerinde açılmış düzgün çıkış delikleri ile fark edilirler. Türüne göre değişmekle beraber bir 
+parazitoit 10-20 gün yaşar ve 30-40 adet kabuklubite yumurta bırakırlar. Bu parazitoitler 
+turunçgil ekosisteminde kabuklubitlerin doğal biyolojik mücadelesinde etkilidir. Bu metot 
+Hassan ve Summers (1997)’den yararlanılarak hazırlanmıştır. 
+2. MATERYAL VE METOT 
+2.1. Denenecek pestisit, kontrol ve standart toksik madde 
+2.1.1. Denenecek pestisit 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Önerilen doz (g-ml/da veya g-ml/l):  
+Önerilen kültür bitkisi: 
+Kullanılan su miktarı: 
+Kullanılan etkili madde miktarı (Kullanılan su içindeki toplam etkili madde miktarı g-ml/l) : 
+2.1.2. Kontrol (Saf su ile muamele) 
+2.1.3. Standart toksik madde 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Son kullanma tarihi: 
+Depolama şartları: 
+Kullanılan su miktarı (l/da) : 
+Kullanılan etkili madde miktarı (Kullanılan su içindeki toplam etkili madde miktarı g-ml/l) : 
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/da veya g-ml/l olarak) : 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+14
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi 
+Aphytis spp (Hymenoptera: Aphelinidae) 
+Biyolojik dönemi ve yaşı 
+Ergin ve pupa 
+Eşey 
+Erkek ve dişi karışık 
+Alındığı yer 
+Doğa veya laboratuvar kültürü 
+Konukçusu 
+Aspidiotus nerii Bouche (Hemiptera: Diaspididae) veya 
+diğer Diaspidiae türleri 
+2.3. Deneme ünitesi  
+2.3.1. Ergin parazitoitlere değme etkisi 
+Deneme ünitesi olarak kullanılan kafeslerin yapılmasında kesiti 2.0x2.0 cm olan profil metal 
+çubuklar kullanılır. Bu çubuklardan iç kenarı 9,4 cm olan kare çerçeveler yapılır. Bu 
+çerçevenin üç kenarında 0.9 cm çapında açılan ikişer delik havalandırmayı sağlar. Dördüncü 
+kenarda ise 1,2 cm çapında 2 delik bulunur. Bu deliklerden birinden denemede kullanılacak 
+ergin parazitoitler verilir. Diğer delikten parazitoitlerin beslenmesi için bal-su (1/4) karışımı 
+emdirilmiş pamuk konulur. Bu çerçevenin alt ve üst yüzeyleri cam plaka ile kapatılır. 
+2.3.2. Parazitoit pupalarına değme etkisi   
+Patates yumrularında üretilen ve üzerinde en az 25–30 adet parazitli kabuklubit bulunan 
+patateslerin her birisi bir deneme ünitesi olarak kabul edilir. Bu patatesler tabanında filtre 
+kağıdı bulunan 10 cm çapında 9 cm yüksekliğinde plastik kavanozlar içerisine konulur ve 
+üzeri kapatılır. Parazitoitlere besin olması için naylon tül üzerine veya kavanozun kenarına 
+bal/su (1/4) karışımı ile ıslatılmış kağıt havlu konarak ergin parazitoitlerin beslenmesi 
+sağlanır. 
+2.4. Deneme koşulları  
+Deneme 25±1 ºC sıcaklık, % 75±5 orantılı nem ve 16/8 saat aydınlık/karanlık periyodu 
+koşullarındaki iklim odalarında yürütülür.  
+2.5. Denemeye alınacak faydalı organizmanın beslenmesi  
+Denemede kullanılacak Aphytis spp. erginleri ballı su ile beslenir. Kültürler için Aspidiotus 
+nerii veya konukçusu olan Diaspidiae familyasına bağlı bir tür ile bulaşık patates yumruları 
+veya balkabakları kullanılır.  
+2.6. Pestisitlerin uygulanması 
+2.6.1. Ergin parazitoitlere değme etkisi 
+Pestisit, deneme ünitesinin cam plakaları üzerine kültür bitkilerinde ruhsatlı olduğu en yüksek 
+dozunda ve yüzeye 2 + 0,2 mg/cm2 ilaçlı sıvı gelecek şekilde uygun bir pülverizasyon aleti ile 
+uygulanır. İlaçlamadan sonra kurutulan cam plakalar ilaçlı yüzeyleri karşılıklı gelecek şekilde 
+deneme ünitesine yerleştirilir. Üretim biriminden alınan 24 saat yaşlı ergin parazitoit deneme 
+ünitesine aktarılır. Her deneme ünitesine 30 adet parazitoit konulur. Bu parazitoitler 24 saat 
+ilaçlı yüzeye maruz bırakılır. Deneme ünitesinde ergin parazitoitlerin beslenmesi için bal/su 
+(1/4) karışımı emdirilmiş kağıt havlu bu amaçla açılmış delikte bulundurulmalıdır. Deneme 
+tesadüf parselleri deneme desenine göre en az dört tekerrürlü ve üç karakterli (pestisit, 
+standart toksik madde ve kontrol) olarak kurulmalıdır. 
+2.6.2. Pupalara değme etkisi   
+Pestisit, ruhsatlı olduğu en yüksek dozda, üzerinde parazitli kabuklubitler bulunan patates 
+yumruları üzerine uygun bir pülverizasyon aleti ile uygulanır. Kontrol parsellerinde saf su 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+15
+kullanılır. Günlük kontrollerle çıkan erginler çıkış devam ettiği sürece kaydedilir. Deneme 
+tesadüf parselleri deneme desenine göre en az dört tekerrürlü ve üç karakterli (pestisit, 
+standart toksik madde ve kontrol) olarak kurulmalıdır.  
+Pestisidin çıkan erginlerin yumurta verimine etkisini belirlemek amacıyla aynı yaşta erginler 
+yumurta verimi denemesine alınır. Bu amaçla uygulamadan yaklaşık 24-48 saat sonra çıkan 
+bireyler yumurta veriminin belirlenmesi için deneme kafeslerine konurlar. 
+2.6.3. Yumurta verimine etkisi 
+Pestisitlerin ergin parazitoitlere ve pupalara değme etkisini belirlemek amacıyla yapılan 
+denemelerden sonra canlı kalan bireylerde ilaçların yumurta verimine etkisi belirlenir. Bunun 
+için kabuklubitin parazitlenmeye en uygun dönemi olan ikinci dönem ile yoğun olarak bulaşık 
+patates yumruları kullanılır. Bu yumrular 10 cm çapında 9 cm yüksekliğinde plastik 
+kavanozlara konulur. Her kavanoza aynı yaşta 10 adet parazitoit bırakılır. Parazitoitler 10 gün 
+sonra kavanozlardan çıkartılır. Bu tarihten itibaren kavanozlar parazitoit çıkışlarını belirlemek 
+için her gün kontrol edilir. Parazitoit çıkışı tamamlanıncaya kadar bu kontrollere devam edilir. 
+Deneme tesadüf parselleri deneme desenine göre en az dört tekerrürlü ve üç karakterli 
+(pestisit, standart toksik madde ve kontrol) olarak kurulmalıdır.  
+3. SAYIM VE DEĞERLENDİRME 
+Aphytis spp. erginlerine ve pupalarına değme etkisinin belirlenmesi, denemelerdeki ölüm 
+oranları ile yumurta veriminin belirlenmesinde parazitoit çıkış oranları kontrole göre 
+hesaplanarak yapılır.  
+3.1. Ergin parazitoitlere ve pupalara değme etkisi 
+Ergin parazitoitlere değme etkisi denemesinde, uygulamadan 24 saat sonra ölü parazitoitler 
+sayılır. Pupalara değme etkisi denemesinde ise çıkan erginler sayılır ve kaydedilir.  
+Yüzde etki Abbott (1925) formülüne göre hesaplanır.  
+             Kontrolde canlı (%)– İlaçlıda canlı (%) 
+Etki (%) = ------------------------------------------------------- x 100 
+             Kontrolde canlı (%) 
+Sınıflandırma, erginlere değme etkisi denemesindeki etki oranları esas alınarak aşağıdaki 
+şekilde yapılır.  
+Laboratuvar Sınıf Değerleri* 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı laboratuvarda yapılan yan 
+etki çalışmalarında eğer iki faydalı %30’un altında, bir faydalı %50’nin altında değer alıyorsa Bitki 
+Koruma Ürünü faydalılara zararsız veya az zararlı olarak kabul edilir.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+16
+3.2. Yumurta verimine etkisi 
+Ergin parazitoitlere ve pupalara değme etkisi denemelerinden elde edilen erginlerle denemeler 
+kurulduktan 10 gün sonra erginler çıkartılır ve bu tarihten itibaren günlük kontrollerle ergin 
+çıkışları belirlenir. Yumurta verimine etki aşağıdaki formül kullanılarak hesaplanır. 
+       İlaçlıdaki bırakılan döllemli yumurta sayısı / dişi 
+Yumurta verimine etki (R) = --------------------------------------------------------------------- x 100 
+       Kontroldeki bırakılan döllemli yumurta sayısı / dişi 
+4. FAALİYETLERİN ZAMAN ÇİZELGESİ 
+Test Günleri 
+Ölçüm ve Aktivite Programı 
+1-4 gün önce 
+• 
+Deneme ünitesi hazırlanır 
+• 
+Besin hazırlanır 
+0. gün 
+Ergin parazitoitlere değme etkisi; 
+• 
+Cam kaplar hazırlanır ve ilaçlama ekipmanının kalibrasyonu yapılır 
+• 
+Cam kap ilaçlanır 
+• 
+Deneme ünitesine parazitoitler (24 saat yaşlı) konur 
+• 
+Ergin parazitoitlerin beslenmesi bal/su (1/4) karışımı ile sağlanır  
+Pupalara değme etkisi; 
+• 
+Pestisit, üzerinde parazitli kabuklubitler bulunan patates yumruları 
+üzerine uygun bir pülverizasyon aleti ile uygulanır 
+Uygulamadan 
+24 ve 48 saat 
+sonra 
+• 
+Erginlerin ölüm oranı belirlenir 
+• 
+Günlük kontrollerle pupalarda çıkış oranları takip edilir ve çıkan 
+erginler çıkış devam ettiği sürece kaydedilir 
+• 
+Çıkan bireyler yumurta veriminin belirlenmesi için deneme 
+kafeslerine konurlar 
+• 
+A. nerii veya Diaspididae familyasına bağlı bir tür (en uygun dönem 
+ikinci dönem) ile bulaşık patates yumruları deneme ünitelerine konularak 
+parazitoitlere verilir 
+10 gün sonra 
+• Parazitoitler kavanozlardan çıkartılır 
+10 gün sonra 
+• Kavanozlar parazitoit çıkışlarını belirlemek için her gün kontrol edilir  
+• Parazitoit çıkışı tamamlanıncaya kadar bu kontrollere devam edilir  
+• Çıkış tamamlanınca parazitoit çıkış oranı belirlenir ve değerlendirilir 
+LİTERATÜR 
+Abbott, W.S.,1925. A method of computing the effectiveness of an insecticide. J. Econ. Entomol. 18: 265-267. 
+Hassan, E. and R. G. Summers 1997. Testing the toxicity effects on California red scale parasitoid [Aphytis 
+lingnanensis Compere] of two insecticides used to control California red scale [Aonidiella aurantii Mask.] 
+on citrus in the laboratory. Zeitschrift für Pflanzenkrankheiten und Pflanzenschutz-Journal of Plant 
+Disease and Protection ,104 [4]: 415 - 418. 
+Karaca, İ., N. Uygun ve N. Tekeli, 1994. Bazı tarımsal savaş ilaçlarının Aphytis melinus De Bach 
+(Hymenoptera : Aphelinidae)’a etkileri üzerinde araştırmalar. Türkiye III. Biyolojik Mücadele Kongresi 
+Bildirileri,  25-28 Ocak 1994, sayfa 493 – 502. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+17
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN 
+Chilocorus bipustulatus L. (Coleoptera: Coccinellidae)’A KARŞI 
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1. GİRİŞ  
+Chilocorus bipustulatus L. (Coleoptera: Coccinellidae) polifag bir avcı böcektir, özellikle 
+kabuklubit ve unlubitin avcısıdır. Toplam larvaların gelişme süresi 27±1°C sıcaklık ve %70±5 
+orantılı nem koşullarında ortalama 17 gündür. Larva yaşamı boyunca ortalama 200 adet nimf 
+tüketir.  Ergin dişi yaklaşık 59 gün yaşar ve 638 nimf tüketir. Toplam bıraktığı yumurta sayısı 
+179 adettir. Erkek bireyler yaklaşık 46 gün yaşar ve 411 adet nimf tüketir. Toplam larva 
+süresi 21 gündür. C. bipustulatus’un Aspidiotus nerii Bouche üzerinde ergin öncesi gelişme 
+süresi ortalama 26 gündür. Ortalama preovipozisyon süresi 9,8 gün, ovipozisyon süresi 128 
+gün, ömür uzunluğu 147 gün, larva ve pupa gelişme süresi 26,0 gün, döl süresi 73,8 gün, 
+bıraktığı yumurta sayısı 705 adet, yumurtaların açılma süresi 7,6 gündür (Elekçioğlu, 1995). 
+2. MATERYAL VE METOT 
+2.1. Denenecek pestisit, kontrol ve standart toksik madde 
+2.1.1. Denenecek pestisit 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Önerilen doz (g-ml/da veya g-ml/l): 
+Önerilen kültür bitkisi: 
+Kullanılan su miktarı (l/da): 
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l): 
+2.1.2. Kontrol (Saf su ile muamele) 
+2.1.3. Standart toksik madde 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Son kullanma tarihi: 
+Depolama şartları: 
+Kullanılan su miktarı: 
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l): 
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/da veya g-ml/l): 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+18
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi 
+Chilocorus bipustulatus L. (Coleoptera: Coccinellidae)  
+Biyolojik dönemi ve yaşı 
+3. dönem larva 
+Eşey 
+Erkek dişi karışık 
+Alındığı yer 
+Laboratuvar kültürü veya doğa 
+Avı  
+Aspidiotus nerii Bouche (Hemiptera: Diaspididae) 
+2.3. Deneme ünitesi 
+2.3.1. Ergin öncesi dönemlere değme etkisi  
+Bu amaçla kullanılan deneme ünitesi, kare şeklindeki (40x18 cm, 0,4–0,6 cm kalınlığında) 
+cam bir plaka ve 5±1 cm çapında ve 4 cm yüksekliğinde on adet cam veya plastik hücreden 
+ibarettir. Hücrelerin üstü bir tülbentle kapatılır. Hücrenin iç duvarları fluon veya talcum ile 
+(tabandan itibaren 3 mm yüksekliğindeki alan hariç) kaplanır. Cam yüzeyin alt ve üst kısmı 
+bir lastik bant veya pens yardımıyla sabitlenir. 
+2.3.2. Yumurta verimi  
+Yumurta veriminde deneme ünitesi olarak 1 litrelik cam veya plastik kavanozlar kullanılır. 
+Her kavanoza en fazla 10 ergin (5 dişi, 5 erkek) konulmalıdır. Erkek birey sayısının dişi birey 
+sayısına eşit olmasına dikkat edilmelidir. Predatörün yumurta bırakabilmesi için deneme 
+ünitelerine tül parçaları bırakılır. Her hafta deneme üniteleri bulaşmayı engellemek için 
+temizleri ile değiştirilir. 
+2.4. Deneme koşulları 
+Deneme 25±2 °C sıcaklık, %60–70 orantılı nem, 16/8 saat aydınlık/karanlık periyodu ve 
+≥1000 lüks ışık şiddeti koşullarında yapılır.  
+2.5. Denemeye alınacak faydalı organizmanın beslenmesi  
+Deneme süresince larvalara günlük A. nerii ile bulaşık patatesler verilir. Erginlerin yumurta 
+verimini arttırmak için, polen (örneğin çam poleni) ve bal sağlanır. İlave olarak su verilir. 
+2.6. Pestisitlerin uygulanması 
+2.6.1. Ergin öncesi dönemlere değme etkisi 
+Pestisit cam tabakalara kültür bitkilerinde tavsiye edilen en yüksek dozunda uygun bir 
+pülverizasyon aleti ile yüzeye 2 + 0,2 mg/cm2 ilaçlı sıvı gelecek şekilde ilaçlanır. Su 
+uygulanan plakalar kontrol olarak kabul edilir. Bütün denemeler, tesadüf parselleri deneme 
+deseninde üç karakterli (pestisit, standart toksik madde ve kontrol) ve 4 tekerrürlü olarak 
+yürütülür. Her uygulamada hücre başına 3–5 günlük birer adet olacak şekilde toplam 40 larva 
+kullanılır ve pupa dönemine kadar bekletilir.  
+2.6.2. Yumurta verimine etkisi 
+İlaçlı ünitedeki kontrole göre düzeltilmiş ölüm oranı %50’nin üzerinde ise yumurta verimine 
+etki denemesi yapılmaz. Ergin öncesi dönemlere etki denemesinden aynı gün elde edilen 
+ergin bireylerden, en fazla 10 ergin çiftleşmek üzere 1 litrelik yetiştirme kafesine alınır. Erkek 
+birey sayısının dişi birey sayısına eşit olmasına dikkat edilmelidir.  Çalışmanın başlangıcından 
+itibaren yaklaşık 10–15 gün sonra çıkan erginler pestisit uygulanmamış yumurtlatma 
+kafeslerine aktarılır. 12. günden itibaren iki hafta süre ile dişi başına bırakılan yumurta 
+sayıları günlük olarak kaydedilir ve yumurtaların açılma oranları belirlenir.  
+Toksik standart bu denemede kullanılmaz. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+19
+3. GEÇERLİK KRİTERLERİ VE DEĞERLENDİRME 
+3.1. Denemenin geçerlik kriterleri  
+3.1.1 Ölüm oranının belirlenmesinde kullanılan kriterler 
+1. Su uygulanan kontrolde ortalama ergin öncesi ölüm oranı %30’u geçmemelidir (her 
+uygulamada 40 tekrarlı olması için 12 larva).  
+2. Standart toksik maddeye maruz bırakılan larvalardaki ergin öncesi ölüm oranı %79’dan 
+fazla olmalıdır. 
+Bu kriterlere ulaşılmadığı taktirde deneme tekrarlanır. 
+3.1.2 Yumurta verimine etkinin belirlenmesinde kullanılan kriterler 
+Kontrol grubunda dişi başına ortalama döllemli yumurta sayısı 2 adet/gün'den az olmamalıdır.  
+3.2. Değerlendirme 
+3.2.1. Ergin öncesi dönemlere değme etkisi 
+Yüzde etki Abbott (1925) formülüne göre hesaplanır.  
+             Kontrolde canlı (%)– İlaçlıda canlı (%) 
+Etki (%) = ------------------------------------------------------- x 100 
+                Kontrolde canlı (%) 
+Sınıflandırma ergin öncesi değme etkisi denemesindeki etki oranları esas alınarak aşağıdaki 
+şekilde yapılır.  
+Laboratuvar Sınıf Değerleri* 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı laboratuvarda yapılan yan 
+etki çalışmalarında eğer iki faydalı %30’un altında, bir faydalı %50’nin altında değer alıyorsa Bitki 
+Koruma Ürünü faydalılara zararsız veya az zararlı olarak kabul edilir.  
+3.2.2. Yumurta verimine etkisi 
+Her deneme ünitesinde yumurta verimi iki hafta süreyle ve günlük yapılacak sayımlarla 
+belirlenir.  
+Her uygulamada, günlük dişi başına bırakılan ortalama yumurta sayısı, toplam yumurta 
+sayısının ortalama canlı dişi sayısına bölünmesiyle hesaplanır. Kontrol grubunda dişi başına 
+açılan yumurta sayısı 2 adet/gün'den az olmamalıdır.  
+Yumurta verimine etki aşağıdaki formül kullanılarak hesaplanır. 
+     İlaçlıdaki bırakılan döllemli yumurta sayısı / dişi 
+Yumurta verimine etki (R) = --------------------------------------------------------------------- x 100 
+    Kontroldeki bırakılan döllemli yumurta sayısı / dişi 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+20
+4. FAALİYETLERİN ZAMAN ÇİZELGESİ 
+Test Günleri 
+Ölçüm ve Aktivite Programı 
+5-8 gün önce 
+• Kitle üretim kaplarına yumurta paketlerini içeren etiketli taze 
+korunaklar yerleştirilir 
+3-5 gün önce 
+• Kitle üretim kaplarından yumurta paketlerini içeren etiketli taze 
+korunaklar toplanır ve tek tek plastik kaplara transfer edilir 
+1 gün önce  
+(isteğe bağlı) 
+• Her bir hücreye yumurtadan çıkan larva konulur (Her hücreye 1 
+larva) 
+0. gün 
+• Cam kaplar hazırlanır ve ilaçlama ekipmanının kalibrasyonu yapılır 
+• Cam kap ilaçlanır 
+• İlaçlanan cam kaplarına larvalar yerleştirilir 
+• Besin olarak A. nerii ile bulaşık patatesler larvaya verilir 
+1. günden pupa 
+dönemine kadar  
+• Larva pupa oluncaya kadar sürede bol miktarda A. nerii ile bulaşık 
+patatesler larvaya verilir 
+• Larvanın canlılığı kontrol edilir 
+• Yetiştirme kaplarına çıkış yapanlar transfer edilir 
+Yaklaşık 
+10–15 
+gün sonra (% 90 
+çıkış 
+yapmış 
+larva) 
+• Çıkış yapanların cinsiyet oranı belirlenir 
+• Yetiştirme kaplarına transfer edilir 
+• Yetiştirme kaplarına yumurta bırakma substratları yerleştirilir 
+Yaklaşık 15 gün 
+sonra 
+• Faydalı böceğe A. nerii ile bulaşık patates ve polen verilir 
+• Faydalı böceğin canlılığını kontrol edilir 
+Yaklaşık 27 gün 
+sonra  
+• Yumurta paketleri toplanır ve etiketli petri kaplarına tek tek alınır 
+• Yumurta bırakma substratları yenileri ile değiştirilir 
+Yaklaşık 30 gün 
+sonra 
+• Yumurta açılımının kontrol edilir 
+LİTERATÜR 
+Abbott, W.S.,1925. A method of computing the effectiveness of an insecticide. J. Econ. Entomol. 18: 265-267. 
+Brun. J. 1985. Coccinella septempunctata L. (Coccinellidae, Coleoptera), In standart methods to test the side 
+effects of pesticides on natural enemies of insects and mites. IOBC/WPRS Working Group “Pesticides 
+and Beneficial Organisms” 229-230. Beneficial Organisms. EPPO Bulletin 15(2) 214-255. 
+Candolfi, M.P., S. Blümel, R. Forster, F.M. Bakker, C. Grimm, S.A. Hassan, U. Heimbach, M.A. Mead-Briggs, 
+B. Reber, R. Schmuck, H. Vogt, 2000. Guidelines to evaulate side-effects of plant protection products ton 
+on-target arthropods. IOBC, BART and EPPO Joint Initiative, (IOBC/WPRS), Germany, 45-56. 
+Efe, E.; M. Hodsun ve P. Japson, 1995. Yeni sprey teknikleri ile hedef alınan zararlılar elemine edilirken, 
+pestisitlerin çevreye olan risklerinin azaltılması. Atatürk Bahçe Kül. Merk. Arş. Enst., Bilimsel Arş. ve 
+İnceleme Yayın No:55. 
+Elekçioğlu, N., 1995. Değişik avların avcı böcek Chilocorus bipustulatus (L.) (Coleoptera:Coccinellidae)’un 
+gelişme ve üreme gücüne etkileri. Ç.Ü.Fen Bilimleri Enstitüsü Yüksek Lisans Tezi, Adana.36 s. 
+Japson, P., D. Salt, M. Ford, E. Efe and A. Chowdhury, 1990. A reductionist approach towards short-therm 
+hazard analysis for terrestrial invertebrates exposed to pesticides. Functional Ecology 4, 339-347. 
+Japson, P., E. Efe and J. Wiles, 1994. The toxicity of dimethoate to predatory Coleoptera: Developing an 
+Approach to Risk Analsis for broad-spectrum pesticides. Archives of Envronmental Contamination 
+Toxicology 500-507. 
+Schmuck, R.,M.P. Candolfi, R. Cleiner, M. Mead-Briggs, M. Moll, F. Kemmetwer, D. Jans, A. Waltersdorfer 
+and H. Wilhelmy.2000. A laboratory test system for assessing effect of plant protection product on the 
+plant dwelling insect Coccinella septempunctata L. (Coccinellidae, Coleoptera).Guidelines to evaluate 
+side-effects of plant protection products to non-target arthropods.OILB, WPRS / SROP.,45-56p. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+21
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN 
+PREDATÖR AKARLAR (Acarina: Phytoseiidae)’A KARŞI 
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1. GİRİŞ  
+Çalışmalar Zararlı Hayvanlar ve Bitkilerle Uluslararası Biyolojik ve Entegre Mücadele 
+Teşkilatının (IOBC) Batı Palearktik Bölgesel Seksiyonuna (WPRS) bağlı, “Pestisitler ve 
+Faydalı Organizmalar” Çalışma Grubu’nun standart metoduna göre hazırlanmıştır. Burada 
+IOBC tarafından hazırlanmış olan metotlardan “open metot” esas alınmıştır. “Island metot” ve 
+“combined metot”ları da kullanılabilir (Blumel et al., 2000).   
+Bu metot, laboratuvarda pestisitlerin kültür bitkilerindeki Typhlodromus spp., Euseius spp. ve 
+Amblyseius spp. (Acarina: Phytoseiidae) gibi önemli predatör akarlara etkilerinin belirlenmesi 
+amacıyla hazırlanmıştır. Ancak, Phytoseiulus persimilis için bu metot kullanılmaz. 
+Typhlodromus spp. bazı polenlerle (bakla vb.) hayatını sürdürebilir. Predatör, 25 ºC sıcaklık 
+ve %80 orantılı nemde kırmızı örümcek veya polenle beslendiğinde, yumurtadan ergin 
+oluncaya kadar geçen süre yaklaşık 10 gündür. Ovipozisyon periyodunda dişilere yeterli gıda 
+verilmesi durumunda, günde ortalama 1.5-2 adet yumurta/dişi verebilirler.  
+2. MATERYAL VE METOT 
+2.1. Denenecek pestisit, kontrol ve standart toksik madde 
+2.1.1. Denenecek pestisit 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Önerilen doz (g-ml/da veya g-ml/l): 
+Önerilen kültür bitkisi: 
+Kullanılan su miktarı: 
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l): 
+2.1.2. Kontrol (Saf su ile muamele) 
+2.1.3. Standart toksik madde 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Son kullanma tarihi: 
+Depolama şartları: 
+Kullanılan su miktarı (l/da) : 
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l): 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+22
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/da veya g-ml/l): 
+Her grup beş kez tekrarlanır.  
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi 
+Typhlodromus spp., Euseius spp. ve Amblyseius spp. 
+(Acarina: Phytoseiidae) 
+Biyolojik dönemi ve yaşı 
+Protonimf 
+Eşey 
+Erkek dişi karışık 
+Alındığı yer 
+Laboratuvar kültürü 
+Avı  
+Tetranychus spp. veya Carpoglyphus lactis’in tüm 
+dönemleri veya bazı polenler 
+2.3. Deneme ünitesi 
+2.3.1. Ergin öncesi dönemlere değme etkisi  
+Bir deneme ünitesi boyutları 3 x 11 x 20 cm olan şeffaf plastik kapların içine 1cm kalınlığında 
+sünger yerleştirilmiş ve süngerin üzerinde bulunan bir yüzeyi pestisit ile ilaçlanmış 10 x 5 cm 
+(50 cm²) boyutunda cam bir levhadan ibarettir. 
+Pestisit tabakası kuruduktan sonra cam levhanın üzerinde daha önce sınırları belirlenmiş 12 
+cm²’lik test alanı akarların kaçmaması için Tangle trap yapışkan maddesi ile sınırlandırılır. 
+Predatör akar bireylerinin su ihtiyacını sağlamak amacıyla, test alanın ortasına 3 mm’lik delik 
+açılarak buraya pamuk fitil takılır ve bu fitilin nemli olmasını sağlamak için süngere su 
+emdirilir. 
+2.3.2. Yumurta verimi  
+Bölüm 2.3.1. deki aynı deneme üniteleri yumurta verimi çalışmaları için kullanılır.  
+2.4. Deneme koşulları 
+Denemeler 25 ± 2ºC sıcaklık ve %60–90 orantılı nem, 16 saat aydınlık koşullarında yürütülür. 
+2.5. Denemeye alınacak faydalı organizmanın beslenmesi  
+Avcı akarlara, 3 günde bir Tetranychus spp. veya C. lactis’in tüm dönemleri veya predatöre 
+uygun polenler besin olarak verilir. 
+2.6. Pestisitlerin uygulanması 
+2.6.1. Ergin öncesi dönemlere değme etkisi 
+Cam plakaların (50 cm²) bir yüzü küçük el pülverizatörü veya ilaçlama kulesi yardımıyla, 
+laboratuvar yan etki denemeleri için standart olan 200 l/ha püskürtme hacmi ile ilaçlanır.  
+İlaçlı sıvı miktarı 2 ± 0.2 mg/cm² olacak şekilde cam plakalar ilaçlanmadan önce ve sonra 
+hassas terazide tartılarak kalibrasyon yapılır. Standart toksik 9-15 ml/ha püskürme hacmi ile 
+uygulanır. İlaçlı sıvının kurumasından sonra her üniteye 20 adet protonimf konulur. Besin 
+olarak 3 günde bir polen veya Tetranychus spp. veya C. lactis’in değişik dönemleri verilir.  
+2.6.2. Yumurta verimine etkisi 
+İlaçlı ünitede 7. günde ölüm oranı % 50’nin üzerinde olduğu takdirde pestisitlerin yumurta 
+verimine 
+etki 
+denemesi 
+yapılmaz. 
+Yumurta 
+verimine 
+etki 
+oranı 
+pestisitlerin 
+sınıflandırılmasında kullanılmamaktadır. Elde edilen değer sadece kalite kriteri olarak dikkate 
+alınmaktadır.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+23
+Yedinci günde ölü bireyler alınır ve her bir test ünitesinde erkek/dişi oranı en az 1/5 olacak 
+şekilde erkek bireyler aktarılır. Denemenin  10.,12. ve 14. günlerinde olmak üzere 3 kez 
+sayım yapılır. Bu sayımlarda yumurta ve canlı dişi bireyler kaydedilir. Eğer bu süreçte her bir 
+ünitede yeterli erkek birey bulunmazsa kültürden ilave edilir.  
+3. GEÇERLİK KRİTERLERİ VE DEĞERLENDİRME  
+3.1. Denemenin geçerlik kriterleri  
+3.1.1. Ölüm oranının belirlenmesinde kullanılan kriterler 
+Kontrol ünitesinde kabul edilebilir ölüm oranı (7.günde): en fazla % 20  
+Toksik standart ünitesinde ölüm oranı: en az %80 
+3.1.2 Yumurta verimine etki denemelerinde kullanılan kriterler 
+Kontrol ünitesinde dişi başına toplam ortalama yumurta sayısı: >4 yumurta/dişi (7. günden 14. 
+güne kadar) 
+3.2. Değerlendirme 
+3.2.1. Ergin öncesi dönemlere değme etkisi 
+Pestisitin ergin öncesi dönemlere değme etkisinin belirlenmesinde, ünitelerdeki 7. gündeki 
+ölüm oranı esas alınır ve Abbott (1925) formülünden yararlanılarak aşağıdaki şekilde 
+hesaplanır. 
+            Kontrolde canlı (%)– İlaçlıda canlı (%) 
+Etki (%) = ------------------------------------------------------- x 100 
+              Kontrolde canlı (%) 
+Sınıflandırma erginlere değme etkisi denemesindeki etki oranları esas alınarak aşağıdaki 
+şekilde yapılır 
+Laboratuvar Sınıf Değerleri* 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı laboratuvarda yapılan yan 
+etki çalışmalarında eğer iki faydalı %30’un altında, bir faydalı %50’nin altında değer alıyorsa Bitki 
+Koruma Ürünü faydalılara zararsız veya az zararlı olarak kabul edilir.  
+3.2.2. Yumurta verimine etkisi 
+İlaçlı ünitede dişi başına ortalama yumurta sayısı, kontrol ile karşılaştırılır ve yüzde azalma 
+oranı elde edilir. Yumurta verimine etki aşağıdaki formülden yararlanılarak hesaplanır. 
+% Azalma= (1-Rt/Rc) X 100 
+Rt: İlaç uygulamasındaki yumurta sayısı/dişi 
+Rc: Kontroldeki yumurta sayısı/dişi 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+24
+4. FAALİYETLERİN ZAMAN ÇİZELGESİ 
+Test 
+Günleri 
+Ölçüm ve Aktivite Programı 
+1 gün önce 
+• Protonimf bireylerinin hazırlanması 
+0. gün 
+• Uygulamanın yapılması  
+• Test ünitelerinin oluşturulması  
+• Besinin ilave edilmesi  
+1. gün 
+• Besinin ilave edilmesi 
+• Ölüm ve kaçışların kaydedilmesi 
+6. gün 
+• Besinin ilave edilmesi 
+7. gün 
+• Her ünitede ölü, canlı ve kaçmış bireylerin sayılması  
+• Ölü bireylerin uzaklaştırılması 
+• Dişi ve erkek bireylerin sayılması 
+• Gerekirse erkek bireylerin ilave edilmesi 
+• Yumurta ve yeni çıkmış bireylerin uzaklaştırılması 
+• Besinin ilave edilmesi 
+7. gün 
+(dahil)’den 
+itibaren 
+• 7. günden itibaren 14. güne (dahil) kadar 3 gün ara ile 3 yumurta 
+sayımının yapılması 
+• Dişi ve erkeklerin sayılması 
+• Yumurta ve larvaların uzaklaştırılması 
+• Besinin ilave edilmesi 
+14. gün 
+• Denemenin sonlandırılması 
+LİTERATÜR 
+Blümel, S., F.Bakker M., B. Baier, K. Brown, M.P. Candolfi, A. Gobman, C. Grimm, B. Jackel, K. Nienstedt, 
+K.J. Schirra, A. Ufer and A. Waltersdorfer 2000. A Laboratory residuel contact test with the predatory 
+mite Typhlodromus pyri Scheuten (Acari: Phytoseiidae) regulatory testing of plant protection products. 
+Guidelines to evaluate side-effects of plant protection products to non-target arthropods. IOBC/OILB, 
+WPRS/SROP, 158p. 
+Boller E. F., H. Vogt, P. Ternes & C. Malavolta 2006. Working Document on Selectivity of Pesticides. Internal 
+Newsletter issued by the Publication Commission for the IOBC/wprs Council and Executive Committee 
+ISSUE Nr. 40. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+25
+LABORATUVAR KOŞULLARINDA PESTİSİTLERİN 
+Serangium parcesetosum Sicard (Coleoptera:Coccinellidae)’A KARŞI 
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1. GİRİŞ  
+Serangium parcesetosum Sicard (Coleoptera:Coccinellidae) spesifik beyazsinek avcısıdır.  
+Hıyar bitkisinde 30° C sıcaklıkta, yumurta açılma süresi 4.0, larva gelişme süresi 6.7, pupa 
+dönemi 5.1 (dişi) ve 4.5 (erkek) ve toplam yumurtadan ergine kadar geçen süre 15.9 (dişi) ve 
+15.1 (erkek) gündür. Erginlerin ömür uzunluğu 50-60 gündür. (Al-Zyoud ve ark., 2005a). S. 
+parcesetosum erginleri 12 saatte 30° sıcaklıkta 180.8 adet Bemisia argentifolii larva+pupası, 
+larvaları da günlük 200 adet B. argentifolii larvası tüketebilmektedir (Legaspi ve ark., 1996).  
+S. parcesetosum larvası 30°C sıcaklıkta, yaşamı boyunca, 1119 beyazsinek larvası, ergin dişi 
+ise yaklaşık 4000 adet larva tüketebilmektedir (Şengonca ve ark, 2005). Hıyar bitkisinde 30°C 
+sıcaklıkta, Trialeurodes vaporariorum ile beslenen S. parcesetosum bireylerinde yumurtadan 
+ergine kadar geçen sürede yaklaşık %26 ölüm olabilmektedir. Yine aynı av ile beslenen 
+bireylerde preoviposizyon süresi yaklaşık 5 gündür (Al-Zyoud ve ark., 2005b). Hıyar 
+bitkisinde bir dişi ortalama yaklaşık 100 yumurta bırakabilmektedir (Al-Zyoud ve ark., 
+2005a). 
+2. MATERYAL VE METOT 
+2.1. Denenecek pestisit, kontrol ve standart toksik madde 
+2.1.1. Denenecek pestisit 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Önerilen doz (g-ml/da veya g-ml/l): 
+Önerilen kültür bitkisi: 
+Kullanılan su miktarı: 
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l): 
+2.1.2. Kontrol (Saf su ile muamele) 
+2.1.3. Standart toksik madde 
+Ticari adı:  
+Firması: 
+Etkili madde adı ve oranı: 
+Şarj no: 
+Son kullanma tarihi: 
+Depolama şartları: 
+Kullanılan su miktarı (l/da): 
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l): 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+26
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/da veya g-ml/l): 
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi 
+Serangium parcesetosum Sicard (Coleoptera:Coccinellidae) 
+Biyolojik dönemi ve yaşı 
+İkinci dönem larva  
+Eşey 
+Erkek dişi karışık 
+Alındığı yer 
+Laboratuvar kültürü veya doğa 
+Avı  
+Bemisia tabaci (Genn.) veya Trialeurodes vaporariorum 
+(Westwood) (Hemiptera: Aleyrodidae) 
+2.3. Deneme ünitesi 
+2.3.1. Ergin öncesi dönemlere değme etkisi  
+Bir deneme ünitesi, bir yüzeyi pestisit ile ilaçlanmış (40x18 cm, 0.4-0.6 cm kalınlığında)  cam 
+plakadan ve delikli pleksiglas levhadan oluşmaktadır. Pleksiglas levhanın üzerinde bulunan 
+deliklere 5.0 cm çapında ve en az 4.0 cm yükseklikte 10 adet cam veya plastik hücre 
+yerleştirilir. Pestisit tabakası kuruduktan sonra cam plaka pleksiglas levha üzerine konulur ve 
+kıskaçlarla tutturulur. Avcı larvalarının kaçmaması için hücre içine (3 mm yüksekliğindeki bir 
+alan hariç) fluon veya talkum maddesi uygulanır. 
+2.3.2. Yumurta verimi  
+Yumurta verimi denemelerinde 8-11 cm çapında 3 cm yüksekliğinde yuvarlak fleksiglas 
+hücreler kullanılır. Hücrelerin içine, en az 200 beyazsinek yumurta, larva ve pupası bulunan 
+pamuk, patlıcan yada hıyar yaprağı alt yüzü yukarı bakacak şekilde yerleştirilir. Bu yaprağın 
+altına 0.5 cm kalınlığında ıslak pamuk konulur (Al-Zyoud ve ark, 2005c). Yaprağın canlılığını 
+kaybetmemesi için yapılan bu işlem yerine, belirtilen diğer koşullara uyulmak koşuluyla 
+alternatif bir uygulama da yapılabilir. 
+2.4. Deneme koşulları 
+Deneme 25±2 °C sıcaklık, %60-90 orantılı nem, 16/8 saat aydınlık/karanlık ve 4000 lüks ışık 
+şiddeti koşullarında yapılır.  
+2.5. Denemeye alınacak faydalı organizmanın beslenmesi  
+Ergin öncesi dönemlere değme etkisinin belirleneceği denemede, 2 cm çapında beyazsinek 
+yumurta, larva ve pupası bulunan pamuk, patlıcan ya da hıyar yaprağı diski (ilaçlanmamış) 
+besin olarak verilir. Bu işlem her gün yenilenir.  
+Yumurta verimine etki denemesinde ise çiftleşmek amacıyla bir arada tutulan erginlerin 
+beslenmesi, kavanozlara üzerinde beyazsinek yumurta, larva ve pupası bulunan yapraklar 
+veya bitkiler bırakılmak suretiyle yapılır. 
+2.6. Pestisitlerin uygulanması 
+2.6.1. Ergin öncesi dönemlere değme etkisi 
+Pestisit cam tabakalara ilgili kültür bitkisinde tavsiye edilen en yüksek dozunda uygun bir 
+pülverizasyon aleti ile yüzeye 2±0.2 mg/cm2 ilaçlı sıvı gelecek şekilde uygulanır. Su 
+uygulanan plakalar kontrol olarak kabul edilir. Bütün denemeler, tesadüf parselleri deneme 
+deseninde üç karakterli (pestisit, standart toksik madde ve kontrol) ve 4 tekerrürlü olarak 
+yürütülür. İlaçlanan yüzey kuruyunca her uygulama için, her bir bölmeye bir adet olmak üzere 
+toplam 40 larva yerleştirilir.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+27
+2.6.2. Yumurta verimine etkisi 
+İlaçlı ünitedeki kontrole göre düzeltilmiş ölüm oranı %50’nin üzerinde ise yumurta verimine 
+etki denemesi yapılmaz. 
+Ergin öncesi dönemlere etki denemesinden aynı uygulamadan elde edilen en az 5 çift, 
+çiftleşmek üzere 1-2 litrelik kavanozlarda 1 hafta süreyle tutulur. Mümkünse eşey oranının 
+1:1 olmasına dikkat edilir. Sekizinci günden itibaren fleksiglas hücrelere tek tek bırakılan dişi 
+bireylerde 10 gün süreyle yumurta verimi takip edilir. Yumurta bırakılan yapraklar 2 günde 
+bir değiştirilir. Hücrelerden alınan yapraklar yumurta verimi için kültüre alınır. Bu süre 
+sonunda kontrol ve pestisit uygulamalarında dişi başına ortalama toplam yumurta sayısı ve 
+açılma oranı belirlenir. Toksik standart bu denemede kullanılmaz. 
+3. GEÇERLİK KRİTERLERİ VE DEĞERLENDİRME 
+3.1. Denemenin geçerlik kriterleri  
+3.1.1 Ölüm oranının belirlenmesinde kullanılan kriterler 
+1. Kontrol ünitesinde kabul edilebilir maksimum ölüm oranı: en çok % 30 
+2. Toksik standart ünitesinde ölüm oranı: en az % 80 
+Bu kriterlere ulaşılmadığı takdirde deneme tekrarlanır. 
+3.1.2 Yumurta verimine etkinin belirlenmesinde kullanılan kriterler 
+Kontrol grubunda dişi başına bırakılan döllemli yumurta sayısı 1 adet/gün'den az olmamalıdır.  
+3.2. Değerlendirme 
+3.2.1 Ergin öncesi dönemlere değme etkisi 
+Kontroldeki ölüm oranı %30'dan fazla ise deneme tekrarlanmalıdır. Yüzde etki Abbott (1925) 
+formülüne göre hesaplanır.  
+ Kontrolde canlı (%)– İlaçlıda canlı (%) 
+Etki (%) = ------------------------------------------------------- x 100 
+              Kontrolde canlı (%) 
+Sınıflandırma ergin öncesi değme etkisi denemesindeki etki oranları esas alınarak aşağıdaki 
+şekilde yapılır.  
+Laboratuvar Sınıf Değerleri* 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+< 30 
+Zararsız veya az zararlı 
+M 
+30–79 
+Orta derecede zararlı 
+T 
+> 79 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı laboratuvarda yapılan yan 
+etki çalışmalarında eğer iki faydalı %30’un altında, bir faydalı %50’nin altında değer alıyorsa Bitki 
+Koruma Ürünü faydalılara zararsız veya az zararlı olarak kabul edilir.  
+3.2.2 Yumurta verimine etkisi 
+Her uygulamada, günlük dişi başına bırakılan ortalama yumurta sayısı, toplam yumurta 
+sayısının ortalama canlı dişi sayısına bölünmesiyle hesaplanır.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+28
+İlaçlı ünitede dişi başına ortalama yumurta sayısı, kontrol ile karşılaştırılır ve yüzde azalma 
+oranı elde edilir. Yumurta verimine etki aşağıdaki formülden yararlanılarak hesaplanır. 
+% Azalma= (1-Rt/Rc) X 100 
+Rt: İlaç uygulamasındaki dişi başına bırakılan döllemli yumurta sayısı 
+Rc: Kontroldeki dişi başına bırakılan döllemli yumurta sayısı 
+4. FAALİYETLERİN ZAMAN ÇİZELGESİ 
+Test Günleri 
+Ölçüm ve Aktivite Programı 
+7-8 gün önce 
+• Serangium erginlerinin çiftleşme ve yumurta bırakması için 
+fleksiglas hücrelerde 24 saat süreyle tutulur 
+1-4 gün önce 
+• Çıkan larvalara beyazsinek yumurta, larva ve pupası ile bulaşık ilave 
+besinler verilir 
+0 
+• Cam plakalar hazırlanır ve ilaçlama ekipmanının kalibrasyonu 
+yapılır 
+• Cam plakalar ilaçlanır 
+• İlaçlanan yüzeyle hücreler oluşturulur ve larvalar yerleştirilir 
+• Her bir hücredeki larvalara, 2 cm çapındaki yaprak diskinde 
+(ilaçlanmamış) bulunan beyazsinek yumurta, larva ve pupası besin 
+olarak verilir 
++ 1 -pupa 
+dönemine kadar 
+• Larvalar pupa olana kadar her bir hücredeki larvalara, 2 cm 
+çapındaki yaprak diskinde (ilaçlanmamış) bulunan beyazsinek yumurta, 
+larva ve pupası besin olarak verilir 
+• Larvanın canlılığı kontrol edilir 
+• Çıkış yapanlar yetiştirme kaplarına alınır 
++ Yaklaşık 12.-
+18. gün (%90 
+çıkış yapmış 
+ergin) 
+• Çıkış yapanların cinsiyet oranı belirlenir 
+• Çiftleşme kavanozlarına alınır 
++ 19.-27. günler 
+günler 
+• Dişiler yumurtlama hücrelerine tek tek alınır 
+• İki günde bir besin bulunan yeni yapraklar hücrelere konulur 
++ 29.-37.günler 
+• Yumurta sayıları kaydedilir 
+• İki günde bir besin bulunan yeni yapraklar hücrelere konulur 
++ 33. günü takip 
+eden günler 
+• Yumurta açılımı kontrol edilir 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+29
+LİTERATÜR 
+Abbott, W.S.,1925. A method of computing the effectiveness of an insecticide. J. Econ. Entomol. 18: 265-267. 
+Al-Zyoud, F., Tort, N., Sengonca, C., 2005a. Influence of host plant species of Bemisia tabaci (Genn.) (Hom., 
+Aleyrodidae) on some of the biological and ecological characteristics of the entomophagous Serangium 
+parcesetosum Sicard (Col., Coccinellidae). J Pest Sci., 78: 25–30. 
+Al-Zyoud, F., Blaeser, P., Sengonca, C., 2005b Investigations on the biology and prey consumption of the 
+predator Serangium parcesetosum Sicard (Coleoptera: Coccinellidae) by feeding on Trialeurodes 
+vaporariorum Westwood (Homoptera: Aleyrodidae) as prey. Journal of Plant Diseases and Protection 112 
+(5), 485–496. 
+Al-Zyoud, F., Tort, N., Sengonca, C., 2005c. Influence of leaf portion and plant species on the egg-laying 
+behaviour of the predatory ladybird Serangium parcesetosum Sicard (Col., Coccinellidae) in the presence 
+of a natural enemy. J Pest Sci., 78: 167-174. 
+Brun. J. 1985. Coccinella septempunctata L. (Coccinellidae, Coleoptera), In standart methods to test the side 
+effects of pesticides on natural enemies of insects and mites. IOBC/WPRS Working Group “Pesticides 
+and Beneficial Organisms” 229-230. Beneficial Organisms. EPPO Bulletin 15(2) 214-255. 
+Candolfi, M.P., S. Blümel, R. Forster, F.M. Bakker, C. Grimm, S.A. Hassan, U. Heimbach, M.A. Mead-Briggs, 
+B. Reber, R. Schmuck, H. Vogt, 2000. Guidelines to evaulate side-effects of plant protection products ton 
+on-target arthropods. IOBC, BART and EPPO Joint Initiative, (IOBC/WPRS), Germany, 45-56. 
+Legaspi J.C., Legaspi B.C., Meagher R.L., Ciomperlik M.A., 1996. Evaluation of Serangium parcesetosum 
+(Col., Coccinellidae) as a biological control agent of the silverleaf whitefly (Hom., Aleyrodidae). Environ 
+Entomol 25:1421–1427. 
+Schmuck, R.,M.P. Candolfi, R. Cleiner, M. Mead-Briggs, M. Moll, F. Kemmetwer, D. Jans, A. Waltersdorfer 
+and H. Wilhelmy, 2000. A laboratory test system for assessing effect of plant protection product on the 
+plant dwelling insect Coccinella septempunctata L. (Coccinellidae, Coleoptera).Guidelines to evaluate 
+side-effects of plant protection products to non-target arthropods.OILB, WPRS / SROP.,45-56p. 
+Sengonca, C., Al-Zyoud, F., Blaeser, P., 2005. Prey consumption by larval and adult ladybird Serangium 
+parcesetosum of the cotton whitefly, Bemisia tabaci at two different temperatures. J Pest Sci.,  78: 179–
+186. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+30
+TARLA KOŞULLARINDA PESTİSİTLERİN  
+Anagyrus pseudococci (Girault) (Hymenoptera:Encyrtidae)’YE KARŞI  
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1.GİRİŞ  
+Anagyrus pseudococci (Girault) (Hymenoptera: Encyrtidae) özellikle turunçgil ve bağ 
+alanlarındaki zararlı unlubitler üzerinde etkili yaygın olarak bulunan bir parazitoittir. A. 
+pseudococci, Planococcus ficus (Signoret), üzerinde yumurtadan ergine 14, 28 ve 34 ºC’ de 
+sırasıyla yaklaşık 79, 17 ve 11 günde geçer (Daane ve ark., 2004; Güleç ve ark., 2007). A. 
+pseudococci’nin, P. citri (Risso) üzerinde gelişme süresi ise 28 ºC’de yaklaşık 13 gün, ergin 
+ömrü de yaklaşık 15 gündür (Çalışır ve ark, 2005). A. pseudococci’ nin turunçgil unlubit 
+popülasyonunu %36 oranında parazitleyebildiği belirtilmektedir (Anonim, 1997).  
+2. MATERYAL VE METOT  
+2.1. Denenecek pestisit ve kontrol  
+2.1.1. Denenecek pestisitin  
+Ticari adı:  
+Firması:  
+Etkili madde adı ve oranı:  
+Şarj no:  
+Önerilen doz (g-ml/l):  
+Önerilen kültür bitkisi:  
+Kullanılan su miktarı:  
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l):  
+2.1.2. Kontrol:  
+2.1.3. Standart toksik madde:  
+Ticari adı:  
+Firması:  
+Etkili madde adı ve oranı:  
+Şarj no:  
+Son kullanma tarihi:  
+Depolama şartları:  
+Kullanılan su miktarı:  
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l):  
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/l):  
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi  
+Anagyrus 
+pseudococci 
+(Girault) 
+(Hymenoptera: 
+Encyrtidae)  
+Biyolojik dönemi ve yaşı  
+Ergin dönem (karışık)  
+Eşey  
+Erkek ve dişi karışık  
+Alındığı yer  
+Doğal popülasyon  
+Konukçusu  
+Planococcus citri (Risso) 3. dönem nimfleri  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+31
+2.3. Deneme alanının oluşturulması  
+Denemeler, 5 yaş ve üzeri Turunçgil bahçesinde (portakal, mandarin veya tercihen altıntop) 
+yürütülecektir. Deneme tesadüf blokları deneme deseninde üç karakterli (pestisit, standart 
+toksik madde ve kontrol) ve 4 tekerrürlü olarak düzenlenir. Her bir parsel en az 9 ağaç (3*3) 
+tan oluşmalıdır. Parseller arası en az 3’er ağaç emniyet şeridi olarak bırakılmalıdır.  
+2.4. Deneme koşulları  
+Deneme sadece tarla koşullarında yapılır. Unlubit ve parazitoit (Anagyrus pseudococci) 
+varlığı homojen ve yeterli olmalıdır. Deneme portakal veya mandarin meyvelerinin fındık, 
+altıntop meyvelerinin ise ceviz büyüklüğüne geldiği dönem ve sonraki günlerde yürütülür.  
+2.4.1.Ön Sayım  
+Denemeye başlamadan önce, Unlu bit için deneme alanında 20 ağaç incelenir. Her ağaçta en 
+az 50 meyve incelenerek, bulaşık meyve oranı belirlenir. Denemeye başlamak için unlu bit 
+meyvelerindeki bulaşıklığın en az %20 olması gerekmektedir.  
+Denemeye başlamak için bir diğer ön koşul ise unlubitlerin, A. pseudococci tarafından en az 
+%20 parazitlenmiş olmasıdır. Parazitlenme oranını belirlemek için deneme alanından seçilen 
+20 ağaçtan tesadüfi olarak toplanan en az 500 unlubit bireyi ile bulaşık meyveler laboratuvara 
+getirilerek, parazitoit çıkarma kutularına alınır. 28 ºC’ ve %65 orantılı nem koşullarında 21 
+günlük bekleme süresi sonuna kadar çıkan A. pseudococci bireyleri sayılarak parazitlenme 
+oranı belirlenir.  
+2.5 Pestisitlerin uygulanması  
+2.5.1. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel (kısmi 
+dal) ilaçlamaya uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği doğrudan 
+etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme verdisi, ilerleme 
+hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, ruhsatlı zirai mücadele alet-
+makinesi ve ilaçlama başlıklarının ticari adı ile birlikte kaydedilmelidir. 
+2.5.2. Uygulama şekli  
+Uygulama bitki koruma ürününün özelliğine bağlı olarak ağacın tamamı veya kısmi dal 
+şeklinde yapılır. 
+2.5.3. Uygulama zamanı ve sayısı  
+Uygulamalar, unlubit ve parazitoit yoğunluğu için belirtilen koşullar sağlandığı zaman yapılır. 
+Uygulamalarda kullanılan ilaçlama aletinin özellikleri ve kullanma şekli verilmelidir.  
+2.5.4.Test Edilecek Pestisit:  
+Pestisit, turunçgillerde tavsiye edilen en yüksek dozda uygulanır. Uygulama sayısı 
+etiketindeki tavsiyeye göre yapılır. Uygulama sayısı, tarihi ve kullanılan su miktarı kaydedilir.  
+2.5.5.Kontrol:  
+Belirlenen parsele sadece su uygulanır.  
+2.5.6. Standart Toksik Madde:  
+Denemenin amacına bağlı olarak standart toksik madde, fungisit, akarisit veya insektisit 
+olabilir. 
+Uygulamada pestisitlerin bilinmeyen herhangi bir etkisi görüldüğünde kaydedilmelidir. 
+Ayrıca deneme süresince mümkün olduğunca deneme harici uygulamalardan kaçınılmalıdır. 
+Eğer başka bitki koruma ürünü uygulanmışsa, bu uygulamalarla ilgili bilgiler verilmelidir. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+32
+3. SAYIM VE DEĞERLENDİRME  
+Değerlendirme için pestisit uygulamasından 7, 14 ve 21.  gün sonra, her tekerrürden en az 50 
+adet unlubitle bulaşık meyvelerden toplanarak, içinde kurutma kâğıdı bulunan naylon 
+torbalara konarak buz kutusu içerisinde laboratuvara getirilir. Unlubit bireyleri sayılarak 
+parazitoit çıkarma kutularına alınır. Daha sonra çıkan A. pseudococci bireyleri sayılarak % 
+parazitleme belirlenir.  
+Uygulama sonrası yapılan sayımlarda, kontroldeki ve standart toksik madde parsellerinde % 
+parazitlenme oranları karşılaştırılır. Standart toksik maddenin uygulandığı parselde 
+parazitlenme oranı en az %75 azalmış olmalıdır. Bu kritere ulaşılmadığı takdirde deneme 
+tekrarlanmalıdır. 
+Denemenin değerlendirmesi, son sayımda belirlenen % parazitleme oranı üzerinden 
+Henderson Tilton fomülüne göre hesaplanarak etkinlik belirlenir ve Çizelge 2’ye göre 
+değerlendirilir. 
+Henderson –Tilton Formülü 
+       İlaçlıda uygulama sonrası canlı sayısı X Kontrolde uygulama öncesi canlı sayısı 
+Etki (%)=(1- ------------------------------------------------------------------------------------------------------) X 100 
+        İlaçlıda uygulama öncesi canlı sayısı X Kontrolde uygulama sonrası canlı sayısı 
+Çizelge 2. Pestisitleri değerlendirmek için kullanılan sınıf değerleri  
+Tarla Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+0-50 
+Zararsız veya az zararlı 
+M 
+51-75 
+Orta derecede zararlı 
+T 
+> 75 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı tarlada yapılan yan etki 
+çalışmalarında %50’nin üzerinde değer elde edilmesi durumunda Bitki Koruma Ürünü faydalılara 
+zararlı olarak kabul edilir.  
+LİTERATÜR  
+Abbott, W.S.,1925. A method of computing the effectiveness of an insecticide. J. Econ. Entomol. 18: 265-267.  
+Anonim, 1997. Turunçgil Bahçelerinde Entegre Mücadele Teknik Talimatı. TAGEM, Ankara. 
+Boller E. F., H. Vogt, P. Ternes & C. Malavolta 2006. working document on selectivity of pesticides. Internal 
+Newsletter issued by the Publication Commission for the IOBC/wprs Council and Executive Committee 
+ISSUE Nr. 40. 
+Çalışır, S., Kılınçer, A.N., Kaydan, M. B., Ülgentürk, S., 2005. Anagyrus pseudococci (Girault) (Hymenoptera: 
+Encyrtidae)’nin Farklı Yaştaki Planococcus citri (Risso) (Hemiptera: Pseudococcidae) Üzerindeki Bazı 
+Biyolojik Özellikleri. Tarım Bilimleri Dergisi.  11 (4) 434-441  
+Daane, K. M., Malakar-Kuenen, R. D., and Walton, V.M., 2004. Temperature-dependent development of 
+Anagyrus pseudococci (Hymenoptera: Encyrtidae) as a parasitoid of the vine mealybug, Planococcus 
+ficus (Homoptera: Pseudococcidae). Biological Control 31, 123–132. 
+Güleç G., Kilinçer, A. N., Kaydan, M.B., Ulgenturk, S., 2007. Some biological interactions between the 
+parasitoid Anagyrus pseudococci (Girault) (Hymenoptera: Encyrtidae) and its host Planococcus ficus 
+(Signoret) (Hemiptera: Coccoidea:Pseudococcidae). J Pest Sci. 80:43–49.. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+33
+TARLA KOŞULLARINDA PESTİSİTLERİN  
+PREDATÖR Chilocorus bipustulatus (Coleoptera: Coccinellidae)’A KARŞI  
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1.GİRİŞ  
+Turunçgilde ekonomik olarak zarar veren birçok hastalık ve zararlı vardır. Bu etmenler içinde 
+yer alan kabuklubitler turunçgildeki bitki koruma sorunlarının en önemlileri arasında yer alır. 
+Kırmızı kabuklubit, Aonidiella aurantii (Maskell) ve Sarı kabuklubit, A. citrina (Coquillett) 
+(Hemiptera: Diaspididae) turunçgilde zararlı olan en önemli kabuklubit türlerindendir. Bu 
+türlerin popülasyon yoğunlukları bölgelere göre değişiklik göstermektedir. Doğu Akdeniz 
+Bölgesi’nde hâkim tür A. aurantii, diğer bölgelerde ise A. citrina’dır. Aynı zamanda 
+ülkemizde turunçgil bahçelerinde bu zararlıların birçok etkin predatörleri vardır. Bunlar 
+arasında en etkili olan Coccinellidae familyasına bağlı türlerdir. Chilocorus bipustulatus (L), 
+Rhyzobius lophantae (Blaisdell), Cybocephalus fodori minor E.-Y. bu kabuklubitlerle 
+beslenmektedirler. Bunlardan en etkili olan tür ise C. bipustulatus’tur. 
+2. MATERYAL VE METOT  
+2.1. Denenecek pestisit ve kontrol  
+2.1.1. Denenecek pestisitin  
+Ticari adı:  
+Firması:  
+Etkili madde adı ve oranı:  
+Şarj no:  
+Önerilen doz (g-ml/da veya g-ml/l):  
+Önerilen kültür bitkisi:  
+Kullanılan su miktarı ve pH’sı:  
+Kullanılan etkili madde miktarı (Kullanılan su içindeki toplam etkili madde miktarı g-ml/l) :  
+2.1.2. Kontrol (Su): Parsele uygulanan ilaca katılacak su miktarının aynı miktarının 
+kontrolde de kullanılması 
+2.1.3. Standart toksik madde:  
+Ticari adı:  
+Firması:  
+Etkili madde adı ve oranı:  
+Şarj no:  
+Son kullanma tarihi:  
+Depolama şartları:  
+Kullanılan su miktarı:  
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l):  
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/l):  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+34
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi  
+Chilocorus bipustulatus (Coleoptera: Coccinellidae) 
+Biyolojik dönemi ve yaşı  
+Larva, pupa ve ergin  
+Eşey  
+Erkek-dişi karışık  
+Alındığı yer  
+Doğal popülasyon  
+Avı  
+Kabuklu bitler (Diaspididae)  
+2.3. Deneme alanının oluşturulması  
+Deneme yeterli sayıda seçilen aynı çeşit turunçgil ağacında yapılır. Tüm tekerrürler toprak, 
+yükseklik, meyil, yaş, dikim aralığı, kültürel işlemler bakımından homojen koşullara sahip 
+turunçgil bahçesinin içinde yer almalıdır. 
+Deneme, tesadüf blokları deneme desenine göre 3 karakterli (deneme ilacı, karşılaştırma ilacı 
+ve kontrol), en az 3x3= 9 adet ağaç bir parsel olacak şekilde ve 4 tekerrürlü olarak 
+kurulmalıdır. Parseller arasında 3’er ağaç emniyet şeridi olarak bırakılmalıdır. Ağaçlar en az 
+8-10 yaşında olmalıdır.  
+Zararlının Örneklenmesi: Her parselin merkezindeki 4 ağacın her birinin gövdesinin dört 
+yönünden 1 cm2’lik alanlarda, ağaçların dört yönünden yaklaşık 20 cm uzunluğundaki 4 taze 
+sürgünde 10 cm2’de, yine ağaçların dört yönünden ve merkezden olmak üzere toplam 20 
+yaprakta 4 cm2’de; meyve döneminde dört yönden ve merkezden olmak üzere 5 meyvede 4 
+cm2 de canlı, ölü ve parazitli bireyler sayılacaktır. 
+2.4. Faydalının Örneklenmesi  
+2.4.1. Gözle İnceleme Metodu:  
+Parseldeki bütün ağaçlar faydalılar yönünden incelenecektir. Örnekleme için her parselde 
+ağaç başına 3 dakika süre ile gövde ve ana dallarda yapılacak gözle kontrolde görülen ergin, 
+larva ve pupalar kaydedilecektir. 
+2.4.2. Darbe Metodu:  
+Bir Japon şemsiyesi (1x1 m2) kullanarak aynı parseldeki her ağacın dallarına bir sopa ile iki 
+kez darbe uygulanacaktır. Uygulanan darbe sonunda her ağaçta görülen faydalının ergin ve 
+larvaları kaydedildikten sonra ağaca tekrar salınacaktır. Denemenin başlayabilmesi için gözle 
+incelemede faydalının başlangıç yoğunluğunun en az 0,5 faydalı/dakika/ağaç, darbe 
+yönteminde ise en az 0,5 faydalı/darbe olması gerekmektedir. 
+2.5. Deneme Koşulları  
+Deneme tarla koşullarında yapılır. Pestisit uygulamaları sırasında deneme alanında bitkinin 
+fenolojik dönemi, pestisitin dozu, sıcaklık, nem, rüzgâr hızı kaydedilir. Rüzgâr hızı 3 m/s’den 
+daha yüksek olmamalıdır.  
+2.6. Pestisitlerin Uygulanması  
+2.6.1. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel (kısmi 
+dal) ilaçlamaya uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği doğrudan 
+etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme verdisi, ilerleme 
+hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, ruhsatlı zirai mücadele alet-
+makinesi ve ilaçlama başlıklarının ticari adı ile birlikte kaydedilmelidir 
+2.6.2. Uygulama Şekli  
+Uygulama bitki koruma ürününün özelliğine bağlı olarak ağacın tamamı veya kısmi dal 
+şeklinde yapılır. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+35
+2.6.3. Uygulama Zamanı ve Sayısı  
+2.6.3.1. Test Edilecek Pestisit:  
+Pestisitin uygulama sayısı, turunçgildeki zararlı etmenin yeterli yoğunluğu ve mücadele 
+dönemi esas alınarak belirlenir. Deneme açılan alanda parazitoit bulunması durumunda 
+parazitlenmenin % 50’nin üzerinde olduğu bahçelerde deneme açılamaz  
+2.6.3.2. Kontrol:  
+Belirlenen parsele sadece su uygulanır.  
+2.6.3.3. Standart toksik madde:  
+Denemenin amacına bağlı olarak standart toksik madde, fungisit, akarisit veya insektisit 
+olabilir. Standart toksik uygulamalarında ölüm oranının %75 den fazla olması gerekir.  
+3. SAYIM VE DEĞERLENDİRME  
+3.1. Uygulama Öncesi Örnekleme  
+Gerek gözle inceleme gerekse de darbe yöntemiyle saptanan predatör C. bipustulatus 
+yoğunluğu ilk uygulamadan 1-2 gün önce sayılır ve çizelge halinde verilir. 
+3.2. Uygulama Sonrası Örneklemeler  
+Uygulamadan 1, 7, 14 ve 28 gün sonra her parselde bütün ağaçlarda ağaç başına 3 dakika süre 
+ile gövde ve ana dallarda yapılacak gözle kontrolde görülen faydalıya ait ergin, larva ve 
+pupalar kaydedilecektir Ayrıca aynı parseldeki tüm ağaçlarda dallara iki kez darbe 
+uygulanacaktır. Uygulanan darbe sonunda japon şemsiyesine düşen faydalının ergin ve 
+larvaları kaydedildikten sonra ağaca tekrar salınacaktır. Ayrıca zararlı popülasyonu da 
+yukarıda belirtilen zararlı örnekleme metoda göre sayılacaktır.  
+Su uygulanan kontrolde, uygulamadan 1, 7, 14 ve 28 gün sonra, gözle kontrol ve darbe 
+yöntemiyle saptanan ortalama birey sayısındaki ölüm oranı %30’u geçmemelidir. Bu 
+kriterlere ulaşılamadığı takdirde deneme tekrarlanmalıdır. Test edilen ve standart toksik 
+maddenin predatör C. bipustulatus yoğunluklarına olan etki oranları Henderson–Tilton (1955) 
+formüllerine göre hesaplanarak Çizelge3’e göre değerlendirilir. Farklı uygulamalarda ve 
+kontrolde predatör C. bipustulatus yoğunlukları ayrı grafikler olarak verilmelidir. 
+Henderson –Tilton Formülü 
+       İlaçlıda uygulama sonrası canlı sayısı X Kontrolde uygulama öncesi canlı sayısı 
+Etki (%)=(1- ------------------------------------------------------------------------------------------------------) X 100 
+        İlaçlıda uygulama öncesi canlı sayısı X Kontrolde uygulama sonrası canlı sayısı 
+Çizelge 3. Pestisitleri değerlendirmek için kullanılan sınıf değerleri 
+Tarla Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+0-50 
+Zararsız veya az zararlı 
+M 
+51-75 
+Orta derecede zararlı 
+T 
+> 75 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı tarlada yapılan yan etki 
+çalışmalarında %50’nin üzerinde değer elde edilmesi durumunda Bitki Koruma Ürünü faydalılara 
+zararlı olarak kabul edilir.  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+36
+LİTERATÜR  
+Boller E. F., H. Vogt, P. Ternes & C. Malavolta 2006. working document on selectivity of pesticides. Internal 
+Newsletter issued by the Publication Commission for the IOBC/wprs Council and Executive Committee 
+ISSUE Nr. 40. 
+Henderson, C. F. and E. W. Tilton, 1955. Tests with acaricides against the brow wheat mite, J. Econ. Entomol. 
+48.157-161. 
+Karaca I., ve N. Uygun, 1992. Kırmızı kabuklubit, Aonidiella aurantii (Maskell) (Homoptera: Diaspididae)’nin 
+değişik turunçgil tür ve çeşitleri üzerinde popülasyon gelişmesi. Türkiye 2. Entomoloji Kongresi 
+Bildirileri, 28-31 Ocak, 9-19 
+Mc Murty, J. A., E.G. Jonson, G.T. Scriven 1969. Experiments to determine effects of release of Stethorus 
+picipes on the Avocado brown mite. J. Econ. Entomol. 62, 1216-1221. 
+Uygun N., M.R. Ulusoy. İ. Karaca ve S.Satar 2010. Meyve ve Bağ Zararlıları. Çukurova Üniversitesi Yayınları. 
+Özyurt Matbaacılık, Adana, s 347  
+Yiğit, A., R. Canhilal ve U. Ekmekci 2003. Seasonal Population Fluactuations of Serangium parcesetosum 
+(Coleoptera: Coccinellidae), a Predatory of Citrus Whitefly, Dialeurodes citri (Homoptera: Aleyrodidae) 
+in Turkey’s Eastern Mediterranean Citrus Groves. Environ. Entomol. 32 (5):1105 -1114. 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+37
+TARLA KOŞULLARINDA PESTİSİTLERİN 
+PREDATÖR AKARLAR (Acarina: Phytoseiidae)’A KARŞI 
+YAN ETKİ DENEME METODU 
+(Rev.22.02.2019) 
+1.GİRİŞ  
+Bu metot, bağ ve meyve bahçelerinde görülen Phytoseiidae familyasına bağlı türlere 
+pestisitlerin 
+etkilerinin 
+belirlenmesi 
+amacıyla 
+hazırlanmıştır. 
+Ülkemizde 
+turunçgil 
+bahçelerinde predatör akar türleri arasında Euseius scutalis (Athias-Henriot), Paraseiulus 
+subsoleiger Waistein; Phytoseiulus spp.; Amblyseius stipulatus Athias-Henriot, Typhlodromus 
+athiasae; şeftali bahçelerinde T. athiasae, Euseius finlandicus Oudemans ve bağ alanlarında 
+Typhlodromus perbibus Wainstein & Arutunjan, Paraseiulus plumifer (Ribaga), E. 
+finlandicus  yaygın ve yoğun olarak bulunmuşlardır.  
+2. MATERYAL VE METOT  
+2.1. Denenecek pestisit ve kontrol  
+2.1.1. Denenecek pestisitin  
+Ticari adı:  
+Firması:  
+Etkili madde adı ve oranı:  
+Şarj no:  
+Önerilen doz (g-ml/da veya g-ml/l):  
+Önerilen kültür bitkisi:  
+Kullanılan su miktarı:  
+Kullanılan etkili madde miktarı (Kullanılan su içindeki toplam etkili madde miktarı g-ml/l) :  
+2.1.2. Kontrol (Su) 
+2.1.3. Standart toksik madde:  
+Ticari adı:  
+Firması:  
+Etkili madde adı ve oranı:  
+Şarj no:  
+Son kullanma tarihi:  
+Depolama şartları:  
+Kullanılan su miktarı:  
+Kullanılan etkili madde miktarı (Kullanılan sudaki toplam etkili madde miktarı g-ml/l):  
+Ruhsatlı olduğu kültür bitkisi ve önerilen doz (g-ml/l): 
+2.2. Denemeye alınacak faydalı organizmanın 
+Taksonomisi  
+Predatör akarlar (Acarina: Phytoseiidae)  
+Biyolojik dönemi ve yaşı  
+Tüm dönemler  
+Eşey  
+Erkek-dişi karışık  
+Alındığı yer  
+Doğal popülasyon  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+38
+2.3. Deneme alanının oluşturulması  
+Deneme deseni, EPPO (1999) esas alınarak kullanılmalıdır.  
+Deneme için aynı çeşitlerden yeterli sayıda ağaç/bağ omcası gerekmektedir. Tüm tekerrürler 
+toprak, yükseklik, meyil, yaş, kültürel işlemler ve terbiye sistemi bakımından homojen 
+koşullara sahip tarımsal ünitenin (bağ, meyve bahçesi) içinde yer almalıdır.  
+Meyve bahçelerinde her uygulama için tavsiye edilen tekerrür (parsel) sayısı en az 5 ve her 
+tekerrür sıra üzerinde en az 8 bodur ağaçtan oluşturulmalıdır. Turunçgiller için ağaç sayısı en 
+az 5 olmalıdır. Ağaçlar en az 3-4 yaşında olmalı ve mevsim boyunca yoğun yaprak alanı 
+oluşturmalıdır.  
+Bağda her uygulama için tavsiye edilen tekerrür (parsel) sayısı en az 5 olmalıdır ve her 
+tekerrür en az 15 omcadan oluşmalıdır. Toksik standart uygulaması için en az 2 parsel 
+yeterlidir. 
+ Örnekleme için bağda her parselden en az 8 omca; meyve bahçeleri için en az 6 bodur veya 3 
+ayrı ağaç seçilmelidir. Her uygulama için tekerrür başına en az 25 (her uygulama için toplam 
+125) yaprak toplanmalıdır. Örneklemelerde hata sayısını azaltmak için, toplanan yapraklarda 
+ortalama en az 30 adet (ortalama 0,24 adet/yaprak) akar bulunmalıdır. Kontrolde örnek başına 
+akar sayısı 30’dan az olursa örneklenecek yaprak sayısı arttırılmalıdır. Pestisitlerin 
+sürüklenme etkisini en aza düşürmek için, parseller arasında en az bir ilaçsız sıra bırakılması 
+önerilir.  
+2.4. Deneme koşulları  
+Deneme tarla koşullarında yapılır. Pestisit uygulamalarının sırasında deneme alanında bitkinin 
+fenolojik dönemi, pestisitin dozu, sıcaklık, nem, rüzgâr hızı kaydedilir. Rüzgâr hızı 3m/s’den 
+daha yüksek olmamalıdır.  
+2.5 Pestisitlerin uygulanması  
+2.5.1. Kullanılan Aletin Tipi  
+İlaçlamalar bütün deneme alanında tekdüze dağılım sağlayacak veya doğru bölgesel (kısmi 
+dal) ilaçlamaya uygun bir alet veya makine ile yapılmalıdır. Biyolojik etkinliği doğrudan 
+etkileyebilecek faktörler (çalışma basıncı, meme tipi, meme delik çapı, meme verdisi, ilerleme 
+hızı vb.) amaca uygun olarak seçilmelidir. Seçilen bu faktörler, ruhsatlı zirai mücadele alet-
+makinesi ve ilaçlama başlıklarının ticari adı ile birlikte kaydedilmelidir. 
+2.5.2. Uygulama şekli  
+Uygulama bitki koruma ürününün özelliğine bağlı olarak ağacın tamamı veya kısmi dal 
+şeklinde yapılır. 
+2.5.3. Uygulama zamanı ve sayısı 
+2.5.4.Test Edilecek Pestisit:  
+Bitki koruma ürününün uygulama sayısı, ilgili kültür bitkisindeki zararlı etmenin mücadele 
+dönemi esas alınarak belirlenir.  
+2.5.5.Kontrol:  
+Denenecek her pestisit uygulaması ile birlikte su uygulanır.  
+2.5.6. Standart Toksik Madde:  
+Denenecek her pestisit uygulaması ile birlikte standart toksik uygulamaları da yapılır  
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+39
+Mevcut verilere göre toksisitesi yüksek olarak saptanan etkili madde standart toksik olarak 
+seçilebilir  
+Denemenin amacına bağlı olarak standart toksik madde fungisit, akarisit veya insektisit 
+olabilir. 
+3. SAYIM VE DEĞERLENDİRME  
+Meyve bahçeleri ve bağlarda paralel sıraların kullanıldığı durumda örnekler iç sıradan 
+başlayarak alınmalıdır. Bağdan ilk dönemlerde gövdeye yakın sürgünlerinden 1. veya 2. 
+(birinci tam olarak gelişmiş yaprak) yapraktan başlayarak, sonra salkımlara yakın sürgünlerin 
+orta kısımlarından olgunlaşma dönemine kadar yaprak örnekleri alınır. Yaprak örnekleri ayni 
+tarihte ve bağın aynı tarafından alınır. Mevsim boyunca görülen lateral (yan) sürgünlerinden 
+yaprak alınmaz.  
+Meyve bahçelerinde erken mevsimde örneklemeler, ağaçların orta kısımlarındaki çiçek 
+demetlerinden yaprak örnekleri veya çiçek demetlerinin kendileri alınarak yapılmalıdır. 
+Sonraki dönemlerde yapraklar tesadüfi olarak ağaçların farklı yönlerinden ve sürgünlerin orta 
+kısımlarından alınıp, bir kap içinde laboratuvara getirilir ve stereo mikroskop altında sayılır. 
+Sayımlarda predatör akarların tüm hareketli dönemleri kaydedilir. Tüm parsellerden, 
+denemeye başlamadan önceki ön sayımda ve denemenin sonunda (28. günde) toplanan 
+bireylerin, tür bazında tanısı yapılır. 
+Örneklemeler uygulama sayısına bağlı olarak değişmektedir:  
+3.1.Uygulama öncesi örnekleme  
+Predatör akar yoğunluğu ilk uygulamadan 5 gün önceye kadar sayılır.  
+3.2.Uygulama sonrası örneklemeler  
+3.2.1.Üç uygulamaya kadar: Her uygulamadan önce ve önceki uygulamadan sonra 14 günü 
+geçmeyecek şekilde örneklemeler yapılır.  
+3.2.2.Üç uygulamadan fazla: İki uygulama ara ile (örneğin: 5.ve 7 uygulamalar ) önceki 
+uygulamadan sonra 14 günü geçmeyecek şekilde örneklemeler yapılır.  
+3.2.3 Son uygulama sonrası yapılan örneklemeler  
+Son uygulamadan 7 gün sonra  
+Son uygulamadan 28 gün sonra  
+İlaç uygulamaların etki oranları kontrole göre %50’den fazla fark gösterdiği takdirde, 
+örneklemelere 4 hafta ara ile devam edilir.  
+Standart toksik uygulamalarında ölüm oranının %75’den fazla olması gerekmektedir  
+Sonuçlar her uygulama için tarih, örnek başına akar sayısı, örnek başına yaprak sayısı ve 
+yaprak başına ortalama phytoseiid akar sayısı ve standart sapma olarak çizelgede gösterilir.  
+Test edilen ve standart toksik maddenin predatör akar yoğunluklarına olan etki oranları 
+Henderson – Tilton (1955) formülüne göre hesaplanır ve Çizelge 3’e göre değerlendirilir. 
+Farklı uygulamalarda ve kontrolde predatör akar yoğunlukları ayrı grafikler olarak 
+verilmelidir.  
+Henderson –Tilton Formülü 
+       İlaçlıda uygulama sonrası canlı sayısı X Kontrolde uygulama öncesi canlı sayısı 
+Etki (%)=(1- ------------------------------------------------------------------------------------------------------) X 100 
+        İlaçlıda uygulama öncesi canlı sayısı X Kontrolde uygulama sonrası canlı sayısı 
+T A G E M
+Pestisitlerin Faydalı Organizmalara Standart Yan Etki Deneme Metotları 
+Bitki Sağlığı Araştırmaları Daire Başkanlığı  
+40
+Çizelge 3. Pestisitleri değerlendirmek için kullanılan sınıf değerleri 
+Tarla Sınıf Değerleri 
+Sınıf değeri 
+Etki (%) 
+Zararlılık Sınıfı 
+N 
+0-50 
+Zararsız veya az zararlı 
+M 
+51-75 
+Orta derecede zararlı 
+T 
+> 75 
+Zararlı 
+*Turunçgillerde bir parazitoit, bir predatör böcek ve bir predatör akara karşı tarlada yapılan yan etki 
+çalışmalarında %50’nin üzerinde değer elde edilmesi durumunda Bitki Koruma Ürünü faydalılara 
+zararlı olarak kabul edilir.  
+LİTERATÜR  
+Boller E. F., H. Vogt, P. Ternes & C. Malavolta, 2006. Working Document on Selectivity of Pesticides. Internal 
+Newsletter issued by the Publication Commission for the IOBC/wprs Council and Executive Committee 
+ISSUE Nr. 40. 
+Blümel S., S. Aldershof, F. Bakker, B. Baier, E. Boller, K. Brown, D. Bylemans, M.P. Candolfi, B. Huber, C. 
+Linder, F. Louis, J. Müther, K.M. Nienstedt, C. Oberwalder, B. Reber, K.J. Schirra, G. Sterk, A. Ufer & 
+H. Vogt 2000. Guidance document to detect side effects of plant protection products on predatory mites 
+(Acari: Phytoseiidae) under field conditions: vineyards and orchards IOBC, BART and EPPOJoint 
+Initiative.IX + 158 pp., Gent, IOBC/wprs, ISBN: 92-9067-129-7. 
+Çobanoğlu, S., 1989, Türkiye’nin bazı turunçgil bölgelerinde tespit edilen faydalı akar (Acari, Phytoseiidae) 
+türleri. Türk. entomol. derg., 13 (3): 163-178.  
+EPPO 1999, PP1/152 (2) Guideline on design and analysis of efficacy evaluation trials. 
+Güven, B., 2008, İzmir ili şeftali bahçelerinde zararlı akar türleri ile doğal düşmanlarının belirlenmesi, 
+populasyon yoğunluklarının saptanması ve önemli avcı türe bazı pestisitlerin yan etkilerinin araştırılması. 
+Doktora tezi, 141 s. 
+Göven,  M.A., S. Çobanoğlu, B. Güven, M. Topuz, 1999. Ege Bölgesi Bağ Alanlarındaki Faydalı Akar Faunası 
+Üzerinde Araştırmalar. Türkiye 4 Biyolojik Mücadele Kongresi, 26-29 Ocak 1999, Adana , 491-501.  
+Madanlar, N., 1992, İzmir ve çevresinde turunçgil bahçelerindeki akar türlerinin durumu. Türkiye II. Entomoloji 
+Kongresi (Adana) Bildirileri, 483-493 s. 
+Henderson, C.F. and E. W. Tilton, 1955.  Tests with acaricides against the brow wheat mite, J. Econ. Entomol. 
+48:157-161. 
+T A G E M
