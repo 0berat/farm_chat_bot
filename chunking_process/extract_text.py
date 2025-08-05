@@ -14,9 +14,9 @@ def filtrele_gereksiz_satirlar(metin):
         if any([
             "Tarım ve Orman Bakanlığı" in satir,
             "T.C." in satir and "İl Müdürlüğü" in satir,
-            "Sayfa" in satir,
-            "2022" in satir,  # isteğe göre genişlet
-            "2023" in satir,
+            "Sayfa" in satir,  #kendini tekrar eden stringleri yoksayiyoruz.
+            # "2022" in satir,  
+            # "2023" in satir,
             "www." in satir,
             satir.strip() == ""
         ]):
@@ -25,9 +25,6 @@ def filtrele_gereksiz_satirlar(metin):
     return "\n".join(temiz)
 
 def temizle_metin(metin):
-    # metin = re.sub(r"\s+", " ", metin)  # gereksiz boşlukları temizle
-    # metin = re.sub(r"[^\x00-\x7F]+", " ", metin)  # ASCII dışı karakterleri kaldır
-    # metin = re.sub(r" {2,}", " ", metin)  # çift boşlukları tek yap
     return metin.strip()
 
 for filename in os.listdir(pdf_dir):
