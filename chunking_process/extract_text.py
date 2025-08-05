@@ -15,8 +15,6 @@ def filtrele_gereksiz_satirlar(metin):
             "Tarım ve Orman Bakanlığı" in satir,
             "T.C." in satir and "İl Müdürlüğü" in satir,
             "Sayfa" in satir,  #kendini tekrar eden stringleri yoksayiyoruz.
-            # "2022" in satir,  
-            # "2023" in satir,
             "www." in satir,
             satir.strip() == ""
         ]):
